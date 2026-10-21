@@ -33,9 +33,9 @@ Windows and Linux builds are planned.
 - **Speak to it and hear it.** Hold Talk and say your move or your question. Speech and
   transcription run on your Mac, so your recordings stay on it.
 
-The first time the voice is used, Solrac downloads its speech and transcription models (about
-830 MB) from the PNX Studios CDN. Until they are ready, OpenRouter's models read and hear for
-it.
+The first time the voice is used, Solrac's voice module downloads its speech and
+transcription models (about 830 MB) from the PNX Studios CDN. Until they are ready,
+OpenRouter's models read and hear for it.
 
 ## Open-source modules
 
@@ -46,16 +46,18 @@ Solrac at their own engine.
 | Module | What it is | Licence | Source |
 | --- | --- | --- | --- |
 | **cb2026** | The chess engine and its rules library (`cb2026-chess`): legal moves, SAN, FEN and PGN. Solrac starts it as a separate program, and it can also run on another machine | `MIT OR Apache-2.0` | [cjus/chessengine](https://github.com/cjus/chessengine) (not public yet) |
-| **Chess Node Protocol (CNP)** | The protocol Solrac and its modules speak: JSON-RPC 2.0 over stdin/stdout, or WebSocket over TLS on a network. Its specification, the `cnp` Rust crate and conformance tests | Specification CC-BY-4.0, code `MIT OR Apache-2.0` | [cjus/chess-node-protocol](https://github.com/cjus/chess-node-protocol) (to be created) |
-| **solrac-voice** | Speech and transcription on your computer, through [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Our code `MIT OR Apache-2.0`; the program as a whole GPL-3.0, because it links eSpeak NG | [cjus/solrac-voice](https://github.com/cjus/solrac-voice) (to be created) |
+| **Chess Node Protocol (CNP)** | The protocol Solrac and its modules speak: JSON-RPC 2.0 over stdin/stdout, or WebSocket over TLS on a network. Its specification, the `cnp` Rust crate and conformance tests | Specification CC-BY-4.0, code `MIT OR Apache-2.0` | [cjus/chess-node-protocol](https://github.com/cjus/chess-node-protocol) (not public yet) |
+| **solrac-voice** | Speech and transcription on your computer, through [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Our code `MIT OR Apache-2.0`; the program as a whole GPL-3.0, because it links eSpeak NG | [cjus/solrac-voice](https://github.com/cjus/solrac-voice) (not public yet) |
 
-Each release will name the exact commit of each module it ships, and include each module's
-licence.
+Solrac's own build holds no GPL code: the modules are separate programs, which Solrac starts
+and talks to. Each release will name the exact commit of each module it ships, and include
+each module's licence and the notices of the open-source libraries Solrac is built with
+(`THIRD-PARTY-NOTICES.txt`).
 
 ## Models and third-party notices
 
-The voice's models are downloaded unchanged from sherpa-onnx's releases, and keep their own
-licences:
+The voice's models are sherpa-onnx's releases, unchanged, which `solrac-voice` downloads.
+They keep their own licences:
 
 | Model | What it does | Licence |
 | --- | --- | --- |
