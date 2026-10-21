@@ -6,6 +6,8 @@ with an AI that sees the board, by typing or by voice.
 
 Solrac is experimental and in active development.
 
+![Solrac's title screen while it loads: a white robot facing the front under the lettering "Solrac Chess AI", blue liquid glowing in the tubes of its neck, and the loading indicator at the bottom](images/title-screen.jpg)
+
 ## Download
 
 There is no release yet. Each release will be listed here, with a link to download it from
