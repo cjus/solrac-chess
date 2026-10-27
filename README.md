@@ -14,8 +14,8 @@ Found a problem, have a concern, or want to comment? Post it on the
 
 ## Open-source modules
 
-Solrac itself is closed source. Its engine and voice are separate open-source programs that
-it talks to through an open protocol:
+For now, Solrac itself is closed source. Its engine and voice are separate open-source
+programs that it talks to through an open protocol:
 
 - [cjus/chessengine](https://github.com/cjus/chessengine): the chess engine and its rules
   library. `MIT OR Apache-2.0`.
