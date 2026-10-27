@@ -7,6 +7,11 @@ coming to the Mac first, then Windows and Linux.
 
 [![Solrac, a white ceramic robot with glowing cyan eyes, cyan-lit ear units and glowing liquid in the tubes of its neck, against a dark slate backdrop](images/solrac.jpg)](https://solrac-chess.com)
 
+## Issues and feedback
+
+Found a problem, have a concern, or want to comment? Post it on the
+[issues page](https://github.com/cjus/solrac-chess/issues).
+
 ## Open-source modules
 
 Solrac itself is closed source. Its engine and voice are separate open-source programs that
