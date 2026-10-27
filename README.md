@@ -35,5 +35,5 @@ and NVIDIA's [Parakeet TDT 0.6B v2](https://huggingface.co/nvidia/parakeet-tdt-0
 
 ## Licence
 
-Solrac is © 2026 Carlos Justiniano. All rights reserved. The open-source modules and the
+Solrac is © 2026 PNXStudios LLC. All rights reserved. The open-source modules and the
 models are under their own licences, given above.
