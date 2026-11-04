@@ -7,6 +7,17 @@ coming to the Mac first, then Windows and Linux.
 
 [![Solrac, a white ceramic robot with glowing cyan eyes, cyan-lit ear units and glowing liquid in the tubes of its neck, against a dark slate backdrop](images/solrac.jpg)](https://solrac-chess.com)
 
+## Releases
+
+Each release is a notarised disk image on the PNX Studios CDN, named
+`Solrac-<version>-macos-arm64.dmg` under `https://cdn.pnxstudios.com/solrac/releases/<version>/`.
+`latest.json` there names the newest. Apple Silicon Macs only. Check a download against its
+SHA-256 with `shasum -a 256 <file>`.
+
+| Version | Released | Needs | Download | SHA-256 |
+|---|---|---|---|---|
+| 1.0.0 | 2026-11-04 | macOS 12.3 or later | [Solrac-1.0.0-macos-arm64.dmg](https://cdn.pnxstudios.com/solrac/releases/1.0.0/Solrac-1.0.0-macos-arm64.dmg) (94 MB) | `aaae2f8e502f013c994cb1fd107e8ae8fbb3a69e63d634be37435e3884bbeedf` |
+
 ## Issues and feedback
 
 Found a problem, have a concern, or want to comment? Post it on the
