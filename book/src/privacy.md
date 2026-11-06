@@ -19,4 +19,4 @@ Also:
 - **Your games library** (chessdb) is a file on your Mac. Nothing uploads it.
 - **Engines**: cb2026 runs on your Mac, and talks to the network only if *you* pair an engine
   on another computer, and then only to that engine, encrypted.
-- Solrac has no advertising and no analytics.
+- Solrac sends no analytics or crash reports.
