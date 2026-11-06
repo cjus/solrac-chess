@@ -25,7 +25,7 @@ programs that it talks to through an open protocol:
   your computer. Our code `MIT OR Apache-2.0`; the program as a whole GPL-3.0, because it
   links eSpeak NG.
 
-These repositories aren't public yet.
+These repositories are public.
 
 The voice downloads [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)'s releases of
 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache-2.0), with
