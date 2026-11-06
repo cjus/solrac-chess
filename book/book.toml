@@ -1,0 +1,12 @@
+[book]
+title = "Solrac Chess AI: the guide"
+description = "How to set up and use Solrac, the AI chess coach you talk to, starting with playing on an engine on another computer."
+authors = ["PNXStudios LLC"]
+language = "en"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/cjus/solrac-chess"
+edit-url-template = "https://github.com/cjus/solrac-chess/edit/main/book/{path}"
+# Where GitHub Pages serves it, so the 404 page finds the book's styles.
+site-url = "/solrac-chess/"
