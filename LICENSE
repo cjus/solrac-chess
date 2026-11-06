@@ -1,0 +1,10 @@
+Copyright (c) 2026 PNXStudios LLC. All rights reserved.
+
+This repository holds the guide to Solrac Chess AI (the book in book/), its pictures, and the
+README. It is published so that people can read it. No licence to copy, modify, redistribute
+or reuse it, or to make derivative works from it, is granted, other than reading it on the
+web and linking to it.
+
+The open-source programs that Solrac works with, and the models it downloads, are under their
+own licences, named in the guide's "Licence, credits and notices" chapter. Solrac itself is
+closed source.

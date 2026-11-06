@@ -2,7 +2,7 @@
 
 ## Solrac's licence
 
-Solrac is © 2026 PNXStudios LLC, all rights reserved. One licence key works on three Macs
+Solrac and this guide are © 2026 PNXStudios LLC, all rights reserved. One licence key works on three Macs
 (see [Getting started](getting-started.md)).
 
 ## Open modules
