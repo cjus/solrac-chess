@@ -4,18 +4,18 @@
 
 # Start here
 
+- [Getting started](getting-started.md)
+- [Playing](playing.md)
+- [Learning from the engine](learning.md)
+- [The chat and voice](chat-and-voice.md)
+- [Your games, imports and backups](games.md)
 - [Playing on an engine on another computer](network-play.md)
+- [Keyboard shortcuts](shortcuts.md)
+- [Preferences, tab by tab](preferences.md)
+- [Troubleshooting and FAQ](faq.md)
 
-# Coming next
+# About
 
-- [Getting started]()
-- [Playing]()
-- [Learning from the engine]()
-- [The chat and voice]()
-- [Your games, imports and backups]()
-- [Preferences, tab by tab]()
-- [Keyboard shortcuts]()
-- [Troubleshooting and FAQ]()
-- [Privacy]()
-- [Licence, credits and notices]()
-- [Release notes]()
+- [Privacy](privacy.md)
+- [Licence, credits and notices](licence-and-credits.md)
+- [Release notes](release-notes.md)

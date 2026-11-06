@@ -9,4 +9,4 @@ src = "src"
 git-repository-url = "https://github.com/cjus/solrac-chess"
 edit-url-template = "https://github.com/cjus/solrac-chess/edit/main/book/{path}"
 # Where GitHub Pages serves it, so the 404 page finds the book's styles.
-site-url = "/solrac-chess/"
+site-url = "/"

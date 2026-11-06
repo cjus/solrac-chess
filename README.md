@@ -7,6 +7,11 @@ coming to the Mac first, then Windows and Linux.
 
 [![Solrac, a white ceramic robot with glowing cyan eyes, cyan-lit ear units and glowing liquid in the tubes of its neck, against a dark slate backdrop](images/solrac.jpg)](https://solrac-chess.com)
 
+## The guide
+
+How to set up and use Solrac, including playing on an engine on another computer:
+**[guide.solrac-chess.com](https://guide.solrac-chess.com/)**.
+
 ## Issues and feedback
 
 Found a problem, have a concern, or want to comment? Post it on the
@@ -35,5 +40,5 @@ and NVIDIA's [Parakeet TDT 0.6B v2](https://huggingface.co/nvidia/parakeet-tdt-0
 
 ## Licence
 
-Solrac is © 2026 PNXStudios LLC. All rights reserved. The open-source modules and the
+Solrac and this guide are © 2026 PNXStudios LLC. All rights reserved (see `LICENSE`). The open-source modules and the
 models are under their own licences, given above.

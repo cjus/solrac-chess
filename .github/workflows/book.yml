@@ -1,4 +1,4 @@
-# Publishes the guide (book/) on GitHub Pages, at https://cjus.github.io/solrac-chess/, when main
+# Publishes the guide (book/) on GitHub Pages, at https://guide.solrac-chess.com/, when main
 # changes it. Pages' source must be set to "GitHub Actions" once (Settings -> Pages).
 # Runs only on main, never on a pull request, to spend few Actions minutes.
 name: Book
