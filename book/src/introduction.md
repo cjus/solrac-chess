@@ -1,5 +1,9 @@
 # Welcome
 
+![Solrac's board with the side panel, the move list and the chat strip](images/board-panel.png)
+
+*Pictures are made by Solrac's own renderer; the engine figures, games and chat lines in them are samples.*
+
 Solrac is an AI chess coach you talk to, on a photorealistic 3D board. You play against
 cb2026, a chess engine, and learn from it: it can review your games, show how it weighs a
 position, and answer questions through the chat, by typing or by voice.

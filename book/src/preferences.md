@@ -5,6 +5,8 @@ The tabs, in order:
 
 ## Game
 
+![Preferences, the Game tab](images/preferences-game.png)
+
 - **New Games**: the time control a new game starts with.
 - **cb2026**: the strength against you (a level, or a rating), the **think time per move**
   (when a clock is running, the game's clock decides how long it thinks), **Allow takebacks
@@ -12,12 +14,16 @@ The tabs, in order:
 
 ## Avatar
 
+![Preferences, the Avatar tab](images/preferences-avatar.png)
+
 - **Avatar**: Male, Female or Neutral Solrac, shown at the top of the panel and on the title
   screen. **Animate Solrac** turns the animation off, leaving stills.
 - **Voice**: the voice that reads replies, a Man/Woman switch, **Play sample**, and **Read
   replies aloud**: Always, In voice mode (when Hands-free is on) or Never.
 
 ## Display
+
+![Preferences, the Display tab](images/preferences-display.png)
 
 - **Text**: size from 90 to 150 % (also ⌘+ and ⌘−).
 - **Board**: **Chess set** (Classic wood, Ebony + maple, Jade + Verde, Nero + Greige) and
@@ -31,10 +37,14 @@ The tabs, in order:
 
 ## Lights
 
+![Preferences, the Lights tab](images/preferences-lights.png)
+
 Sliders for the sun and fill light, and for the board's **Shine** and **Reflection** and the
 pieces' **Clearcoat**. **Reset** puts the light back as it starts.
 
 ## Sounds
+
+![Preferences, the Sounds tab](images/preferences-sounds.png)
 
 **Pieces landing** and **Clock button** can each be switched off, with one **Volume** for both.
 The chat's voice has its own volume.

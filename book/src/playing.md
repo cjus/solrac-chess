@@ -1,5 +1,7 @@
 # Playing
 
+![The board at the start of a game](images/board-start.png)
+
 ## Moving
 
 Click a piece, then a square, or drag it. Reachable squares light up, and a move that isn't

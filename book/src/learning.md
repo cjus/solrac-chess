@@ -24,6 +24,8 @@ on from any position, including a variation, as any kind of game.
 
 ## Engine Thinking
 
+![The Engine Thinking window over the board](images/engine-thinking.png)
+
 Press ⌘E for the evaluation bar, depth, nodes, speed, hash use and the line the engine
 expects. While you play against it, it gives no hints on your turn.
 

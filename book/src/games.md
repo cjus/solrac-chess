@@ -2,6 +2,8 @@
 
 ## The library
 
+![The Games window listing saved games](images/games-library.png)
+
 Every game is saved after each move. **File → Games Library** (⌘L) lists them, newest first,
 with search. For each you can Replay, Carry on, Save PGN, Copy PGN or Delete.
 
