@@ -18,7 +18,9 @@ The tabs, in order:
 
 - **Avatar**: Male, Female or Neutral Solrac, shown at the top of the panel and on the title
   screen. **Animate Solrac** turns the animation off, leaving stills. **Show captions**
-  turns off the captions above the strip.
+  turns off the captions above the strip. **Explanation pace** sets how long Solrac pauses
+  between sentences and after each move it shows on the board: Standard, Relaxed (the
+  default) or Slow. The voice's own speed doesn't change.
 - **Voice**: the voice that reads replies, a Man/Woman switch, **Play sample**, and **Read
   replies aloud**: Always, In voice mode (when Hands-free is on) or Never.
 
