@@ -17,7 +17,8 @@ The tabs, in order:
 ![Preferences, the Avatar tab](images/preferences-avatar.png)
 
 - **Avatar**: Male, Female or Neutral Solrac, shown at the top of the panel and on the title
-  screen. **Animate Solrac** turns the animation off, leaving stills.
+  screen. **Animate Solrac** turns the animation off, leaving stills. **Show captions**
+  turns off the captions above the strip.
 - **Voice**: the voice that reads replies, a Man/Woman switch, **Play sample**, and **Read
   replies aloud**: Always, In voice mode (when Hands-free is on) or Never.
 
