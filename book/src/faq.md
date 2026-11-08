@@ -23,4 +23,10 @@ computer's engine, see [that chapter's troubleshooting](network-play.md#when-som
 **The board looks too busy or slow.** Lower the sliders in Preferences → Lights or choose a
 plain Environment in Display.
 
+**How do I tell you what I think?** Choose **Help → Feedback…**, pick Bug, Idea, Praise or
+Other, write your message and press Send. You need to be signed in to your solrac-chess.com
+account (Preferences → Account); the dialog offers Sign In if you aren't. Solrac sends the
+message with its version and your operating system's name, and nothing else about your
+computer. If you are offline, your words stay in the box so you can send them later.
+
 **Something else.** Post it on the [issues page](https://github.com/cjus/solrac-chess/issues).
