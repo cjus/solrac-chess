@@ -32,11 +32,19 @@ position and analysis the question needs. Your games library and settings stay o
   Always, In voice mode (when Hands-free is on) or Never, and the voice.
 - The voice models (about 830 MB) download once.
 
+## Detail
+
+Solrac can explain with a lot or a little. **Preferences → Avatar → Explanation → Detail**
+chooses how much it says and how many moves it plays on the board: **Short** is the point in
+a sentence with one short line of a few moves, **Normal** (the default) a few sentences with a
+line or two, and **Verbose** everything, with up to four lines of a dozen moves. The change
+applies from your next message.
+
 ## Pace
 
 When Solrac explains a line, it pauses between sentences and after each move it plays on the
 board, so you can take in what was said and what moved before the next point. If it is too
-fast or too slow for you, change **Explanation pace** in Preferences → Avatar: Standard,
+fast or too slow for you, change **Pace** under Explanation in Preferences → Avatar: Standard,
 Relaxed (the default) or Slow. It changes the pauses, not the voice's speed.
 
 ## Captions
