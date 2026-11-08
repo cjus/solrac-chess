@@ -41,6 +41,8 @@ at a time, with each word lighting up as it is spoken, so the text matches what 
 words already said are white, the word being said is teal and the rest are dimmed. A long
 sentence is split at a comma so a caption is never a wall of text.
 
+The computer's moves are captioned and read aloud too ("Black plays knight f6.") while **Read aloud** is on, whether you type or talk. When two engines play each other they are only announced if you talk to Solrac.
+
 Captions show even when **Read aloud** is off, or you can't hear: the sentences come at
 reading speed instead. When Solrac describes a line, the moves and arrows on the board arrive
 as the words that name them are spoken. While it thinks, a short note takes the caption's
