@@ -48,5 +48,8 @@ reading speed instead. When Solrac describes a line, the moves and arrows on the
 as the words that name them are spoken. While it thinks, a short note takes the caption's
 place, and so does an error.
 
+To turn captions off, clear **Show captions** in Preferences → Avatar. Those notes and errors
+still appear; the book button still has everything Solrac said.
+
 The strip itself is for you: the field takes the whole width between Solrac's avatar and the
 buttons. The book button opens the whole conversation.
