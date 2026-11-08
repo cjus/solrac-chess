@@ -17,7 +17,9 @@ The tabs, in order:
 ![Preferences, the Avatar tab](images/preferences-avatar.png)
 
 - **Avatar**: Male, Female or Neutral Solrac, shown at the top of the panel and on the title
-  screen. **Animate Solrac** turns the animation off, leaving stills. **Show captions**
+  screen. The picture beside the choices is the one the panel shows, moving as it does, so
+  you see the Solrac you chose at once; while this tab is open, Solrac stays awake.
+  **Animate Solrac** turns the animation off, leaving stills. **Show captions**
   turns off the captions above the strip. **Explanation pace** sets how long Solrac pauses
   between sentences and after each move it shows on the board: Standard, Relaxed (the
   default) or Slow. The voice's own speed doesn't change.
