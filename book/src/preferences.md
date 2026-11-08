@@ -33,7 +33,30 @@ The tabs, in order:
 - **Chess Clock**: which side of the board it stands on.
 - **Panels**: opacity of the smoked glass (50–100 %), the colour of the panels, and the colour
   of the Engine Mind view's panels. A colour too bright for the text is dimmed to the same hue.
-- **Environment**: the room behind the board, plain or a painted sky.
+- **Environment**: what is behind the board: plain grey, a painted sky, or your own
+  [room paint](#room-paint).
+
+### Room paint
+
+![The board in front of a plastered wall painted plaster grey](images/room-paint.png)
+
+Choose **Room paint** in the Environment list and a plastered wall appears behind the board,
+in a paint you choose, as if the board stood in a room you had painted. A **Room** section
+opens under the list:
+
+- **Wall paint**: the colour swatch opens a colour picker, and eight ready-made paints sit
+  below it (plaster grey, gallery white, warm greige, sage, dusty blue, terracotta, deep
+  navy and charcoal). **Reset** brings back plaster grey.
+- **Finish**: **Smooth**, **Fine stucco** or **Rough**, how coarse the plaster is.
+- **New texture**: plasters the wall again. The plaster is made fresh from a number (shown
+  beside the button), so no two walls are quite alike, and this gives you another.
+- **Colour in the light**: how much of the wall's colour reaches the board and the shine of
+  the pieces. At 0 % the board is lit as it is with no environment; higher, a red wall gives
+  a warm cast, as a real room would.
+
+The wall is a backdrop, like the skies: it turns as you turn the board and stays put when you
+zoom, so it never slides past the board. A very dark paint hides the plaster's grain, since
+the grain is a change in brightness.
 
 ## Lights
 
