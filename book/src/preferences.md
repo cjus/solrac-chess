@@ -37,7 +37,7 @@ The tabs, in order:
   **Show board coordinates** (a–h, 1–8).
 - **Move List**: **Figurines for the pieces** (♞f3 instead of Nf3) and the layout, table or
   book.
-- **Chess Clock**: which side of the board it stands on.
+- **Chess Clock**: which side of the board it stands on, and the [colour of its shell](#clock-colour).
 - **Panels**: opacity of the smoked glass (50–100 %), the colour of the panels, and the colour
   of the Engine Mind view's panels. A colour too bright for the text is dimmed to the same hue.
 - **Environment**: what is behind the board: plain grey, a painted sky, or your own
@@ -64,6 +64,16 @@ opens under the list:
 The wall is a backdrop, like the skies: it turns as you turn the board and stays put when you
 zoom, so it never slides past the board. A very dark paint hides the plaster's grain, since
 the grain is a change in brightness.
+
+### Clock colour
+
+![The chess clock with a cognac shell beside the board](images/clock-colour.png)
+
+The **Chess clock** section at the foot of the Display tab sets the colour of the clock's
+shell, chosen the same way as the wall's paint: the colour swatch opens a colour picker, and
+ready-made colours sit below it. They are the original black, cognac and burgundy. **Reset**
+brings back the original black. Only the shell changes: the display, lamps and buttons keep
+their own colours. Solrac remembers the colour.
 
 ## Lights
 
