@@ -22,7 +22,7 @@ r board-panel --moves "$italian" --panel
 r engine-thinking --moves "$italian" --thinking
 r games-library --games
 r backups --backups
-for tab in game avatar display lights sounds; do
+for tab in game chess-set avatar display lights sounds; do
   r "preferences-$tab" --panel --preferences "$tab"
 done
 # The Network, Licence and Account tabs need a real network, licence and account, which the
