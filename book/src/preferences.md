@@ -12,6 +12,15 @@ The tabs, in order:
   (when a clock is running, the game's clock decides how long it thinks), **Allow takebacks
   against cb2026**, and **Let cb2026 ponder on your time** (greyed out if your cb2026 can't).
 
+## Chess Set
+
+![Preferences, the Chess Set tab](images/preferences-chess-set.png)
+
+- **Board**: **Chess set** (Classic wood, Ebony + maple, Jade + Verde, Nero + Greige) and
+  **Show board coordinates** (a–h, 1–8).
+- **Chess clock**: the colour of the clock's shell, from the picker or a swatch: Original
+  black, Cognac or Burgundy. **Reset** brings the black back.
+
 ## Avatar
 
 ![Preferences, the Avatar tab](images/preferences-avatar.png)
@@ -33,8 +42,6 @@ The tabs, in order:
 ![Preferences, the Display tab](images/preferences-display.png)
 
 - **Text**: size from 90 to 150 % (also ⌘+ and ⌘−).
-- **Board**: **Chess set** (Classic wood, Ebony + maple, Jade + Verde, Nero + Greige) and
-  **Show board coordinates** (a–h, 1–8).
 - **Move List**: **Figurines for the pieces** (♞f3 instead of Nf3) and the layout, table or
   book.
 - **Chess Clock**: which side of the board it stands on, and the [colour of its shell](#clock-colour).
