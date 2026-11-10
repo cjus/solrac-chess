@@ -17,12 +17,15 @@ The tabs, in order:
 ![Preferences, the Chess Set tab](images/preferences-chess-set.png)
 
 - **Board**: the **Main view**, **3D board** (the photographic board and pieces) or **2D board**
-  (a large flat board, see [Playing](playing.md)), the **Chess set** (Classic wood, Ebony + maple,
-  Jade + Verde, Nero + Greige; the 3D board's) and **Show board coordinates** (a–h, 1–8; both
-  boards).
-- **Chess clock**: the colour of the clock's shell, from the picker or a swatch: Original
-  black, Cognac or Burgundy. **Reset** brings the black back. It is the 3D board's clock, so it
-  isn't shown while the 2D board is chosen.
+  (a large flat board, see [Playing](playing.md)), and **Show board coordinates** (a–h, 1–8; both
+  boards). With the 3D board, the **Chess set** (Classic wood, Ebony + maple, Jade + Verde, Nero +
+  Greige). With the 2D board, its **Background** (Midnight, Graphite, Slate, Forest, Wine or Sand).
+- **Chess clock** (3D board only): the colour of the clock's shell, from the picker or a swatch:
+  Original black, Cognac or Burgundy. **Reset** brings the black back.
+
+Preferences shows only what applies to the board you are using: with the 2D board there is no
+Lights tab, no Environment under Display, no chess set or clock, and the View and Settings menus
+leave out the camera, Environment and Clock Position.
 
 ## Avatar
 

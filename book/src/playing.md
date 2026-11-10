@@ -45,8 +45,9 @@ drawn, which is much lighter on the computer.
 
 You move as on the 3D board: click a piece and then a square, or drag it. The squares it can go
 to are marked, and the last move and a king in check are lit. Arrows and rings from the chat
-are drawn on it, the files and ranks are written in the squares at its edge (**Show board
-coordinates**, or the labels button in the panel, or `L`), and the pieces are drawn again for
+are drawn on it, and a border round it carries the files and ranks (**Show board
+coordinates**, or the labels button in the panel, or `L`). Choose its **Background** in
+Preferences → Chess Set. The pieces are drawn again for
 the size of the board whenever you resize the window. **Flip** (the panel's button, the menu or
 `F`) turns the board over to the other side at once. The game's clocks are in the panel; there
 is no 3D clock on the flat board.
