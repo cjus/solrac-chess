@@ -35,6 +35,23 @@ clock stands on the left or right of the board.
 - **Pondering**: cb2026 thinks during your turn about the reply it expects.
 - **Game → Restart cb2026** restarts the engine if it ever misbehaves.
 
+## The 2D board
+
+Prefer a flat board, or is your computer slow? **Preferences → Chess Set → Main view → 2D board**
+fills the window with a large flat board instead of the 3D one, and nothing of the 3D scene is
+drawn, which is much lighter on the computer.
+
+![The 2D board](images/board-2d.png)
+
+You move as on the 3D board: click a piece and then a square, or drag it. The squares it can go
+to are marked, and the last move and a king in check are lit. Arrows and rings from the chat
+are drawn on it, and a border round it carries the files and ranks (**Show board
+coordinates**, or the labels button in the panel, or `L`). Choose its **Background** in
+Preferences → Chess Set. The pieces are drawn again for
+the size of the board whenever you resize the window. **Flip** (the panel's button, the menu or
+`F`) turns the board over to the other side at once. The game's clocks are in the panel; there
+is no 3D clock on the flat board.
+
 ## The camera
 
 Locked at the start; the **Lock** button unlocks it. Then right-drag or scroll with two
