@@ -16,10 +16,13 @@ The tabs, in order:
 
 ![Preferences, the Chess Set tab](images/preferences-chess-set.png)
 
-- **Board**: **Chess set** (Classic wood, Ebony + maple, Jade + Verde, Nero + Greige) and
-  **Show board coordinates** (a–h, 1–8).
+- **Board**: the **Main view**, **3D board** (the photographic board and pieces) or **2D board**
+  (a large flat board, see [Playing](playing.md)), the **Chess set** (Classic wood, Ebony + maple,
+  Jade + Verde, Nero + Greige; the 3D board's) and **Show board coordinates** (a–h, 1–8; both
+  boards).
 - **Chess clock**: the colour of the clock's shell, from the picker or a swatch: Original
-  black, Cognac or Burgundy. **Reset** brings the black back.
+  black, Cognac or Burgundy. **Reset** brings the black back. It is the 3D board's clock, so it
+  isn't shown while the 2D board is chosen.
 
 ## Avatar
 
