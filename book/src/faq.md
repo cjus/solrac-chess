@@ -21,6 +21,12 @@ computer's engine, see [that chapter's troubleshooting](network-play.md#when-som
 `Documents/Solrac`.
 
 **The board looks too busy or slow.** Lower the sliders in Preferences → Lights or choose a
-plain Environment in Display.
+plain Environment in Display. On a computer with a weak graphics card, choose the 2D board
+(Preferences → Chess Set), or Quality Low (Preferences → Display); see
+[On a slower computer](slow-computers.md).
+
+**Solrac doesn't read the replies aloud.** On a computer with a weak graphics card, Automatic
+reads only in the Rail's Voice mode. Choose **Always** under Preferences → Avatar → Voice →
+Read replies aloud, or use the speaker button in the Rail.
 
 **Something else.** Post it on the [issues page](https://github.com/cjus/solrac-chess/issues).

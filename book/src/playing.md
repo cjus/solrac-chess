@@ -39,7 +39,8 @@ clock stands on the left or right of the board.
 
 Prefer a flat board, or is your computer slow? **Preferences → Chess Set → Main view → 2D board**
 fills the window with a large flat board instead of the 3D one, and nothing of the 3D scene is
-drawn, which is much lighter on the computer.
+drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
+a computer with a weak graphics card (see [On a slower computer](slow-computers.md)).
 
 ![The 2D board](images/board-2d.png)
 
