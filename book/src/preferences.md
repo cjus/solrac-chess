@@ -16,8 +16,9 @@ The tabs, in order:
 
 ![Preferences, the Chess Set tab](images/preferences-chess-set.png)
 
-- **Board**: the **Main view**, **3D board** (the photographic board and pieces) or **2D board**
-  (a large flat board, see [Playing](playing.md)), and **Show board coordinates** (a–h, 1–8; both
+- **Board**: the **Main view**, **Automatic**, **3D board** (the photographic board and pieces)
+  or **2D board** (a large flat board, see [Playing](playing.md)); Automatic shows the 2D board
+  on a computer with a weak graphics card ([On a slower computer](slow-computers.md)). And **Show board coordinates** (a–h, 1–8; both
   boards). With the 3D board, the **Chess set** (Classic wood, Ebony + maple, Jade + Verde, Nero +
   Greige). With the 2D board, its **Background** (Midnight, Graphite, Slate, Forest, Wine or Sand).
 - **Chess clock** (3D board only): the colour of the clock's shell, from the picker or a swatch:
@@ -41,13 +42,17 @@ leave out the camera, Environment and Clock Position.
   shows on the board: Standard, Relaxed (the default) or Slow. The voice's own speed doesn't
   change.
 - **Voice**: the voice that reads replies, a Man/Woman switch, **Play sample**, and **Read
-  replies aloud**: Always, In voice mode (when Hands-free is on) or Never.
+  replies aloud**: Automatic (everything, except on a computer with a weak graphics card, where
+  it is In voice mode only), Always, In voice mode (when Hands-free is on) or Never.
 
 ## Display
 
 ![Preferences, the Display tab](images/preferences-display.png)
 
 - **Text**: size from 90 to 150 % (also ⌘+ and ⌘−).
+- **Graphics**: **Quality**, **Automatic**, **High** or **Low**: Low leaves out the shadows,
+  the reflection in the board and the finishing effects, for a weak graphics card
+  ([On a slower computer](slow-computers.md)).
 - **Move List**: **Figurines for the pieces** (♞f3 instead of Nf3) and the layout, table or
   book.
 - **Chess Clock**: which side of the board it stands on, and the [colour of its shell](#clock-colour).

@@ -29,7 +29,9 @@ position and analysis the question needs. Your games library and settings stay o
   ignores Solrac's own speech, lets you speak over it, and hears an unclear move twice and
   checks it against the legal moves. It is off at each start.
 - **Read aloud**: replies are spoken on your Mac. **Preferences → Avatar → Voice** chooses
-  Always, In voice mode (when Hands-free is on) or Never, and the voice.
+  Automatic, Always, In voice mode (when Hands-free is on) or Never, and the voice. Automatic
+  reads everything, except on a computer with a weak graphics card, where it reads only in
+  voice mode ([On a slower computer](slow-computers.md)).
 - The voice models (about 830 MB) download once.
 
 ## Detail

@@ -10,6 +10,7 @@
 - [The chat and voice](chat-and-voice.md)
 - [Your games, imports and backups](games.md)
 - [Playing on an engine on another computer](network-play.md)
+- [On a slower computer](slow-computers.md)
 - [Keyboard shortcuts](shortcuts.md)
 - [Preferences, tab by tab](preferences.md)
 - [Troubleshooting and FAQ](faq.md)
