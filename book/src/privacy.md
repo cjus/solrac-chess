@@ -5,7 +5,7 @@ four places, and only these:
 
 | What | Who it talks to | What it receives |
 | --- | --- | --- |
-| **Licence** (release builds) | PNXStudios' licence service | Your licence key, this Mac's name and a fingerprint of it, the macOS and Solrac versions. It answers with a certificate, and may say a newer Solrac exists. |
+| **Licence** (release builds) | PNXStudios' licence service | Your licence key, this machine's name and a fingerprint of it, the operating system's and Solrac's versions. It answers with a certificate, and may say a newer Solrac exists. |
 | **Account** | PNXStudios' sign-in and the account database | What signing in to solrac-chess.com needs. Accounts and licences are kept apart. |
 | **Chat** | PNXStudios' relay to a language model | What you type or say (as text), the position and analysis a question needs, and which licence seat or account pays for it. |
 | **Downloads** | PNXStudios' download server | The voice models, once, and the page for a new release, which you open yourself. |

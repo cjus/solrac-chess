@@ -1,12 +1,12 @@
 # Troubleshooting and FAQ
 
-**Solrac says my key is on three Macs.** Free one from the list it shows, or choose
-**Deactivate this Mac** in Preferences → Licence on the Mac you no longer use.
+**Solrac says my key is on three machines.** Free one from the list it shows, or choose
+**Deactivate this machine** in Preferences → Licence on the machine you no longer use.
 
 **It says it can't reach the licence service.** Solrac keeps working on its saved
 certificate for 30 days; connect to the internet once and it renews.
 
-**The chat doesn't answer.** It needs a licence seat on this Mac or a signed-in account, and
+**The chat doesn't answer.** It needs a licence seat on this machine or a signed-in account, and
 tokens to pay with. Check Preferences → Account.
 
 **It doesn't hear me.** Hold Space or Talk and speak for at least a moment. macOS must have

@@ -17,7 +17,7 @@ you ask for, change settings and explain what cb2026 finds.
 ## What it costs and what is sent
 
 The chat is answered by a language model reached through PNXStudios' service, paid with your
-**tokens**, so there is no key to set up. It works with a licence seat on this Mac or with a
+**tokens**, so there is no key to set up. It works with a licence seat on this machine or with a
 signed-in account. What is sent to get a reply is what you type or say (as text) and the
 position and analysis the question needs. Your games library and settings stay on your Mac.
 
