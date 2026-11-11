@@ -3,7 +3,8 @@
 ## Your licence
 
 After you buy Solrac, an email brings a **licence key**. The first time you start Solrac it
-asks for the key; type it in and Solrac activates this machine.
+asks for the key; type it in and Solrac activates this machine. On Linux, see
+[Solrac on Linux](linux.md) for downloading and starting it.
 
 - One key works on **three machines**. To free a seat, open **Preferences → Licence**, find the
   machine in the list and free it, or choose **Deactivate this machine** on the machine itself.
