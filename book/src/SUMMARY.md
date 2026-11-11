@@ -5,6 +5,7 @@
 # Start here
 
 - [Getting started](getting-started.md)
+- [Solrac on Linux](linux.md)
 - [Playing](playing.md)
 - [Learning from the engine](learning.md)
 - [The chat and voice](chat-and-voice.md)
