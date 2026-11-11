@@ -114,7 +114,7 @@ on another computer](network-play.md).
 
 ## Licence
 
-Shows this Mac's licence, the Macs using your key, **Deactivate this Mac**, and a note with
+Shows this machine's licence, the machines using your key, **Deactivate this machine**, and a note with
 **Download** when a newer Solrac exists. See [Getting started](getting-started.md).
 
 ## Account

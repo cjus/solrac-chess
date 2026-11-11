@@ -3,14 +3,15 @@
 ## Your licence
 
 After you buy Solrac, an email brings a **licence key**. The first time you start Solrac it
-asks for the key; type it in and Solrac activates this Mac.
+asks for the key; type it in and Solrac activates this machine.
 
-- One key works on **three Macs**. To free a seat, open **Preferences → Licence**, find the
-  Mac in the list and free it, or choose **Deactivate this Mac** on the Mac itself.
-- Activation gives Solrac a signed certificate that it checks on your Mac, without the
+- One key works on **three machines**. To free a seat, open **Preferences → Licence**, find the
+  machine in the list and free it, or choose **Deactivate this machine** on the machine itself.
+- Activation gives Solrac a signed certificate that it checks on your machine, without the
   internet, each time it starts. It renews itself about weekly and stays valid for 30 days if
   the licence service can't be reached, so a short time offline never stops you playing.
-- The key is kept in the macOS Keychain.
+- The key is kept in the system's secure storage: the macOS Keychain on a Mac, and a file only
+  you can read in Solrac's data folder on Linux.
 
 ## Your account
 
