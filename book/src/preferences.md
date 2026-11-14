@@ -164,16 +164,23 @@ The same two switches are in the menu bar, under **Settings → Sound**.
 
 ## Licence
 
-Shows this machine's licence, the machines using your key, **Deactivate this machine**, and a note with
-**Download** when a newer Solrac exists. In the Mac App Store version this tab has **Buy tokens**
+![Preferences, the Licence tab](images/preferences-licence.png)
+
+Shows that this machine is activated, with the end of the key, a note with **Download** when a
+newer Solrac exists, and **Deactivate this machine**. The list of machines that use your key shows
+only when you try a fourth one. In the Mac App Store version this tab has **Buy tokens**
 and **Restore Purchases** instead, and no Download. See [Getting started](getting-started.md).
 
 ## Network
+
+![Preferences, the Network tab](images/preferences-network.png)
 
 Pair engines on other computers and choose where games are played. See
 [Playing on another computer](network-play.md).
 
 ## Account
+
+![Preferences, the Account tab](images/preferences-account.png)
 
 **Sign In** opens your browser; **Sign Out** and **Check again** are here too. If your account
 is suspended or deleted, this tab says so. See [Getting started](getting-started.md).
