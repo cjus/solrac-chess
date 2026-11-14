@@ -8,6 +8,7 @@
 - [Solrac on Linux](linux.md)
 - [Playing](playing.md)
 - [Learning from the engine](learning.md)
+- [Chess puzzles](puzzles.md)
 - [The chat and voice](chat-and-voice.md)
 - [Your games, imports and backups](games.md)
 - [Playing on an engine on another computer](network-play.md)
