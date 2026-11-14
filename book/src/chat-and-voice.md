@@ -43,6 +43,8 @@ kept.
 
 ## Chat history
 
+![The Chat history window](images/chat-history.png)
+
 **History** opens a window you can move and resize. Your words are on the right and Solrac's
 on the left, with small italic lines for what it did (a move played, a setting changed).
 Errors are in a warning colour. In Hands-free, speech that wasn't meant for Solrac, such as you

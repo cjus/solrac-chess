@@ -50,6 +50,8 @@ stops working, **Restart Solrac** or **Try again** starts it again; the game car
 
 ## Engine Mind
 
+![Engine Mind: the best lines as a tree of small boards](images/engine-mind.png)
+
 Press ⌘↑ or choose **View → Engine Mind** to see a full-window 3D view of Solrac's best lines,
 drawn as a tree of small boards with the main line (PV1) in front and the next two lines
 behind. The toolbar has:

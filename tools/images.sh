@@ -29,5 +29,15 @@ for tab in game chess-set avatar display lights sounds; do
   r "preferences-$tab" --panel --preferences "$tab"
 done
 r preferences-chess-set-2d --panel --preferences chess-set --main-view 2d --background forest
-# The Network, Licence and Account tabs need a real network, licence and account, which the
-# headless renderer has none of: their pictures are window screenshots.
+# The Licence, Network and Account tabs, and the windows over the board, are drawn from sample
+# data (made up: no real network, licence or account), so they are remade like the rest.
+r preferences-licence --panel --preferences licence
+r preferences-network --panel --preferences network
+r preferences-account --panel --preferences account
+r new-game --panel --new-game
+r game-over --panel --moves "e4 e5 Bc4 Nc6 Qh5 Nf6 Qxf7"
+r draw-offer --panel --draw-offer --moves "e4 e5 Nf3 Nc6"
+r promote --panel --promote --fen "4k3/1P6/8/8/8/8/8/4K3 w - - 0 1"
+r menu-file --panel --menu file
+r chat-history --panel --history
+r engine-mind --mind --moves "e4 e5 Nf3 Nc6" --mind-time 8 --mind-move 2

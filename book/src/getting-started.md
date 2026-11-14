@@ -28,8 +28,10 @@ you like, and choose **Activate**. **Lost your key?** is on the same screen.
 ![The Solrac window](images/window.png)
 
 - **The board** fills the middle. Click a piece and then a square, or drag it.
-- **The menu bar** is along the top of the window (the picture leaves it out): **Solrac** (About, Preferences, Quit), **File** (New Game,
+- **The menu bar** is along the top of the window (the next picture shows it): **Solrac** (About, Preferences, Quit), **File** (New Game,
   Copy FEN, Copy PGN, Games Library), **Game**, **View**, **Settings** and **Help**.
+
+![The menu bar, with the File menu open](images/menu-file.png)
 - **The panel** is on the right: Solrac's face, whose move it is and how the position
   looks (the bar), how long Solrac thinks per move, two rows of icon buttons (take back, draw,
   resign, move now, flip, labels, lock the camera; then copy, paste and save a game, the games

@@ -14,6 +14,8 @@ piece can make and a ring shows each capture. The last move is lit, and so is a 
 When a pawn reaches the last rank, a **Promote to** window offers **Queen**, **Rook**, **Bishop**
 and **Knight**. **Cancel** puts the pawn back so you can move something else.
 
+![The Promote to window](images/promote.png)
+
 You can't move from an earlier position. If the move list is showing an earlier move, a click on
 the board brings back the game's last move and does nothing else.
 
@@ -21,6 +23,8 @@ When a game ends in checkmate, or a pawn promotes, the camera draws in on the mo
 square and pulls back. Turning the camera yourself, or **Flip**, ends it.
 
 ## Starting a game
+
+![The New Game window](images/new-game.png)
 
 Choose **File → New Game** (⌘N, Ctrl+N on Windows and Linux). The window asks for three things,
 then **Start Game** (or press Enter) begins. **Cancel** or Esc closes it.
@@ -108,10 +112,14 @@ Solrac thinks." The same slider is in **Preferences → Game**.
   draw." and, if it declined, "Solrac declined the draw."
 - Solrac may offer you one, late in a game that is going nowhere. A **Solrac offers a draw**
   window appears with **Accept** and **Decline**. Playing a move declines it.
+
+![Solrac offers a draw](images/draw-offer.png)
 - **Resign** gives the game up. Use the buttons, or ask in the chat, which checks with you first.
 
 A game ends by checkmate, stalemate, threefold repetition, the fifty-move rule, insufficient
 material, time, resignation or an agreed draw. A **Game over** window then says how it ended, with:
+
+![The Game over window after a checkmate](images/game-over.png)
 
 - **Play again**: a new game of the same kind, with the clock chosen for new games.
 - **Analyse** and **Review**: go through the game you just played, as [Learning from the engine](learning.md)

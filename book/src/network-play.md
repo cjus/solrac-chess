@@ -60,6 +60,8 @@ open: the code works only while the pairing window is open. Run it while `--serv
 
 ### 3. In Solrac: find the engine
 
+![Preferences, the Network tab](images/preferences-network.png)
+
 On the computer you play on, open **Preferences** (⌘,) and choose the **Network** tab. Under
 **Pair a new engine**, the engines that answered a search of your network are listed under
 **Found on this network**, each with its name and address. **Search again** looks again. Click
