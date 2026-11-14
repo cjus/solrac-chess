@@ -20,15 +20,16 @@ If something goes wrong, the window says what, with **Try again**.
 
 Choose **Game → Chess Puzzles…** to open the picker over the board.
 
-- **Today's puzzle** is the same for everyone on a date.
+- **Today's puzzle** is one of Lichess's puzzles of the day, the same for everyone on a date.
 - **Practise** groups the themes: motifs (forks, pins, sacrifices…), checkmates (mate in 2,
-  back rank mate…), endgames, the phase of the game, or any theme. Each theme shows how many
+  back rank mate…), endgames, the phase of the game, openings (by family: Sicilian Defense,
+  Italian Game…), or any theme. Each theme shows how many
   puzzles it has at the difficulty you chose; a theme with too few puzzles there is left out.
 - **Difficulty** is Beginner (under 1200), Club (1200–1599), Strong (1600–1999), Expert (2000
   and up), or any. These are Lichess ratings, and they run a little different from a chess
   club's.
 
-Press **Start** and Solrac picks a random puzzle of that kind. Puzzles whose rating Lichess's
+Press **Start** and Solrac picks a random puzzle of that kind. The picker opens with your last choice. Puzzles whose rating Lichess's
 own numbers don't support are left out.
 
 ## Solving one
@@ -37,7 +38,7 @@ The puzzle is set up on the board, 2D or 3D, turned to your side. The opponent's
 plays, and then it is your turn: move as you would in a game. A right move is answered by the
 opponent. A wrong move is taken back and counted.
 
-- **Hint** names the piece to move, in red.
+- **Hint** marks the piece to move in red on the board, and says which square it is on.
 - **Show solution** plays the line out. The puzzle then counts as missed.
 - **Skip** finds another puzzle.
 - **Leave puzzles** puts your own game back on the board, exactly as you left it.
@@ -47,6 +48,6 @@ no "Game over" window or camera close-up when a puzzle ends in mate. Puzzles are
 your game library.
 
 When you finish, the card says whether it was a clean solve, and offers **Next puzzle** (the
-same theme and difficulty) or **Back to picker**. The picker keeps how many you solved and how
+same theme and difficulty), **Try again** (the same puzzle) or **Back to picker**. The picker keeps how many you solved and how
 many days in a row you solved one. A puzzle solved after a wrong move, or with the solution shown,
 doesn't count as solved.
