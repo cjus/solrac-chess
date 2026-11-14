@@ -15,24 +15,23 @@ one. Then, unless you have chosen otherwise:
   is the biggest saving: on a small Intel chip it drew about 60 frames a second where the 3D
   board managed about 12.
 - **If you choose the 3D board, Quality is Low.** Low leaves out shadows, the pieces'
-  reflection in the board, ambient occlusion, depth of field and glow, and draws the board at
-  two thirds of the window's size. Pieces still shine and the room still lights them.
+  reflection in the board, ambient occlusion, depth of field, glow and anti-aliasing (so edges
+  are rougher), and draws the board at two thirds of the window's size.
 - **Replies and moves are read aloud only in the Rail's Voice mode.** Making speech takes
   several of the processor's cores for ten seconds or more, which also slows the board.
 
 Every other computer gets the 3D board, High quality and everything read aloud, as before.
-Preferences says when Automatic has chosen for you: *Automatic is showing the 2D board: this
-graphics card is a weak one.*
+Preferences says when Automatic has chosen for you ("Automatic is showing the 2D board: this
+graphics card is a weak one").
 
 ## Choosing for yourself
 
 ![Preferences, the Chess Set tab: Main view set to Automatic](images/preferences-chess-set.png)
 
-- **Main view** (Preferences → Chess Set): **Automatic**, **3D board** or **2D board**. See
-  [the 2D board](playing.md#the-2d-board).
+- **Main view** (Preferences → Chess Set): **Automatic**, **3D board** or **2D board**. See [the 2D board](playing.md#the-2d-board).
 - **Quality** (Preferences → Display → Graphics): **Automatic**, **High** or **Low**.
-- **Read replies aloud** (Preferences → Avatar → Voice, and the speaker button in the
-  Rail): **Automatic**, **Always**, **In voice mode** or **Never**. Choosing **Always** reads
+- **Read replies aloud** (Preferences → Avatar → Voice, and the speaker button in the Rail):
+  **Automatic**, **Always**, **In voice mode** or **Never**. Choosing **Always** reads
   everything, as on a stronger computer; the speaker button turns reading on or off for now.
 
 Your choice is kept, and beats Automatic from then on, even if you later change computers.
@@ -43,6 +42,7 @@ Choosing **Automatic** again hands the decision back.
 - Close other programs, especially browsers: Solrac shares the processor with them.
 - Use a smaller window: the board is drawn at the window's size.
 - Turn **Show captions** off (Preferences → Avatar) if you don't read them.
-- Set **Cores for Solrac** (Preferences → Game) to 1, so the engine leaves room for the board.
+- Keep **Cores for Solrac** (Preferences → Game) at 1, which is where it starts, so Solrac's
+  engine leaves room for the board. If you raised it, lower it again.
 - A remote desktop is much slower than the computer's own screen, because it has no graphics
   chip. Run Solrac from the computer's own display.

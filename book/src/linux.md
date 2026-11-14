@@ -74,9 +74,10 @@ session works. Back up your games as on any system
 
 ## Updates
 
-Solrac for Linux doesn't yet tell you when a newer version exists. Look at the Download page
-now and then; a new version is a new file, and the old one keeps working until you replace it.
-Check the new file's signature as above.
+When a newer Solrac exists, a card appears over the panel with **Download** and **Not now**,
+once for each new version; it can take up to a week to show. **Download** opens the download
+page, and Solrac never replaces itself. A new version is a new file, and the old one keeps
+working until you replace it. Check the new file's signature as above.
 
 ## Taking Solrac off
 
