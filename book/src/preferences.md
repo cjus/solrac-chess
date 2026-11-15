@@ -47,20 +47,21 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   (a large flat board, see [Playing a game](playing.md)). A line under it says what Automatic
   chose. Automatic picks the 2D board on a computer with a weak graphics card; see
   [On a slower computer](slow-computers.md).
-- **Chess set** (3D board): **Classic wood**, **Ebony + maple**, **Jade + Verde**, **Nero +
-  Greige**, **1852 Staunton** or **Medieval pewter**. The first four are the same pieces in
-  different woods and stones. **1852 Staunton** is the heavier Staunton of the first sets, with
-  its carved knight, in boxwood and ebony. **Medieval pewter** is a set of cast figures (a king
-  with his sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower)
-  in polished and blackened pewter. Hover a set to read what it is made of.
-- **Pieces** and **Board** (3D board): the pieces of one set and the board of another, say the
-  1852 Staunton pieces on the maple and ebony board. Choosing a **Chess set** sets both; when
-  they come from different sets, **Chess set** says **Custom**. Some pieces are hard to tell
+- **Chess set** (3D board): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
+  its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
+  sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
+  polished and blackened pewter on oak. Hover a set to read what it is made of.
+- **Pieces** and **Board** (3D board): any pieces on any board, say the Medieval pewter
+  figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
+  three sets': **Jade + black** and **Carrara + Nero**, the Classic pieces' shapes in stone,
+  and **1852 Staunton**, the heavier Staunton of the first sets, with its carved knight, in
+  boxwood and ebony. Choosing a **Chess set** sets both; when they come from different sets,
+  **Chess set** says **Custom**. Some pieces are hard to tell
   from some squares (the pewter figures on maple, say), and then an orange line under the menus says
   so: "These pieces are hard to see on these squares." You can still play with them.
   Below the sets' boards, under a line, **Board** lists five boards with edges of their own,
   each in its own woods: **Regency** (a carved, stepped border under a raised field, in bud
-  rosewood), **Tournament** (large rounded corners, in golden rosewood), **Bevel** (a wide
+  rosewood), **Rounded** (large rounded corners, in golden rosewood), **Bevel** (a wide
   bevel on an ebony frame banded in golden rosewood), **Raised field** (the squares standing
   above a matt walnut frame) and **End grain** (a thick block with no frame, so it has no
   coordinates). The chess clock and the captured pieces move to suit each board's size.
