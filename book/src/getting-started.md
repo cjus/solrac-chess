@@ -42,6 +42,9 @@ you like, and choose **Activate**. **Lost your key?** is on the same screen.
 
 **Tab** hides the whole interface, the menu bar and the chat too, and brings it back.
 
+Solrac spells the way your Mac's language does: the British way when it is set to English
+(UK), Irish, Australian or another English spelt like them, and the American way otherwise.
+
 ## Your first game
 
 1. Choose **File → New Game** (⌘N, Ctrl+N elsewhere).
