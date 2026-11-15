@@ -53,6 +53,11 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   its carved knight, in boxwood and ebony. **Medieval pewter** is a set of cast figures (a king
   with his sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower)
   in polished and blackened pewter. Hover a set to read what it is made of.
+- **Pieces** and **Board** (3D board): the pieces of one set and the board of another, say the
+  1852 Staunton pieces on the maple and ebony board. Choosing a **Chess set** sets both; when
+  they come from different sets, **Chess set** says **Custom**. Some pieces are hard to tell
+  from some squares (the pewter figures on maple, say), and then an orange line under the menus says
+  so: "These pieces are hard to see on these squares." You can still play with them.
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
   **Sand**, each a swatch.
 - **Light squares** and **Dark squares** (2D board): each from a colour picker with its own
