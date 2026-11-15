@@ -58,6 +58,12 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   they come from different sets, **Chess set** says **Custom**. Some pieces are hard to tell
   from some squares (the pewter figures on maple, say), and then an orange line under the menus says
   so: "These pieces are hard to see on these squares." You can still play with them.
+  Below the sets' boards, under a line, **Board** lists five boards with edges of their own,
+  each in its own woods: **Regency** (a carved, stepped border under a raised field, in bud
+  rosewood), **Tournament** (large rounded corners, in golden rosewood), **Bevel** (a wide
+  bevel on an ebony frame banded in golden rosewood), **Raised field** (the squares standing
+  above a matt walnut frame) and **End grain** (a thick block with no frame, so it has no
+  coordinates). The chess clock and the captured pieces move to suit each board's size.
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
   **Sand**, each a swatch.
 - **Light squares** and **Dark squares** (2D board): each from a colour picker with its own
