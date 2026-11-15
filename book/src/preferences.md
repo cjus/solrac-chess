@@ -47,8 +47,12 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   (a large flat board, see [Playing a game](playing.md)). A line under it says what Automatic
   chose. Automatic picks the 2D board on a computer with a weak graphics card; see
   [On a slower computer](slow-computers.md).
-- **Chess set** (3D board): **Classic wood**, **Ebony + maple**, **Jade + Verde** or **Nero +
-  Greige**. Hover a set to read what it is made of.
+- **Chess set** (3D board): **Classic wood**, **Ebony + maple**, **Jade + Verde**, **Nero +
+  Greige**, **1852 Staunton** or **Medieval pewter**. The first four are the same pieces in
+  different woods and stones. **1852 Staunton** is the heavier Staunton of the first sets, with
+  its carved knight, in boxwood and ebony. **Medieval pewter** is a set of cast figures (a king
+  with his sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower)
+  in polished and blackened pewter. Hover a set to read what it is made of.
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
   **Sand**, each a swatch.
 - **Light squares** and **Dark squares** (2D board): each from a colour picker with its own
