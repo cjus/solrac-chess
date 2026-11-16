@@ -8,7 +8,8 @@ computer, by Solrac's database, and **nothing is sent anywhere**.
 
 If the Games window says "Your games are kept by chessdb, which isn't running", the database that
 keeps your games isn't running, so no games are listed and nothing can be imported or backed up.
-The window gives the reason after that sentence.
+The window gives the reason after that sentence: usually another Solrac is already open, with the
+database in use. Quit it, then choose **Retry connection** in the Settings status.
 
 ## The panel's file buttons {#files}
 
