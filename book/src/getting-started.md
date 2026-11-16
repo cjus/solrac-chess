@@ -40,7 +40,8 @@ you like, and choose **Activate**. **Lost your key?** is on the same screen.
 - **The chat** is the strip along the bottom of the board. Type in it, or press the
   microphone, to ask Solrac a question or to tell it a move. See [The chat and voice](chat-and-voice.md).
 
-**Tab** hides the whole interface, the menu bar and the chat too, and brings it back.
+**Tab** hides the whole interface, the menu bar and the chat too, and brings it back. **Esc**
+brings it back too, and so does moving the mouse to an edge of the window.
 
 Solrac spells the way your Mac's language does: the British way when it is set to English
 (UK), Irish, Australian or another English spelt like them, and the American way otherwise.
