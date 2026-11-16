@@ -48,6 +48,29 @@ When you step through or analyse a game, Solrac searches the position shown for 
 seconds. **Stop** ends the search at once, and **Think longer** searches on. If Solrac
 stops working, **Restart Solrac** or **Try again** starts it again; the game carries on.
 
+## Opening Explorer
+
+![The Opening Explorer over the board](images/opening-explorer.png)
+
+Press ⌘B, or choose View ▸ Opening Explorer, to see what strong players played in the
+position on the board. Its games are Lichess's: over a million Rapid and Classical games
+between players rated 2200 or more, shared openly by Lichess.
+
+- **The games and results**: how many games reached the position, and how often White won,
+  drew or lost, as a bar.
+- **The moves played**, most played first: how many games played each, how they went, and
+  the mean rating of their players. Hold the pointer over a bar for the exact counts.
+- **The strongest games**: the players and their ratings, the result, the move played here
+  and the date.
+
+It follows the board, so stepping back through a game or analysing one shows each position
+as you reach it. It keeps the first 20 moves of each game, and positions at least two games
+reached, so later in a game it says that no two games reached the position.
+
+The Opening Explorer needs Solrac activated on this Mac and a connection: it asks Solrac's
+online data, with your licence, for each position you look at. If it can't, it says why,
+and **Try Again** asks again.
+
 ## Engine Mind
 
 ![Engine Mind: the best lines as a tree of small boards](images/engine-mind.png)
