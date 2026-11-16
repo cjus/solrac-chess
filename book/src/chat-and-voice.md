@@ -20,8 +20,8 @@ The strip under the board is the **Rail**. From left to right:
 - **Talk**, **Hands-free** and **Read aloud**, when the voice is ready (see below).
 - **History**, which opens the **Chat history** window.
 
-**Tab** hides the panel and the Rail together, and shows them again. What you were typing is
-kept.
+**Tab** hides the panel and the Rail together, and shows them again (so do **Esc** and the
+mouse at an edge of the window). What you were typing is kept.
 
 ## What it does
 

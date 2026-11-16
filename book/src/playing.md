@@ -181,7 +181,7 @@ All of these keys work only while the camera is unlocked.
 
 Without unlocking, **Flip** (the panel's button, or **View → Flip Board**) always works, and so
 does `L`, which shows or hides the labels round the board. **Tab** hides the whole interface:
-the panel, the menu bar and the chat strip. Press it again to bring them back; what you were
-typing in the chat is still there.
+the panel, the menu bar and the chat strip. Press it again, press **Esc**, or move the mouse to
+an edge of the window to bring them back; what you were typing in the chat is still there.
 
 Next: [Learning from the engine](learning.md).
