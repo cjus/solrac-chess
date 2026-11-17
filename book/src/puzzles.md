@@ -27,8 +27,10 @@ With a licence, Solrac adds puzzles while you train. When the theme (or opening)
 you picked has fewer than about 200 puzzles you haven't played, Solrac downloads a pack of up to
 25,000 more puzzles at that difficulty in the background, about 1.4 MB, and prepares it in a
 couple of seconds. The picker says "Adding more puzzles rated 1600–1999…" meanwhile, and its
-counts grow once the pack is in. A puzzle you have played counts as played whether you solved it
-or not. One pack comes at a time.
+counts grow once the pack is in. Choosing such a theme brings one pack; another comes for it only
+after you have played one of its puzzles (solved, or with the solution shown; a skipped puzzle
+doesn't count), so packs follow your play, not your browsing. A puzzle you have played counts as
+played whether you solved it or not. One pack comes at a time.
 
 Packs stop at the **puzzle storage limit** you choose in Preferences, on the Game tab: 1 GB to
 start, which is room for the starter set and about 70 packs (see [Preferences](preferences.md)).
