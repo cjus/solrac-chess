@@ -77,7 +77,7 @@ renewal. Download opens the download page; Solrac never replaces itself.
 ## Chess puzzles
 
 The first time you start Solrac it asks whether to set up chess puzzles, a one-time download of
-310 MB. See [Chess puzzles](puzzles.md) for what they are, how they are set up and how to solve
+4 MB. See [Chess puzzles](puzzles.md) for what they are, how they are set up and how to solve
 them.
 
 ## Where to look things up
