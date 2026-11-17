@@ -3,7 +3,7 @@
 Solrac normally thinks with the engine inside it, on this computer. Chess engines get stronger with more processor cores and memory, so you may want a laptop to
 use the engine of a faster computer instead: a desktop in the study, say. If you have the engine
 running on a more powerful computer, you can pair with it and play, on its cores, from Solrac. It
-is set up in **Preferences → Network**. This chapter shows how to set that up and use it.
+is set up in **Settings → Network**. This chapter shows how to set that up and use it.
 
 ## What you need
 
@@ -60,9 +60,9 @@ open: the code works only while the pairing window is open. Run it while `--serv
 
 ### 3. In Solrac: find the engine
 
-![Preferences, the Network tab](images/preferences-network.png)
+![Settings, the Network page](images/preferences-network.png)
 
-On the computer you play on, open **Preferences** (⌘,) and choose the **Network** tab. Under
+On the computer you play on, open **Settings** (⌘,) and choose the **Network** page. Under
 **Pair a new engine**, the engines that answered a search of your network are listed under
 **Found on this network**, each with its name and address. **Search again** looks again. Click
 **Pair** next to yours. If a found engine says its pairing window is closed, run
@@ -90,12 +90,12 @@ address is used. Click **Pair**. Solrac says it is paired. From now on it connec
 engine with no code, refuses a different fingerprint, and the engine only accepts the computers
 it has paired with. **Cancel** stops, and no code is kept on the screen.
 
-At the top of the tab, **This computer** shows Solrac's own fingerprint. An engine you pair with
+At the top of the page, **This computer** shows Solrac's own fingerprint. An engine you pair with
 lists it as approved.
 
 ## Using it
 
-In **Preferences → Network**, under **Engines**, you choose where your games are played:
+In **Settings → Network**, under **Engines**, you choose where your games are played:
 
 - **This computer's engine plays**: the usual setting.
 - **A paired engine**, shown with its name and the start of its fingerprint: your games are
@@ -152,7 +152,7 @@ The engine never says *why* it refused a connection, so a guesser learns nothing
 
 ## When something goes wrong
 
-Solrac says what happened in the Network tab. Here is what each message means.
+Solrac says what happened on the Network page. Here is what each message means.
 
 **"Nothing answered at that address. Is the engine running, and is it on this network?"**
 The engine isn't running, the address is wrong, a firewall is in the way, or the computers are
@@ -189,6 +189,6 @@ instead.
 
 ### Still stuck?
 
-Post on the [issues page](https://github.com/cjus/solrac-chess/issues) what the Network tab
+Post on the [issues page](https://github.com/cjus/solrac-chess/issues) what the Network page
 says and what you did. Fingerprints are safe to include; they identify a computer and unlock
 nothing.

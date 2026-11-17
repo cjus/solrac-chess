@@ -14,7 +14,7 @@ you like, and choose **Activate**. **Lost your key?** is on the same screen.
   each was last seen, and lets you **Deactivate** one to free its place, or **Use another
   key**. Another machine can be freed twice in 30 days.
 - To free this machine yourself, choose **Deactivate this machine** in
-  **Preferences → Licence**; Solrac asks for the key again before you play here.
+  **Settings → Licence**; Solrac asks for the key again before you play here.
 - Activation gives Solrac a signed certificate that it checks on your machine, without the
   internet, each time it starts. It renews itself about weekly and stays valid for 30 days if
   the licence service can't be reached, so a short time offline never stops you playing. If
@@ -28,7 +28,7 @@ you like, and choose **Activate**. **Lost your key?** is on the same screen.
 ![The Solrac window](images/window.png)
 
 - **The board** fills the middle. Click a piece and then a square, or drag it.
-- **The menu bar** is along the top of the window (the next picture shows it): **Solrac** (About, Preferences, Quit), **File** (New Game,
+- **The menu bar** is along the top of the window (the next picture shows it): **Solrac** (About, Settings, Quit), **File** (New Game,
   Copy FEN, Copy PGN, Games Library), **Game**, **View**, **Settings** and **Help**.
 
 ![The menu bar, with the File menu open](images/menu-file.png)
@@ -63,14 +63,14 @@ Next: [Playing a game](playing.md).
 ## Your account
 
 Signing in to your solrac-chess.com account is separate from the licence: an account doesn't
-prove a purchase. Open **Preferences → Account** and sign in; your browser opens for the
-sign-in and returns to Solrac. **Sign Out** is on the same tab. The chat can use your account
+prove a purchase. Open **Settings → Account** and sign in; your browser opens for the
+sign-in and returns to Solrac. **Sign Out** is on the same page. The chat can use your account
 to pay for its replies (see [The chat and voice](chat-and-voice.md)).
 
 ## Updates
 
 When a newer Solrac exists, a card appears over the panel with **Download** and **Not now**,
-once for each new version, and **Preferences → Licence** keeps the line "Solrac … is
+once for each new version, and **Settings → Licence** keeps the line "Solrac … is
 available". It can take up to a week to show, since it arrives with the licence's weekly
 renewal. Download opens the download page; Solrac never replaces itself.
 
@@ -82,8 +82,8 @@ them.
 
 ## Where to look things up
 
-- **Help → Solrac Help** (F1, or ⌘? on a Mac) opens the same help inside Solrac. A **?** beside a Preferences
-  tab opens that tab's page.
+- **Help → Solrac Help** (F1, or ⌘? on a Mac) opens the same help inside Solrac. A **?** on a page of Settings
+  opens its part of the help.
 - [Keyboard shortcuts](shortcuts.md) lists every key.
 - **Solrac → About Solrac** says which version you have; say so when you write to us.
 - **Help → Feedback…** sends a note to PNXStudios. You need to be signed in.

@@ -53,7 +53,7 @@ counts. If it doesn't match, don't run the file.
 
 ## Signing in to your account
 
-**Preferences → Account** opens your browser for the sign-in and the browser hands the answer
+**Settings → Account** opens your browser for the sign-in and the browser hands the answer
 back to Solrac. To make that work, each time Solrac starts it tells your desktop that links
 beginning `solrac://` are Solrac's. This changes only your own files, under your home folder.
 
@@ -83,13 +83,13 @@ working until you replace it. Check the new file's signature as above.
 
 Delete the AppImage, `~/.local/share/applications/solrac-url.desktop` and, if you want your
 games and settings gone too, `~/.local/share/solrac`. Choose **Deactivate this machine** in
-Preferences first if you want to free its licence seat.
+Settings first if you want to free its licence seat.
 
 ## If something doesn't work
 
 - **The file won't start.** Check it is executable (`chmod +x`) and that your glibc is 2.35 or
   newer (`ldd --version`).
 - **A blank or very slow window.** See [On a slower computer](slow-computers.md), and try
-  Preferences' quality and board settings. A remote (ssh) session has no screen for Solrac to
+  Settings' quality and board settings. A remote (ssh) session has no screen for Solrac to
   open.
 - **Anything else:** [Troubleshooting and FAQ](faq.md).
