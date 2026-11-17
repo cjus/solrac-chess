@@ -17,8 +17,9 @@ shrinks the window to fit, keeping its shape, and remembers that size instead.
 
 ![Preferences, the Game tab](images/preferences-game.png)
 
-The heading is **Solrac**. You choose a game's time control in the New Game window, and Solrac's
-strength for the game in the panel (see [Playing a game](playing.md)). Here are the settings
+The heading is **Solrac**. You choose a game's time control and Solrac's strength in the New Game
+sheet, and can change the strength during the game in the panel (see
+[Playing a game](playing.md)). Here are the settings
 that stay the same from game to game:
 
 - **Think time per move**: from 0.1 to 10 seconds, 1 second to start. It is for games without a
