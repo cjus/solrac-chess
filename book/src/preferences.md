@@ -10,8 +10,9 @@ Click or tap one to show it. A **?** at the top of each page opens the part of t
 it.
 
 On a Mac, Windows or Linux, Settings is a window you can move and leave open while you play. On
-an iPad it is a narrow sheet that opens just right of the menus (at the left side when they are
-hidden), so most of the board stays in view; drag the bar along its top to move it anywhere. It
+an iPad it is a small sheet, half the window's height, that opens in the middle of the window's
+height just right of the menus' words (at the left side when they are hidden), so most of the
+board stays in view; its page scrolls, and dragging the bar along its top moves it anywhere. It
 shows the list of pages first: tap one to open it, and **‹ Settings** to go back to the list.
 **Done** (or Esc on a keyboard) puts it away. The sheet dims the board, but not on Chess Set,
 Display or Lights, so you can see your changes as you make them.
