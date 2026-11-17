@@ -43,7 +43,8 @@ Without a licence, or offline, you train with the starter set.
 
 ## Choosing a puzzle
 
-Choose **Game → Chess Puzzles…** to open the picker over the board.
+Choose **Game → Chess Puzzles…** to open the picker over the board. Drag it by its title to move
+it, or by an edge to make it larger: a taller picker shows more of the theme list.
 
 - **Today's puzzle** is one of Lichess's puzzles of the day, the same for everyone on a date.
 - **Practise** groups the themes: motifs (forks, pins, sacrifices…), checkmates (mate in 2,
