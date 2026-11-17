@@ -35,6 +35,14 @@ that stay the same from game to game:
   everything else. Changing it restarts Solrac's engine, and the game carries on. On a computer
   with one core the slider is greyed out.
 
+Under **Chess puzzles**:
+
+- **Puzzle storage limit**: 500 MB, 1 GB (to start), 2 GB, 5 GB or No limit. As you train, Solrac
+  downloads more puzzles until they take this much disk (see
+  [Chess puzzles](puzzles.md)). The line under it says how much they use now. Lowering the
+  limit stops new downloads but deletes nothing, even when the puzzles already use more than
+  the new limit.
+
 ## Chess Set
 
 ![Preferences, the Chess Set tab](images/preferences-chess-set.png)

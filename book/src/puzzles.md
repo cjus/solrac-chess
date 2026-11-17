@@ -21,6 +21,24 @@ If an earlier Solrac set up the full puzzle database (6.2 million puzzles, about
 removes it the next time it starts and sets up the starter set in its place, without asking
 again. The window at the lower left says so. Your record of the puzzles you have solved stays.
 
+## More puzzles as you play
+
+With a licence, Solrac adds puzzles while you train. When the theme (or opening) and difficulty
+you picked has fewer than about 200 puzzles you haven't played, Solrac downloads a pack of up to
+25,000 more puzzles at that difficulty in the background, about 1.4 MB, and prepares it in a
+couple of seconds. The picker says "Adding more puzzles rated 1600–1999…" meanwhile, and its
+counts grow once the pack is in. A puzzle you have played counts as played whether you solved it
+or not. One pack comes at a time.
+
+Packs stop at the **puzzle storage limit** you choose in Preferences, on the Game tab: 1 GB to
+start, which is room for the starter set and about 70 packs (see [Preferences](preferences.md)).
+When the limit is reached, or Solrac already has every puzzle it offers at that difficulty, the
+picker says so and offers the nearest difficulty with more puzzles left, and, at the limit,
+**Preferences…** to choose a larger one. Solrac never deletes puzzles to make room, so lowering
+the limit only stops new downloads.
+
+Without a licence, or offline, you train with the starter set.
+
 ## Choosing a puzzle
 
 Choose **Game → Chess Puzzles…** to open the picker over the board.
