@@ -50,11 +50,11 @@ Solrac spells the way your Mac's language does: the British way when it is set t
 1. Choose **File → New Game** (⌘N, Ctrl+N elsewhere).
 2. Under **Play**, pick **White**, **Black**, **Two players** (one board, two people) or
    **Watch** (Solrac plays itself).
-3. Pick a **Time control**, or choose no clock: select the **Clock stands on** side again to
-   turn the clock off.
-4. Choose **Start Game**, or press Enter.
+3. Pick a **Time control**, or **None** for no clock.
+4. Set **Solrac's strength** with its slider.
+5. Choose **Start**, or press Enter.
 
-Set how strong Solrac plays with the strength slider in the panel. The game in progress is
+You can change Solrac's strength during the game too, with the strength slider in the panel. The game in progress is
 saved as you play, so quitting and starting again carries on where you were; a finished game
 does not come back, and Solrac starts a new game of the same kind instead.
 

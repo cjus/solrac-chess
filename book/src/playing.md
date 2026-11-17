@@ -24,41 +24,46 @@ square and pulls back. Turning the camera yourself, or **Flip**, ends it.
 
 ## Starting a game
 
-![The New Game window](images/new-game.png)
+![The New Game sheet](images/new-game.png)
 
-Choose **File → New Game** (⌘N, Ctrl+N on Windows and Linux). The window asks for three things,
-then **Start Game** (or press Enter) begins. **Cancel** or Esc closes it.
+Choose **File → New Game** (⌘N, Ctrl+N on Windows and Linux). A sheet opens over the board,
+which dims until you answer it. It asks four things, then **Start** (or Enter) begins the game.
+**Cancel** or Esc leaves it, and nothing you chose there changes. On a Mac, Cancel and Start are
+at the bottom right; on Windows and Linux, Start comes before Cancel, as Windows dialogs have
+them.
 
 - **Play**: **White** or **Black** (you against Solrac), **Two players** (two people at one
   board), or **Watch** (Solrac plays both sides while you look on). The camera sits behind the
   side you play.
-- **Time control**: fourteen choices in five groups, or none (see below).
+- **Time control**: fourteen choices in five groups, or **None** for no clock (see below).
+- **Solrac's strength**: how strongly Solrac plays you, or with **Watch** a slider for each side,
+  so a weaker side can play a stronger one. The figure beside a slider is the rating Solrac
+  plays at, or **Full** at full strength. A game of two players has none.
 - **Clock stands on**: **Left** or **Right**, as seen from White's side of the board.
 
-Solrac remembers the kind of game you chose. A game you leave unfinished comes back as it was
+Solrac remembers the kind of game you chose, and the clock and strength become the ones new
+games start with. A game you leave unfinished comes back as it was
 the next time you start Solrac, with its clock running again after the next move. A finished game
 does not come back: you start a new one of the same kind.
 
 ## Clocks
 
-The New Game window's **Time control** lists these, fastest first:
+The New Game sheet's **Time control** lists these, fastest first:
 
 - **Bullet**: 1+0, 2+1
 - **Blitz**: 3+0, 3+2, 5+0, 5+3
 - **Rapid**: 10+0, 10+5, 15+10
 - **Classical**: 30+0, 30+20
-- **Per move**: 5 s, 10 s, 30 s
+- **Per move**: 5 s, 10 s, 30 s, and **None**
 
 Two numbers such as 5+3 mean five minutes each, plus three seconds after every move. 5+0 is
 sudden death: no increment. A **Per move** control gives every move its own allowance, and time
 you don't use is lost. A line under the buttons says what you have chosen in words, for example
 "5 minutes each, plus 3 seconds after every move."
 
-**No clock**: choose the selected side under **Clock stands on** again and the clock goes away:
-both sides take as long as they like.
+**No clock**: choose **None**, and both sides take as long as they like.
 
-Your choice takes effect on the game on the board at once, and it is the clock the next new game
-starts with. Each side's first move is free: no clock runs until both sides have moved once, so
+The clock you choose is the one each new game starts with. Each side's first move is free: no clock runs until both sides have moved once, so
 you are never losing time before you have sat down, whichever colour you play.
 
 ![The 3D clock on the table, White on 4:32 and Black on 0:08 with the lamp on White](images/panel-clock.png)
@@ -74,7 +79,8 @@ draw.
 
 ## Strength
 
-Under the clock, the panel has a **Strength** row for the side Solrac plays:
+You set Solrac's strength in the New Game sheet, and you can change it during a game: under the
+clock, the panel has a **Strength** row for the side Solrac plays. Both set the same thing.
 
 - Against you, one row labelled **Solrac**.
 - Watching, one row for **White** and one for **Black**.
