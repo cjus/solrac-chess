@@ -14,7 +14,7 @@
 - [Playing on an engine on another computer](network-play.md)
 - [On a slower computer](slow-computers.md)
 - [Keyboard shortcuts](shortcuts.md)
-- [Preferences, tab by tab](preferences.md)
+- [Settings, page by page](preferences.md)
 - [Troubleshooting and FAQ](faq.md)
 
 # About

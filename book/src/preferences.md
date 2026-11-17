@@ -1,21 +1,33 @@
-# Preferences, tab by tab
+# Settings, page by page
 
-Open Preferences with ⌘, (Solrac menu), or with **Settings → All Settings...**. Changes take
-hold at once and are remembered. A **?** beside the tabs opens the part of this page for the tab
-you are on. The tabs, in the order you see them: Game, Chess Set, Avatar, Display, Lights,
-Sounds, Licence, Network and Account.
+Open Settings with ⌘, (**Solrac → Settings...**), or with **Settings → All Settings...**. On an
+iPad, choose **Settings…** in the menus on the left. Changes take hold at once and are
+remembered.
 
-Preferences shows only what applies to the board you are using. With the 2D board there is no
-Lights tab, no chess set or chess clock, and no Environment under Display, and the View and
+Settings has a list of pages down its left side: Game, Chess Set, Display, Avatar, Sounds, Voice
+and Chat, Lights, Account, Licence (Purchases in the App Store versions), Network and Help.
+Click or tap one to show it. A **?** at the top of each page opens the part of this page about
+it.
+
+On a Mac, Windows or Linux, Settings is a window you can move and leave open while you play. On
+an iPad it is a small sheet, half the window's height, that opens in the middle of the window's
+height just right of the menus' words (at the left side when they are hidden), so most of the
+board stays in view; its page scrolls, and dragging the bar along its top moves it anywhere. It
+shows the list of pages first: tap one to open it, and **‹ Settings** to go back to the list.
+**Done** (or Esc on a keyboard) puts it away. The sheet dims the board, but not on Chess Set,
+Display or Lights, so you can see your changes as you make them.
+
+Settings shows only what applies to the board you are using. With the 2D board there is no
+Lights page, no chess set or chess clock, and no Environment under Display, and the View and
 Settings menus leave out the camera, Environment and Clock Position. If you are on the Lights
-tab when you switch to the 2D board, Preferences moves you to Chess Set.
+page when you switch to the 2D board, Settings moves you to Chess Set.
 
 Solrac also remembers the size of its window. If the screen is too small for it, Solrac
 shrinks the window to fit, keeping its shape, and remembers that size instead.
 
 ## Game
 
-![Preferences, the Game tab](images/preferences-game.png)
+![Settings, the Game page](images/preferences-game.png)
 
 The heading is **Solrac**. You choose a game's time control and Solrac's strength in the New Game
 sheet, and can change the strength during the game in the panel (see
@@ -46,9 +58,9 @@ Under **Chess puzzles**:
 
 ## Chess Set
 
-![Preferences, the Chess Set tab](images/preferences-chess-set.png)
+![Settings, the Chess Set page](images/preferences-chess-set.png)
 
-![Preferences, the Chess Set tab with the 2D board](images/preferences-chess-set-2d.png)
+![Settings, the Chess Set page with the 2D board](images/preferences-chess-set-2d.png)
 
 Two columns: **Board**, and **Chess clock** (3D board only).
 
@@ -85,40 +97,24 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   or click a swatch: **Original black** (the usual one), **Cognac** or **Burgundy**. **Reset**
   appears once you change it.
 
-![The chess clock with a cognac shell beside the board](images/clock-colour.png)
+- **Position** (3D board): which side of the board the clock stands on, as you see the board
+  from White's seat, **Left** or **Right**, Right to start. The menu bar has the same choice
+  under **Settings → Clock Position**.
 
-Which side of the board the clock stands on, as you see the board from White's seat, is under
-**Settings → Clock Position** in the menu bar: **left** or **right**, right to start.
+![The chess clock with a cognac shell beside the board](images/clock-colour.png)
 
 ## Avatar
 
-![Preferences, the Avatar tab](images/preferences-avatar.png)
+![Settings, the Avatar page](images/preferences-avatar.png)
 
-Three sections: Appearance, Voice and Explanation.
+Two sections: Appearance and Explanation. The voice Solrac reads in is on the
+[Voice and Chat](#voice-and-chat) page.
 
 **Appearance**
 
 - **Avatar**: **Male**, **Female** or **Neutral** Solrac, shown at the top of the panel and on
-  the title screen. The picture beside the choices is the one the panel shows, moving as it does; while this tab is open, Solrac stays awake.
+  the title screen. The picture beside the choices is the one the panel shows, moving as it does; while this page is open, Solrac stays awake.
 - **Animate Solrac**: on to start. Turn it off and the avatar shows only stills, awake or asleep.
-- **Show captions**: on to start. What Solrac says appears as closed captions above the Rail, a
-  sentence at a time, whether or not it is read aloud.
-
-**Voice**
-
-- **Man**, **Woman** or **Neutral**: the kind of voice. The list beside them holds the voices
-  of that kind. Neutral lists Alloy (en-US), Dora (es), Dora (pt-BR), Nezumi and Alpha (ja).
-  Until Solrac's voice has loaded, the tab says so and there is nothing to choose.
-- **Play**: Solrac reads a sample in the voice you chose, and the button becomes **Stop**.
-  It sends no message.
-- **Read replies aloud**: **Automatic** (the choice to start: everything is read aloud on most
-  computers, but only in voice mode on a weak one, see
-  [On a slower computer](slow-computers.md)), **Always**, **In voice mode** (when Hands-free is
-  on) or **Never**. See [The chat and voice](chat-and-voice.md).
-
-If the voice you saved is no longer there, an orange note says Solrac reads in another one and
-asks you to choose again.
-
 **Explanation**
 
 How Solrac explains things in the chat and on the board.
@@ -131,7 +127,7 @@ How Solrac explains things in the chat and on the board.
 
 ## Display
 
-![Preferences, the Display tab](images/preferences-display.png)
+![Settings, the Display page](images/preferences-display.png)
 
 - **Text**: **Text size** has five steps: 90, 100 (the usual), 115, 130 and 150 %. Drag the
   slider, or type a percentage and it moves to the nearest step. ⌘+ and ⌘− (the View menu's
@@ -166,7 +162,7 @@ The wall is a backdrop, like the skies: it turns as you turn the board and stays
 
 ## Lights
 
-![Preferences, the Lights tab](images/preferences-lights.png)
+![Settings, the Lights page](images/preferences-lights.png)
 
 The 3D board only. **Lighting** has **Sun** (about 81 to 5200 lux, 650 to start) and **Fill**
 (12.5 to 800 %, 100 % to start). Both reach three stops (a doubling each) either side of where they start. Under **Board**, **Shine** (0 to 100 %, 10 % to start) is the sun's
@@ -178,7 +174,7 @@ lights.
 
 ## Sounds
 
-![Preferences, the Sounds tab](images/preferences-sounds.png)
+![Settings, the Sounds page](images/preferences-sounds.png)
 
 Under **Sound Effects**, **Pieces landing** (wood on wood as each piece reaches its square) and
 **Clock button** (a press of the chess clock after each move, in a game with a clock) can each
@@ -187,25 +183,65 @@ start); it is greyed out when both are off. The chat's voice has its own volume.
 
 The same two switches are in the menu bar, under **Settings → Sound**.
 
-## Licence
+## Voice and Chat
 
-![Preferences, the Licence tab](images/preferences-licence.png)
+![Settings, the Voice and Chat page](images/preferences-voice-and-chat.png)
+
+**Captions**
+
+- **Show captions**: on to start. What Solrac says appears as closed captions above the Rail, a
+  sentence at a time, whether or not it is read aloud.
+
+**Voice**
+
+- **Man**, **Woman** or **Neutral**: the kind of voice. The list beside them holds the voices
+  of that kind. Neutral lists Alloy (en-US), Dora (es), Dora (pt-BR), Nezumi and Alpha (ja).
+  Until Solrac's voice has loaded, the page says so and there is nothing to choose.
+- **Play**: Solrac reads a sample in the voice you chose, and the button becomes **Stop**.
+  It sends no message.
+- **Read replies aloud**: **Automatic** (the choice to start: everything is read aloud on most
+  computers, but only in voice mode on a weak one, see
+  [On a slower computer](slow-computers.md)), **Always**, **In voice mode** (when Hands-free is
+  on) or **Never**. See [The chat and voice](chat-and-voice.md).
+
+If the voice you saved is no longer there, an orange note says Solrac reads in another one and
+asks you to choose again.
+
+## Licence and Purchases
+
+![Settings, the Licence page](images/preferences-licence.png)
 
 Shows that this machine is activated, with the end of the key, a note with **Download** when a
 newer Solrac exists, and **Deactivate this machine**. The list of machines that use your key shows
-only when you try a fourth one. In the Mac App Store version this tab has **Buy tokens**
-and **Restore Purchases** instead, and no Download. See [Getting started](getting-started.md).
+only when you try a fourth one. In the Mac App Store version this page is called **Purchases**,
+and has **Buy tokens** and **Restore Purchases** instead, and no Download. On an iPad it is
+**Purchases** too, and will show your App Store purchase and your chat tokens. See
+[Getting started](getting-started.md).
 
 ## Network
 
-![Preferences, the Network tab](images/preferences-network.png)
+![Settings, the Network page](images/preferences-network.png)
 
 Pair engines on other computers and choose where games are played. See
 [Playing on another computer](network-play.md).
 
 ## Account
 
-![Preferences, the Account tab](images/preferences-account.png)
+![Settings, the Account page](images/preferences-account.png)
 
 **Sign In** opens your browser; **Sign Out** and **Check again** are here too. If your account
-is suspended or deleted, this tab says so. See [Getting started](getting-started.md).
+is suspended or deleted, this page says so. See [Getting started](getting-started.md).
+
+**Delete Account…** deletes your solrac-chess.com account. Solrac first says what that does and
+asks again: choose **Delete Account** to go ahead, or **Cancel**. Your account is signed out
+everywhere at once and deleted 14 days later, with its tokens and their history. Signing in on
+solrac-chess.com before then cancels the deletion. Your games and settings in Solrac stay. For
+your security, deleting needs a sign-in in the last 15 minutes: if yours is older, Solrac asks
+you to choose **Sign In Again**, then **Delete Account…** once more.
+
+## Help
+
+Buttons for **Solrac Help** (these pages), **Keyboard Shortcuts**, **Solrac Documentation**
+(cb2026's book, in your browser; not on an iPad), **Send Feedback…** and **About Solrac**. On an
+iPad, Settings closes as the one you choose opens.
+

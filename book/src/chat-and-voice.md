@@ -69,7 +69,7 @@ and settings stay on your Mac.
   checks it against the legal moves. Half a move, such as "Bishop", waits a moment for the
   rest. It is off at each start. The button is greyed until the voice is ready, with the
   reason on hover ("Preparing the voice...", or "Unavailable: ..." and why).
-- **Read aloud** switches replies on (Always) or off (Never). **Preferences → Avatar → Voice**
+- **Read aloud** switches replies on (Always) or off (Never). **Settings → Voice and Chat**
   chooses Automatic, Always, In voice mode (when Hands-free is on) or Never, and the voice.
   Automatic reads everything, except on a computer with a weak graphics card, where it reads
   only in voice mode ([On a slower computer](slow-computers.md)).
@@ -77,7 +77,7 @@ and settings stay on your Mac.
 
 ## Detail and pace
 
-Under **Preferences → Avatar → Explanation**, **Detail** chooses how much Solrac says and how
+Under **Settings → Avatar → Explanation**, **Detail** chooses how much Solrac says and how
 many moves it plays on the board: **Short** is the point in a sentence with one short line of a
 few moves, **Normal** (the default) a few sentences with a line or two, and **Verbose**
 everything, with up to four lines of a dozen moves. The change applies from your next message.
@@ -105,5 +105,5 @@ sentences come at reading speed instead. When Solrac describes a line, the moves
 the board arrive as the words that name them are spoken. While it thinks, a short note takes the
 caption's place, and so does an error.
 
-To turn captions off, clear **Show captions** in **Preferences → Avatar**. Those notes and
+To turn captions off, clear **Show captions** in **Settings → Avatar**. Those notes and
 errors still appear; **History** still has everything Solrac said.

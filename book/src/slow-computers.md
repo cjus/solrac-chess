@@ -21,16 +21,16 @@ one. Then, unless you have chosen otherwise:
   several of the processor's cores for ten seconds or more, which also slows the board.
 
 Every other computer gets the 3D board, High quality and everything read aloud, as before.
-Preferences says when Automatic has chosen for you ("Automatic is showing the 2D board: this
+Settings says when Automatic has chosen for you ("Automatic is showing the 2D board: this
 graphics card is a weak one").
 
 ## Choosing for yourself
 
-![Preferences, the Chess Set tab: Main view set to Automatic](images/preferences-chess-set.png)
+![Settings, the Chess Set page: Main view set to Automatic](images/preferences-chess-set.png)
 
-- **Main view** (Preferences → Chess Set): **Automatic**, **3D board** or **2D board**. See [the 2D board](playing.md#the-2d-board).
-- **Quality** (Preferences → Display → Graphics): **Automatic**, **High** or **Low**.
-- **Read replies aloud** (Preferences → Avatar → Voice, and the speaker button in the Rail):
+- **Main view** (Settings → Chess Set): **Automatic**, **3D board** or **2D board**. See [the 2D board](playing.md#the-2d-board).
+- **Quality** (Settings → Display → Graphics): **Automatic**, **High** or **Low**.
+- **Read replies aloud** (Settings → Avatar → Voice, and the speaker button in the Rail):
   **Automatic**, **Always**, **In voice mode** or **Never**. Choosing **Always** reads
   everything, as on a stronger computer; the speaker button turns reading on or off for now.
 
@@ -41,8 +41,8 @@ Choosing **Automatic** again hands the decision back.
 
 - Close other programs, especially browsers: Solrac shares the processor with them.
 - Use a smaller window: the board is drawn at the window's size.
-- Turn **Show captions** off (Preferences → Avatar) if you don't read them.
-- Keep **Cores for Solrac** (Preferences → Game) at 1, which is where it starts, so Solrac's
+- Turn **Show captions** off (Settings → Avatar) if you don't read them.
+- Keep **Cores for Solrac** (Settings → Game) at 1, which is where it starts, so Solrac's
   engine leaves room for the board. If you raised it, lower it again.
 - A remote desktop is much slower than the computer's own screen, because it has no graphics
   chip. Run Solrac from the computer's own display.

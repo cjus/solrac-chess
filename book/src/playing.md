@@ -93,18 +93,18 @@ engine ratings, not people's, so expect them to feel a little different.
 
 Next to it, **per move** sets how long Solrac thinks about each move, from 0.1 to 10 seconds.
 It is greyed in a game with a clock, because the clock decides: "This game's clock sets how long
-Solrac thinks." The same slider is in **Preferences → Game**.
+Solrac thinks." The same slider is in **Settings → Game**.
 
 ## Takebacks, Move now, pondering
 
 - **Take back** (the first button in the panel's game row) undoes your last move. Against Solrac
   it undoes two moves, Solrac's reply and yours, so it is your turn again; between two people it
   undoes one. A clock goes back to the time it showed. It is greyed when there is no move of
-  yours to take back, in a game loaded to look at, and in a Watch game. **Preferences → Game →
+  yours to take back, in a game loaded to look at, and in a Watch game. **Settings → Game →
   Allow takebacks against Solrac** switches it off against Solrac, "like a rated game".
 - **Move now** ends Solrac's search and plays its best move so far. It is lit only while Solrac is
   thinking.
-- **Let Solrac ponder on your time** (**Preferences → Game**): Solrac thinks about the reply it
+- **Let Solrac ponder on your time** (**Settings → Game**): Solrac thinks about the reply it
   expects while you think about yours, and keeps what it found if you play it. The status line
   says "Your move (Solrac is pondering)". At its lower levels, below about 1600, it doesn't ponder.
 - If Solrac stops with an engine error, the status line says so and a **Restart Solrac** button
@@ -162,7 +162,7 @@ You can also drop a `.pgn` file on the window. See [Your games library](games.md
 
 ## The 2D board
 
-Prefer a flat board, or is your computer slow? **Preferences → Chess Set → Main view → 2D board**
+Prefer a flat board, or is your computer slow? **Settings → Chess Set → Main view → 2D board**
 fills the window with a large flat board instead of the 3D one, and nothing of the 3D scene is
 drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
 a computer with a weak graphics card (see [On a slower computer](slow-computers.md)).
@@ -173,7 +173,7 @@ You move as on the 3D board: click a piece and then a square, or drag it. The sq
 to are marked, and the last move and a king in check are lit. Arrows and rings from the chat
 are drawn on it, and a border round it carries the files and ranks (**Show board
 coordinates**, or the labels button in the panel, or `L`). Choose its **Background** in
-Preferences → Chess Set. The pieces are drawn again for the size of the board whenever you
+Settings → Chess Set. The pieces are drawn again for the size of the board whenever you
 resize the window. The **Flip** button, or **View → Flip Board**, turns the board over to the
 other side at once. The game's clocks are in the panel, and the camera keys below don't apply.
 
