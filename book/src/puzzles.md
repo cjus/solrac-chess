@@ -1,20 +1,25 @@
 # Chess puzzles
 
-Solrac trains you with 6.2 million puzzles from Lichess (free to use, CC0), sorted by theme and
-rating. They run on your own computer: nothing is sent anywhere to pick or check a puzzle.
+Solrac trains you with puzzles from Lichess (free to use, CC0), sorted by theme and rating. Its
+starter set holds 83,573: every theme and opening at every difficulty, and Lichess's puzzles of
+the day. They run on your own computer: nothing is sent anywhere to pick or check a puzzle.
 
 ## Setting them up
 
 The first time you start Solrac it asks whether to set up chess puzzles. Choose **Download** and
-Solrac downloads a 310 MB file once, shown on the loading screen with the usual **Continue**
-button, then spends about 15 minutes preparing it. That part runs while you play, and a small
-window at the lower left shows how far it has got, with **Cancel**. You can drag it out of the
-way. It needs about 4 GB of free disk space, and Solrac says so before it starts.
+Solrac downloads a 4 MB file once, shown on the loading screen with the usual **Continue**
+button, then takes a few seconds to prepare it while you play. A small window at the lower left
+shows how far it has got, with **Cancel**. You can drag it out of the way. It needs about 60 MB
+of free disk space, and Solrac says so before it starts.
 
 Choose **Not now** and nothing is downloaded; Solrac doesn't ask again at start-up. To set the
 puzzles up later, choose **Game → Chess Puzzles…** and the same question comes back. If you
 close Solrac in the middle, it carries on the next time you start it and says it is resuming.
 If something goes wrong, the window says what, with **Try again**.
+
+If an earlier Solrac set up the full puzzle database (6.2 million puzzles, about 3.3 GB), Solrac
+removes it the next time it starts and sets up the starter set in its place, without asking
+again. The window at the lower left says so. Your record of the puzzles you have solved stays.
 
 ## Choosing a puzzle
 
