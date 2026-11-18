@@ -15,8 +15,8 @@ tokens to pay with. Check Settings → Account.
 
 **It doesn't hear me.** Hold Space or the Talk button and speak for at least a moment (up to 30 seconds). macOS must have
 allowed Solrac to use the microphone (System Settings → Privacy & Security → Microphone).
-The voice models download once on first use, so the first try may fall back to online
-transcription.
+The voice models download once on first use: until then Talk is greyed out, and its tooltip
+says why.
 
 **Solrac stopped moving.** If the status line says there is an engine error, choose **Restart Solrac**, the button under it in the panel: it starts the engine again and the game carries on. If you are playing on another computer's engine, see [that chapter's troubleshooting](network-play.md#when-something-goes-wrong).
 
