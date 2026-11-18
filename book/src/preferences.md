@@ -187,11 +187,12 @@ The same two switches are in the menu bar, under **Settings → Sound**.
 
 ![Settings, the Voice and Chat page](images/preferences-voice-and-chat.png)
 
-**AI service**
+**Online coach**
 
-- **Let the chat use an AI service**: what Solrac asked before your first chat message. What you
-  type or say to the chat (as text) goes, with the game, through PNX Studios' server to OpenRouter
-  and the company whose language model answers; your voice itself is heard here and never sent.
+- **Let the chat use the online coach**: what Solrac asked before your first chat message. What
+  you type or say to the chat (as text) goes, with the game, to the Solrac Chess AI Coach: through
+  PNX Studios' server to OpenRouter and the company whose language model answers. Your voice
+  itself is heard here and never sent.
   Off, the chat asks again before your next message is sent. See
   [The chat and voice](chat-and-voice.md).
 

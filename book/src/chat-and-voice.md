@@ -62,9 +62,10 @@ library and your settings stay on your Mac.
 
 ![Solrac's chat asks before your first message](images/ai-notice.png)
 
-Before your first message, Solrac says this and asks: **Continue** sends your message, and
+Before your first message, Solrac tells you that what you type or say goes to the online
+coach, the Solrac Chess AI Coach, and asks: **Continue** sends your message, and
 Solrac doesn't ask again; **Not now** (or Esc) sends nothing, and it asks again next time. You
-can change your answer under **Settings → Voice and Chat → AI service**.
+can change your answer under **Settings → Voice and Chat → Online coach**.
 
 ## Voice
 
