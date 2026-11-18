@@ -70,16 +70,15 @@ between players rated 2200 or more, shared openly by Lichess.
 It follows the board, so stepping back through a game or analysing one shows each position
 as you reach it. It keeps the first 20 moves of each game, and positions at least two games
 reached, so later in a game it says that no two games reached the position. It still names
-the opening there, from the positions before.
+the opening there, from the moves before.
 
-The name comes from the positions the panel has looked up. A game opened at a later move, or
-the panel opened after the opening, may show no name until you step back through the earlier
-positions; so may moving quickly past them, with the arrow keys or a click further down the
-moves. Solrac shows no name rather than a wrong one.
+Solrac names the opening itself, from the moves on the board and Lichess's list, which is
+built in: a game opened at a later move, one started from a set-up position, and a game with
+no connection are named too.
 
-The Opening Explorer needs Solrac activated on this Mac and a connection: it asks Solrac's
-online data, with your licence, for each position you look at. If it can't, it says why,
-and **Try Again** asks again.
+The rest of the Opening Explorer needs Solrac activated on this Mac and a connection: it asks
+Solrac's online data, with your licence, for each position you look at. If it can't, it says
+why, and **Try Again** asks again.
 
 ## Engine Mind
 
