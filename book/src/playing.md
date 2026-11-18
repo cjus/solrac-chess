@@ -26,7 +26,7 @@ square and pulls back. Turning the camera yourself, or **Flip**, ends it.
 
 ![The New Game sheet](images/new-game.png)
 
-Choose **File → New Game** (⌘N, Ctrl+N on Windows and Linux). A sheet opens over the board,
+Choose **Game → New Game** (⌘N, Ctrl+N on Windows and Linux). A sheet opens over the board,
 which dims until you answer it. It asks four things, then **Start** (or Enter) begins the game.
 **Cancel** or Esc leaves it, and nothing you chose there changes. On a Mac, Cancel and Start are
 at the bottom right; on Windows and Linux, Start comes before Cancel, as Windows dialogs have
@@ -81,6 +81,10 @@ draw.
 
 You set Solrac's strength in the New Game sheet, and you can change it during a game: under the
 clock, the panel has a **Strength** row for the side Solrac plays. Both set the same thing.
+
+The panel's row starts closed, as one line that says how Solrac plays and thinks, such as
+"Solrac · ≈ 1800 Lichess rapid · 1.00 s" ("by the clock" in a game with a clock). Click it to
+open the sliders below; click it again to close them.
 
 - Against you, one row labelled **Solrac**.
 - Watching, one row for **White** and one for **Black**.
@@ -149,7 +153,7 @@ typing in the chat takes the keys back. See [Keyboard shortcuts](shortcuts.md).
 ## Copying, saving and pasting
 
 Four buttons in the panel's second row work with the clipboard and your documents, and the first
-two are also in the **File** menu:
+two are also in the **Game** menu:
 
 - **Copy FEN** copies the position on the board.
 - **Copy PGN** copies the game.
@@ -162,8 +166,12 @@ You can also drop a `.pgn` file on the window. See [Your games library](games.md
 
 ## The 2D board
 
-Prefer a flat board, or is your computer slow? **Settings → Chess Set → Main view → 2D board**
-fills the window with a large flat board instead of the 3D one, and nothing of the 3D scene is
+Prefer a flat board, or is your computer slow? The panel's **2D / 3D** button (the cube, in the
+row under Solrac's face) switches between the two boards: lit, the 3D board shows; click it for
+the 2D one, and again for the 3D one. On an iPad it is at the top of the inspector, beside
+Solrac's name. **Settings → Chess Set → Main view → 2D board** does the
+same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
+of the 3D one, and nothing of the 3D scene is
 drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
 a computer with a weak graphics card (see [On a slower computer](slow-computers.md)).
 

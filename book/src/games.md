@@ -26,10 +26,10 @@ The panel has a row of file buttons, in this order:
 4. **Paste** loads what is on the clipboard: a game (PGN) or a position (FEN) to step through, or,
    if it holds several games, imports them (see below).
 5. **Games** opens the Games window, and closes it again when it is lit. You can also use
-   **File → Games Library** or **⌘L** (**Ctrl+L**).
+   **Game → Games Library** or **⌘L** (**Ctrl+L**).
 6. **Analyse** reviews a game once it is over.
 
-**File → Copy FEN** and **File → Copy PGN** do the same as the first two buttons. Tags,
+**Game → Copy FEN** and **Game → Copy PGN** do the same as the first two buttons. Tags,
 comments, symbols and variations are kept as they were read.
 
 ## The Games window {#games}
