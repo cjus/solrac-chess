@@ -82,7 +82,10 @@ can change your answer under **Settings → Voice and Chat → Online coach**.
   chooses Automatic, Always, In voice mode (when Hands-free is on) or Never, and the voice.
   Automatic reads everything, except on a computer with a weak graphics card, where it reads
   only in voice mode ([On a slower computer](slow-computers.md)).
-- The voice models (more than 800 MB) download once.
+- The voice models (more than 800 MB) download once. On an iPad, Solrac asks first, on the
+  loading screen: **Download**, or **Not now** to type instead. Solrac remembers Not now, and
+  **Settings → Voice and Chat** has **Download** for later. Until then, replies aren't read
+  aloud and Talk and Hands-free say why they wait.
 
 ## Detail and pace
 
