@@ -74,6 +74,15 @@ once for each new version, and **Settings → Licence** keeps the line "Solrac �
 available". It can take up to a week to show, since it arrives with the licence's weekly
 renewal. Download opens the download page; Solrac never replaces itself.
 
+## The voice on an iPad
+
+On an iPad, the first time you start Solrac it asks whether to download its voice (about
+830 MB, once), which reads replies aloud and hears what you say. It needs about 2 GB of free
+space while it unpacks. Choose **Download** and it shows on the loading screen with the usual
+**Continue** button. Choose **Not now** to type instead: Solrac doesn't ask again, and
+**Settings → Voice and Chat** has **Download** when you want it. See
+[The chat and voice](chat-and-voice.md).
+
 ## Chess puzzles
 
 The first time you start Solrac it asks whether to set up chess puzzles, a one-time download of

@@ -205,7 +205,9 @@ The same two switches are in the menu bar, under **Settings → Sound**.
 
 - **Man**, **Woman** or **Neutral**: the kind of voice. The list beside them holds the voices
   of that kind. Neutral lists Alloy (en-US), Dora (es), Dora (pt-BR), Nezumi and Alpha (ja).
-  Until Solrac's voice has loaded, the page says so and there is nothing to choose.
+  Until Solrac's voice has loaded, the page says so and there is nothing to choose. On an iPad
+  where you chose **Not now** to the voice's download, the page says so instead, with
+  **Download**.
 - **Play**: Solrac reads a sample in the voice you chose, and the button becomes **Stop**.
   It sends no message.
 - **Read replies aloud**: **Automatic** (the choice to start: everything is read aloud on most
