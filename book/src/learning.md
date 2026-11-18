@@ -56,6 +56,10 @@ Press ⌘B, or choose View ▸ Opening Explorer, to see what strong players play
 position on the board. Its games are Lichess's: over a million Rapid and Classical games
 between players rated 2200 or more, shared openly by Lichess.
 
+- **The opening's name**, at the top: its ECO code and its name in Lichess's list of
+  openings, such as C60 Ruy Lopez. A position without a name of its own shows the last named
+  one along the moves played, as Lichess does: after 3… a6 4. Ba4 the panel still says
+  C70 Ruy Lopez: Morphy Defense.
 - **The games and results**: how many games reached the position, and how often White won,
   drew or lost, as a bar.
 - **The moves played**, most played first: how many games played each, how they went, and
@@ -65,7 +69,13 @@ between players rated 2200 or more, shared openly by Lichess.
 
 It follows the board, so stepping back through a game or analysing one shows each position
 as you reach it. It keeps the first 20 moves of each game, and positions at least two games
-reached, so later in a game it says that no two games reached the position.
+reached, so later in a game it says that no two games reached the position. It still names
+the opening there, from the positions before.
+
+The name comes from the positions the panel has looked up. A game opened at a later move, or
+the panel opened after the opening, may show no name until you step back through the earlier
+positions; so may moving quickly past them, with the arrow keys or a click further down the
+moves. Solrac shows no name rather than a wrong one.
 
 The Opening Explorer needs Solrac activated on this Mac and a connection: it asks Solrac's
 online data, with your licence, for each position you look at. If it can't, it says why,
