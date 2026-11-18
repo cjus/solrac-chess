@@ -20,7 +20,7 @@ says why.
 
 **Solrac stopped moving.** If the status line says there is an engine error, choose **Restart Solrac**, the button under it in the panel: it starts the engine again and the game carries on. If you are playing on another computer's engine, see [that chapter's troubleshooting](network-play.md#when-something-goes-wrong).
 
-**Where are my games?** In **File → Games Library** (⌘L). Saved PGNs are in the **Solrac**
+**Where are my games?** In **Game → Games Library** (⌘L). Saved PGNs are in the **Solrac**
 folder in your Documents folder.
 
 **The board looks too busy or slow.** Lower the sliders in Settings → Lights or choose a

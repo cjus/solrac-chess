@@ -69,8 +69,11 @@ opponent. A wrong move is taken back and counted.
 - **Skip** finds another puzzle.
 - **Leave puzzles** puts your own game back on the board, exactly as you left it.
 
-While a puzzle is up there is no chat beside the board, since it would give the answer away, and
-no "Game over" window or camera close-up when a puzzle ends in mate. Puzzles are never saved in
+The chat stays along the bottom while you solve. Ask it for a hint ("give me a hint", "help")
+and it gives the puzzle's own hint, the same as **Hint**: the piece to move, marked in red. It
+won't tell you the solution, show lines or analyse the puzzle, and anything that would leave
+the puzzle (a new game, loading a game) waits until you choose **Leave puzzles**. There is no
+"Game over" window or camera close-up when a puzzle ends in mate. Puzzles are never saved in
 your game library.
 
 When you finish, the card says whether it was a clean solve, and offers **Next puzzle** (the

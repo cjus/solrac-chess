@@ -28,15 +28,16 @@ you like, and choose **Activate**. **Lost your key?** is on the same screen.
 ![The Solrac window](images/window.png)
 
 - **The board** fills the middle. Click a piece and then a square, or drag it.
-- **The menu bar** is along the top of the window (the next picture shows it): **Solrac** (About, Settings, Quit), **File** (New Game,
-  Copy FEN, Copy PGN, Games Library), **Game**, **View**, **Settings** and **Help**.
+- **The menu bar** is along the top of the window (the next picture shows it): **Solrac** (About, Settings, Quit), **Game** (New Game,
+  Games Library, Take Back, Chess Puzzles, Copy FEN, Copy PGN and more), **View**, **Settings** and **Help**.
 
-![The menu bar, with the File menu open](images/menu-file.png)
-- **The panel** is on the right: Solrac's face, whose move it is and how the position
-  looks (the bar), how long Solrac thinks per move, two rows of icon buttons (take back, draw,
+![The menu bar, with the Game menu open](images/menu-game.png)
+- **The panel** is on the right: Solrac's face, a row of buttons under it (Engine Thinking, the
+  2D / 3D board, Help, hide the panel), whose move it is and how the position
+  looks (the bar), one line saying how strongly Solrac plays and how long it thinks per move
+  (click it for the sliders), two rows of icon buttons (take back, draw,
   resign, move now, flip, labels, lock the camera; then copy, paste and save a game, the games
-  library and analyse) and the list of moves. In a game with a clock, the clocks and the
-  strength sliders are here too. Hover a button to see its name.
+  library and analyse) and the list of moves. In a game with a clock, the clocks are here too. Hover a button to see its name.
 - **The chat** is the strip along the bottom of the board. Type in it, or press the
   microphone, to ask Solrac a question or to tell it a move. See [The chat and voice](chat-and-voice.md).
 
@@ -47,14 +48,14 @@ Solrac spells the way your Mac's language does: the British way when it is set t
 
 ## Your first game
 
-1. Choose **File → New Game** (⌘N, Ctrl+N elsewhere).
+1. Choose **Game → New Game** (⌘N, Ctrl+N elsewhere).
 2. Under **Play**, pick **White**, **Black**, **Two players** (one board, two people) or
    **Watch** (Solrac plays itself).
 3. Pick a **Time control**, or **None** for no clock.
 4. Set **Solrac's strength** with its slider.
 5. Choose **Start**, or press Enter.
 
-You can change Solrac's strength during the game too, with the strength slider in the panel. The game in progress is
+You can change Solrac's strength during the game too, with the strength slider in the panel (click the line under the evaluation to open it). The game in progress is
 saved as you play, so quitting and starting again carries on where you were; a finished game
 does not come back, and Solrac starts a new game of the same kind instead.
 

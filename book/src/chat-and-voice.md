@@ -40,6 +40,9 @@ kept.
   its voice, then restores your game. A banner with **Stop** shows while it does. Press Esc,
   click **Stop**, click the board, hold Talk, type a message, or change the game, and it stops.
 - During a game it gives ideas, not moves, and nothing on your turn from the engine.
+- During a chess puzzle it gives the puzzle's own hint when you ask (the piece to move, as
+  **Hint** does), and never the solution: it shows no lines and doesn't analyse the puzzle.
+- It can switch between the 3D board and the 2D board.
 
 ## Chat history
 
