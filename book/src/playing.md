@@ -168,7 +168,8 @@ You can also drop a `.pgn` file on the window. See [Your games library](games.md
 
 Prefer a flat board, or is your computer slow? The panel's **2D / 3D** button (the cube, in the
 row under Solrac's face) switches between the two boards: lit, the 3D board shows; click it for
-the 2D one, and again for the 3D one. **Settings → Chess Set → Main view → 2D board** does the
+the 2D one, and again for the 3D one. On an iPad it is at the top of the inspector, beside
+Solrac's name. **Settings → Chess Set → Main view → 2D board** does the
 same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
 of the 3D one, and nothing of the 3D scene is
 drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
