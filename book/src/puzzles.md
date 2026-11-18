@@ -71,8 +71,8 @@ opponent. A wrong move is taken back and counted.
 
 The chat stays along the bottom while you solve. Ask it for a hint ("give me a hint", "help")
 and it gives the puzzle's own hint, the same as **Hint**: the piece to move, marked in red. It
-won't tell you the solution, show lines or analyse the puzzle, and anything that would leave
-the puzzle (a new game, loading a game) waits until you choose **Leave puzzles**. There is no
+won't tell you the solution, show lines or analyse the puzzle, and it refuses anything that
+would leave the puzzle (a new game, loading a game): choose **Leave puzzles** first. There is no
 "Game over" window or camera close-up when a puzzle ends in mate. Puzzles are never saved in
 your game library.
 
