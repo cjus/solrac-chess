@@ -56,14 +56,23 @@ answered."
 The chat is answered by a language model reached through PNXStudios' service, paid with your
 **tokens**, so there is no key to set up. It works with a licence seat on this machine or with a
 signed-in account. If you run out, the chat tells you so. What is sent to get a reply is what
-you type or say (as text) and the position and analysis the question needs. Your games library
-and settings stay on your Mac.
+you type or say (as text) and the position and analysis the question needs, through PNX Studios'
+server to OpenRouter and the company whose language model answers. Your voice itself, your games
+library and your settings stay on your Mac.
+
+![Solrac's chat asks before your first message](images/ai-notice.png)
+
+Before your first message, Solrac tells you that what you type or say goes to the online
+coach, the Solrac Chess AI Coach, and asks: **Continue** sends your message, and
+Solrac doesn't ask again; **Not now** (or Esc) sends nothing, and it asks again next time. You
+can change your answer under **Settings → Voice and Chat → Online coach**.
 
 ## Voice
 
 - **Talk**: hold Space or the Talk button, for up to 30 seconds. The notice above the Rail
   counts the seconds ("Listening: let go to send"). What you say is turned into text **on your
-  Mac** and never saved; online transcription is only a fallback while the voice downloads.
+  Mac**, never sent and never saved. Until the voice has downloaded (once), Talk is greyed out,
+  and its tooltip says why; if the voice couldn't load, Talk waits until Solrac starts again.
 - **Hands-free** keeps the microphone open without a wake word. It waits for you to pause,
   ignores Solrac's own speech, lets you speak over it, and hears an unclear move twice and
   checks it against the legal moves. Half a move, such as "Bishop", waits a moment for the
