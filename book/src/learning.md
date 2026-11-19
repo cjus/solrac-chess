@@ -65,7 +65,8 @@ between players rated 2200 or more, shared openly by Lichess.
 - **The moves played**, most played first: how many games played each and what share of the
   position's games that is, how they went, and the mean rating of their players. Hold the
   pointer over a bar for the exact counts. **Click a move to play it** on the board, on your
-  turn or while you analyse a game. Hold **Ctrl** over a move (the Control key on a Mac too)
+  turn or while you analyse a game (not while the move list shows an earlier move of a game
+  you are playing: click its last move first). Hold **Ctrl** over a move (the Control key on a Mac too)
   to see a small board with the position after it; Esc puts it away.
 - **The strongest games**: the players and their ratings, the result, the move played here
   and the date.
