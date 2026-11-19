@@ -62,8 +62,11 @@ between players rated 2200 or more, shared openly by Lichess.
   C70 Ruy Lopez: Morphy Defense.
 - **The games and results**: how many games reached the position, and how often White won,
   drew or lost, as a bar.
-- **The moves played**, most played first: how many games played each, how they went, and
-  the mean rating of their players. Hold the pointer over a bar for the exact counts.
+- **The moves played**, most played first: how many games played each and what share of the
+  position's games that is, how they went, and the mean rating of their players. Hold the
+  pointer over a bar for the exact counts. **Click a move to play it** on the board, on your
+  turn or while you analyse a game. Hold **Ctrl** over a move (the Control key on a Mac too)
+  to see a small board with the position after it; Esc puts it away.
 - **The strongest games**: the players and their ratings, the result, the move played here
   and the date.
 
