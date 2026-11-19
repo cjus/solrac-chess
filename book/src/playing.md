@@ -80,7 +80,8 @@ draw.
 ## Strength
 
 You set Solrac's strength in the New Game sheet, and you can change it during a game: under the
-clock, the panel has a **Strength** row for the side Solrac plays. Both set the same thing.
+clock, the panel has a **Strength** row for the side Solrac plays. Both set the same thing,
+and so does **Strength against you** in Settings → Game.
 
 The panel's row starts closed, as one line that says how Solrac plays and thinks, such as
 "Solrac · ≈ 1800 Lichess rapid · 1.00 s" ("by the clock" in a game with a clock). Click it to

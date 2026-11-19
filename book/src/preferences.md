@@ -29,11 +29,13 @@ shrinks the window to fit, keeping its shape, and remembers that size instead.
 
 ![Settings, the Game page](images/preferences-game.png)
 
-The heading is **Solrac**. You choose a game's time control and Solrac's strength in the New Game
-sheet, and can change the strength during the game in the panel (see
-[Playing a game](playing.md)). Here are the settings
-that stay the same from game to game:
+The heading is **Solrac**. You choose a game's time control in the New Game sheet (see
+[Playing a game](playing.md)). Here are the settings that stay the same from game to game:
 
+- **Strength against you**: a list of Solrac's levels, each with the rating it plays at, then
+  full strength. It is the same setting as the New Game sheet's strength and the panel's
+  strength row, so a change in any one of them shows in the others. A rating chosen in the
+  panel shows here as that rating until you pick a level.
 - **Think time per move**: from 0.1 to 10 seconds, 1 second to start. It is for games without a
   clock; when a clock is running, the clock decides how long Solrac thinks, and the slider is
   greyed out with a note that says so.
