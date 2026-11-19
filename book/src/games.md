@@ -67,6 +67,8 @@ time; if you move it, it stays where you put it until you close it. It closes wi
 
 ## Putting games in {#importing}
 
+Importing is in Solrac for Mac only. On an iPad, your games are the ones you play there.
+
 The same rule decides what happens to the text or file you give Solrac:
 
 - **A single game, or a position**, is loaded to step through. It is also kept in your games,
@@ -116,6 +118,9 @@ closing the loaded game takes you back to it.
 ## Backups {#backups}
 
 ![The Backups window](images/backups.png)
+
+On an iPad there's no Backups window: iPadOS backs up the app's files, and the daily backup
+below still runs.
 
 Solrac backs up your settings and your games once a day, a few seconds after it starts on a day
 you use it, and keeps the last seven. The **Backups** window lists them, newest first, each with
