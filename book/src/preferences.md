@@ -48,7 +48,7 @@ that stay the same from game to game:
   everything else. Changing it restarts Solrac's engine, and the game carries on. On a computer
   with one core the slider is greyed out.
 
-Under **Chess puzzles**:
+Under **Chess puzzles** (not on an iPad, which has the starter set):
 
 - **Puzzle storage limit**: 500 MB, 1 GB (to start), 2 GB, 5 GB or No limit. As you train, Solrac
   downloads more puzzles until they take this much disk (see
@@ -170,7 +170,8 @@ and the room's highlights in the board's lacquer, and **Reflection** (0 to 200 %
 is how much the board mirrors the pieces, where 100 % is what real lacquer reflects. Under
 **Pieces**, **Clearcoat** (0 to 100 %, 100 % to start) is the glossy shine on the pieces.
 **Reset** puts the light back as it starts. You can also ask Solrac in the chat to change the
-lights.
+lights. On an iPad, **Lighting** has four presets in place of the sliders: **Studio** (as
+Solrac starts), **Daylight**, **Soft** and **Evening**.
 
 ## Sounds
 
@@ -234,7 +235,7 @@ and has **Buy tokens** and **Restore Purchases** instead, and no Download. On an
 ![Settings, the Network page](images/preferences-network.png)
 
 Pair engines on other computers and choose where games are played. See
-[Playing on another computer](network-play.md).
+[Playing on another computer](network-play.md). Not on an iPad.
 
 ## Account
 
