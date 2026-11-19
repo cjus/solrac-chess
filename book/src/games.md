@@ -45,10 +45,13 @@ Click a game to select it, then use the buttons along the top:
 2. **Carry on** plays on from where an unfinished game was left, with who plays each side and the
    clock's times.
 3. **Save PGN** writes it to the Solrac folder in your Documents folder, as above.
-4. **Copy PGN** puts it on the clipboard.
-5. **Delete** removes it after asking again: **Delete** or **Keep**. It can't be undone.
-6. **Import** brings in the games of a PGN file.
-7. **Backups** opens the Backups window, described below.
+4. **Copy PGN** puts the whole game on the clipboard, ready to paste into an email, a forum or
+   another chess program.
+5. **Copy FEN** puts the position the game ends at on the clipboard, in FEN, the one line most
+   chess programs and sites read to set up a position.
+6. **Delete** removes it after asking again: **Delete** or **Keep**. It can't be undone.
+7. **Import** brings in the games of a PGN file.
+8. **Backups** opens the Backups window, described below.
 
 Hover a button that is greyed out to see why.
 

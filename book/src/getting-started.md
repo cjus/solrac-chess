@@ -88,8 +88,7 @@ paint. Some of the deep study tools are only in Solrac for Mac, the full study w
 - **Editing a game in Analyse**: comments, symbols and variations. On an iPad, **Replay** steps
   through a finished game and shows a review's marks and better lines.
 - **Importing PGN files.** Copying and sharing a game's PGN or FEN works on both.
-- **Playing on another computer**, the Backups window and the light's sliders. On an iPad,
-  **Settings → Lights** has presets.
+- **Playing on another computer**, and the Backups window.
 
 To see what Solrac for Mac adds, visit solrac-chess.com.
 

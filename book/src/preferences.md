@@ -170,8 +170,7 @@ and the room's highlights in the board's lacquer, and **Reflection** (0 to 200 %
 is how much the board mirrors the pieces, where 100 % is what real lacquer reflects. Under
 **Pieces**, **Clearcoat** (0 to 100 %, 100 % to start) is the glossy shine on the pieces.
 **Reset** puts the light back as it starts. You can also ask Solrac in the chat to change the
-lights. On an iPad, **Lighting** has four presets in place of the sliders: **Studio** (as
-Solrac starts), **Daylight**, **Soft** and **Evening**.
+lights.
 
 ## Sounds
 
