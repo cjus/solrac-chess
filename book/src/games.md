@@ -124,8 +124,10 @@ If the local database is unavailable (see above), only a single game can be load
 
 When you quit (⌘Q, **Quit Solrac** in the menu, the Dock, or closing the window), Solrac saves
 the game on the board and your settings before it goes. That usually takes a moment too short to
-see; if it takes longer, a **Saving…** window says so. If the local database is unavailable,
-Solrac waits for it to come back, and after ten seconds the window offers **Quit without saving**.
+see; if it takes longer, a **Saving…** window says so. If the local database is unavailable for a
+reason that can pass (another Solrac using it, a full disk), Solrac waits for it to come back, and
+after ten seconds the window offers **Quit without saving**. When it can't be opened at all (see
+above), nothing can be saved, so Solrac quits at once.
 If you log out or restart the Mac while Solrac is open, macOS says Solrac stopped it: Solrac saves
 and quits, and then you can log out or restart again.
 
