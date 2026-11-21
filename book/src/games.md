@@ -9,8 +9,8 @@ computer, by Solrac's database, and **nothing is sent anywhere**.
 If the status in the board's corner says **Local database unavailable**, Solrac can't use the
 database on your computer that keeps your games and settings, so they aren't being saved, no
 games are listed, and nothing can be imported or backed up. The status gives the reason after
-those words. When it is one that can pass, Solrac carries on by itself within half a minute of
-it passing; **Try again** tries at once.
+those words. Once that reason passes, Solrac carries on by itself within half a minute;
+**Try again** tries at once.
 
 When the database can't be opened at all, a **Local database** window in the middle of the board
 says why, and what you can do:
