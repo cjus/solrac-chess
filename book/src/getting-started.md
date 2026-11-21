@@ -59,6 +59,9 @@ You can change Solrac's strength during the game too, with the strength slider i
 saved as you play, so quitting and starting again carries on where you were; a finished game
 does not come back, and Solrac starts a new game of the same kind instead.
 
+Solrac runs once at a time: starting it again while it is open brings the open window to the
+front.
+
 Next: [Playing a game](playing.md).
 
 ## Your account
