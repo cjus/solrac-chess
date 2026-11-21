@@ -5,7 +5,7 @@ Every key Solrac answers to. Press **F1** in Solrac for the same list. Keys are 
 ## General
 
 - **Tab**: Hide or show the whole interface: the panel, the menu bar and the chat strip. It works while you are typing in the chat, which keeps what you typed
-- **Esc**: Close the topmost of New Game, Feedback, About, Settings, Games and Engine Thinking. It also stops a line the chat is showing, puts away a move preview, takes the keys back from the move list, and in Engine Mind lets go of a selected move, then closes a window, then leaves the view
+- **Esc**: Close the topmost of New Game, Feedback, About, Settings, Games and Engine Thinking (not one in a window of its own, which you close with its red button). It also stops a line the chat is showing, puts away a move preview, takes the keys back from the move list, and in Engine Mind lets go of a selected move, then closes a window, then leaves the view
 - **⌘, (Ctrl+,)**: Open Settings
 - **F1** (⌘? on a Mac): Open Help
 - **⌘Q (Alt+F4)**: Quit Solrac
@@ -25,7 +25,7 @@ Every key Solrac answers to. Press **F1** in Solrac for the same list. Keys are 
 
 ## Camera
 
-These work only while the 3D camera is unlocked (the panel's **Lock** button), and not while the move list or a text box has the keys. On the 2D board use the panel's **Flip** button or **View → Flip Board**.
+These work only while the 3D camera is unlocked (the panel's **Lock** button), and not while the move list, Engine Thinking or a text box has the keys. On the 2D board use the panel's **Flip** button or **View → Flip Board**.
 
 - **← → ↑ ↓**: Turn and tilt the camera, a step a press, continuously while held
 - **F**: Flip the board
@@ -42,7 +42,7 @@ These work only while the 3D camera is unlocked (the panel's **Lock** button), a
 
 ## Move list
 
-- **←**: Previous move (once a move in the list is clicked)
+- **←**: Previous move (once a move in the list, or anywhere in Engine Thinking, is clicked)
 - **→**: Next move
 - **Home**: First move
 - **End**: Last move
