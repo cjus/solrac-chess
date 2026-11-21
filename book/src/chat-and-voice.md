@@ -31,7 +31,13 @@ kept.
   or press the buttons.
 - It can analyse the position (one to five lines, quick or deep), compare moves, review a
   move, find a threat, or explain an evaluation term by term. The same position gets the same
-  analysis every time.
+  analysis every time. Its explanations rest on what the engine found on the board and along
+  its lines: a piece left hanging, a pin, a weak pawn, a fork or a skewer a line shows, what
+  a line wins, what the other side threatens. It can also tell you the trap in a move that
+  looks good: a capture or a check a player at your level would be drawn to, and what the
+  engine answers (it takes the level you are playing against as your level, and a club
+  player's when there is none). If a reply still names a move the analysis didn't give, a
+  note under it says so.
 - It can turn, tilt, zoom and fit the camera or face a side, and change the clock, strength,
   think time, lights, environment, sound and voice, labels, the camera lock and the panel.
 - It can take back, offer or answer a draw, copy the position or the game, save or load a game
