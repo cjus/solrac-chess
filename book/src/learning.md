@@ -56,7 +56,7 @@ Engine Thinking in a window you can drag to another monitor, move, resize or mak
 screen. The icon at the top of that window puts it back in Solrac's window. Closing it closes
 Engine Thinking, which opens in its own window again the next time, with ⌘E or the brain
 button. ⌘E and F1 work in it as in Solrac's main window. Quitting Solrac, or closing its main
-window, closes it too.
+window, closes it too. Solrac Help has the same icon and works the same way.
 
 ## Engine Mind
 
