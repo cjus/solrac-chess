@@ -47,6 +47,16 @@ the engine expects. While you play against Solrac it gives no hints on your turn
 When you step through or analyse a game, Solrac searches the position shown for up to 30
 seconds. **Stop** ends the search at once, and **Think longer** searches on. If Solrac
 stops working, **Restart Solrac** or **Try again** starts it again; the game carries on.
+Click anywhere in Engine Thinking and the arrow keys step through the game as in the move
+list (← and →, Home and End, ↑ and ↓ for variations), so you can watch each position's
+analysis; Esc or a click elsewhere gives the keys back.
+
+**In a window of its own** (Mac, Windows and Linux): the icon left of the window's × opens
+Engine Thinking in a window you can drag to another monitor, move, resize or make full
+screen. The icon at the top of that window puts it back in Solrac's window. Closing it closes
+Engine Thinking, which opens in its own window again the next time, with ⌘E or the brain
+button. ⌘E and F1 work in it as in Solrac's main window. Quitting Solrac, or closing its main
+window, closes it too.
 
 ## Engine Mind
 
