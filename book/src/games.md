@@ -6,10 +6,29 @@ Every game you play in Solrac is saved as you play it: after each move, each tak
 new game, and when you quit. Every game you load or import is kept too. They are kept on your
 computer, by Solrac's database, and **nothing is sent anywhere**.
 
-If the Games window says "Your games are kept by chessdb, which isn't running", the database that
-keeps your games isn't running, so no games are listed and nothing can be imported or backed up.
-The window gives the reason after that sentence: usually another Solrac is already open, with the
-database in use. Quit it, then choose **Retry connection** in the Settings status.
+If the status in the board's corner says **Local database unavailable**, Solrac can't use the
+database on your computer that keeps your games and settings, so they aren't being saved, no
+games are listed, and nothing can be imported or backed up. The status gives the reason after
+those words: usually another Solrac is already open, using the database. Quit it, and this Solrac
+carries on by itself within half a minute; **Try again** tries at once.
+
+When the database can't be opened at all, a **Local database** window in the middle of the board
+says why, and what you can do:
+
+- **A newer version of Solrac saved it.** This version leaves it as it is, so the newer one
+  still has everything. **Download the current Solrac** to carry on.
+- **It is damaged.** Solrac offers its newest backup, with its date and what it holds:
+  **Restore** it, or **Choose another backup…** from the list. With no backup, **Start with an
+  empty database**.
+- **The file isn't Solrac's.** **Show in Finder** to look at it, or **Start with an empty
+  database**.
+- **Solrac can't save to its folder** (the disk is full, it is read-only, or its permissions
+  don't allow it). Solrac says which folder, and tries again by itself; **Try again** tries at
+  once.
+
+Nothing is deleted. Before a restore or an empty start, the old database is moved, untouched, into
+a folder beside it named with the date, such as `chessdb-damaged-2026-11-19-091405`, and your
+puzzles stay where they are.
 
 ## The panel's file buttons {#files}
 
@@ -98,10 +117,19 @@ how many were added. Only one import runs at a time; another says "Not imported:
 under way". Older PGN files that aren't UTF-8 are read too. Comments, symbols and variations in a
 game are kept as they were read, so a game you open to analyse keeps its notes.
 
-If the database isn't running (see above), only a single game can be loaded: a file larger than
+If the local database is unavailable (see above), only a single game can be loaded: a file larger than
 1 MB says "Not loaded", and a file of several games loads its first game.
 
 ## Carrying on after you quit {#resume}
+
+When you quit (⌘Q, **Quit Solrac** in the menu, the Dock, or closing the window), Solrac saves
+the game on the board and your settings before it goes. That usually takes a moment too short to
+see; if it takes longer, a **Saving…** window says so. If the local database is unavailable for a
+reason that can pass (another Solrac using it, a full disk), Solrac waits for it to come back, and
+after ten seconds the window offers **Quit without saving**. When it can't be opened at all (see
+above), nothing can be saved, so Solrac quits at once.
+If you log out or restart the Mac while Solrac is open, macOS says Solrac stopped it: Solrac saves
+and quits, and then you can log out or restart again.
 
 If you quit in the middle of a game, Solrac carries on with it at the next start, as it was. The
 clock starts again after your next move, so nobody loses time while Solrac starts. A game that was
