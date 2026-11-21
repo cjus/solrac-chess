@@ -5,7 +5,7 @@ Every key Solrac answers to. Press **F1** in Solrac for the same list. Keys are 
 ## General
 
 - **Tab**: Hide or show the whole interface: the panel, the menu bar and the chat strip. It works while you are typing in the chat, which keeps what you typed
-- **Esc**: Close the topmost of New Game, Feedback, About, Settings, Games and Engine Thinking (not one in a window of its own, which you close with its red button). It also stops a line the chat is showing, puts away a move preview, takes the keys back from the move list, and in Engine Mind lets go of a selected move, then closes a window, then leaves the view
+- **Esc**: Close the topmost of New Game, Feedback, About, Settings, Games and Engine Thinking (not one in a window of its own, which you close with its red button). It also stops a line the chat is showing, puts away a move preview, takes the keys back from the move list or Engine Thinking, and in Engine Mind lets go of a selected move, then closes a window, then leaves the view
 - **⌘, (Ctrl+,)**: Open Settings
 - **F1** (⌘? on a Mac): Open Help
 - **⌘Q (Alt+F4)**: Quit Solrac
