@@ -24,13 +24,16 @@ dots; click one to see the move. It appears once the game has evaluations.
 ## After a game
 
 When a game ends, a **Game over** notice offers **Play again**, **Analyse**, **Review** and
-**Close**. **Review** analyses the game first, then reviews it.
+**Close**. **Review** analyses the game first, then reviews it. On an iPad, **Analyse** is
+**Replay**: it steps through the game and edits nothing. Review there uses the game's own
+Solrac once it isn't playing, and the button is greyed with the reason while it is.
 
 ## Analyse
 
 Switch on **Analyse** to step to any position and play a move to follow or add a variation.
 Right-click a move to edit its comment and symbols, promote or delete a variation, or delete
-the moves from there. Edits are saved in your library as a new version.
+the moves from there. Edits are saved in your library as a new version. Editing is in Solrac
+for Mac only (see [Solrac for iPad](getting-started.md#ipad)).
 
 ## Replay
 
@@ -43,6 +46,8 @@ where the game is over: step back first.
 Press ⌘E, click the evaluation bar or use the brain button to open the Engine Thinking window.
 It shows the evaluation bar, depth, nodes, speed, hash use, tablebase hits, time and the line
 the engine expects. While you play against Solrac it gives no hints on your turn.
+
+On an iPad, the inspector's **Engine** tab shows the evaluation and the expected line.
 
 When you step through or analyse a game, Solrac searches the position shown for up to 30
 seconds. **Stop** ends the search at once, and **Think longer** searches on. If Solrac
@@ -61,6 +66,8 @@ window, closes it too. Solrac Help has the same icon and works the same way.
 ## Engine Mind
 
 ![Engine Mind: the best lines as a tree of small boards](images/engine-mind.png)
+
+Engine Mind is in Solrac for Mac only.
 
 Press ⌘↑ or choose **View → Engine Mind** to see a full-window 3D view of Solrac's best lines,
 drawn as a tree of small boards with the main line (PV1) in front and the next two lines

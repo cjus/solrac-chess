@@ -78,6 +78,23 @@ once for each new version, and **Settings â†’ Licence** keeps the line "Solrac â
 available". It can take up to a week to show, since it arrives with the licence's weekly
 renewal. Download opens the download page; Solrac never replaces itself.
 
+## Solrac for iPad {#ipad}
+
+Solrac for iPad is for playing and learning with Solrac. Everything you do while playing a game is
+there: all four kinds of game and every time control, the coaching chat with Talk and
+Hands-free, the starter set of chess puzzles, Review, and every chess set, environment and room
+paint. Some of the deep study tools are only in Solrac for Mac, the full study workstation:
+
+- **Engine Mind** and the **Opening Explorer**'s games (the opening's name shows at the top of
+  the inspector's Moves tab).
+- **Puzzle packs** beyond the starter set.
+- **Editing a game in Analyse**: comments, symbols and variations. On an iPad, **Replay** steps
+  through a finished game and shows a review's marks and better lines.
+- **Importing PGN files.** Copying and sharing a game's PGN or FEN works on both.
+- **Playing on another computer**, and the Backups window.
+
+To see what Solrac for Mac adds, visit solrac-chess.com.
+
 ## The voice on an iPad
 
 On an iPad, the first time you start Solrac it asks whether to download its voice (about

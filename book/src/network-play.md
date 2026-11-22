@@ -3,7 +3,8 @@
 Solrac normally thinks with the engine inside it, on this computer. Chess engines get stronger with more processor cores and memory, so you may want a laptop to
 use the engine of a faster computer instead: a desktop in the study, say. If you have the engine
 running on a more powerful computer, you can pair with it and play, on its cores, from Solrac. It
-is set up in **Settings → Network**. This chapter shows how to set that up and use it.
+is set up in **Settings → Network**. This chapter shows how to set that up and use it. It is in
+Solrac for Mac only.
 
 ## What you need
 
