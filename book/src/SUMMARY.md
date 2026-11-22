@@ -10,6 +10,7 @@
 - [Learning from the engine](learning.md)
 - [Chess puzzles](puzzles.md)
 - [The chat and voice](chat-and-voice.md)
+- [Using your own AI](own-ai.md)
 - [Your games, imports and backups](games.md)
 - [Playing on an engine on another computer](network-play.md)
 - [On a slower computer](slow-computers.md)

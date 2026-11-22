@@ -69,12 +69,15 @@ you type or say (as text) and the position and analysis the question needs, thro
 server to OpenRouter and the company whose language model answers. Your voice itself, your games
 library and your settings stay on your Mac.
 
+To use your own account with an AI company, or a model on your own computer, instead, see
+[Using your own AI](own-ai.md).
+
 ![Solrac's chat asks before your first message](images/ai-notice.png)
 
 Before your first message, Solrac tells you that what you type or say goes to the online
-coach, the Solrac Chess AI Coach, and asks: **Continue** sends your message, and
+coach, the Solrac Chess AI Coach (or the provider you chose under **Settings → AI**), and asks: **Continue** sends your message, and
 Solrac doesn't ask again; **Not now** (or Esc) sends nothing, and it asks again next time. You
-can change your answer under **Settings → Voice and Chat → Online coach**.
+can change your answer under **Settings → AI**.
 
 ## Voice
 

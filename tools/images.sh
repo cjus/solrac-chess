@@ -41,3 +41,6 @@ r promote --panel --promote --fen "4k3/1P6/8/8/8/8/8/4K3 w - - 0 1"
 r menu-file --panel --menu file
 r chat-history --panel --history
 r engine-mind --mind --moves "e4 e5 Nf3 Nc6" --mind-time 8 --mind-move 2
+r preferences-voice-and-chat --panel --preferences voice-and-chat
+r preferences-ai --panel --preferences ai --ai anthropic
+r ai-notice --panel --ai-notice
