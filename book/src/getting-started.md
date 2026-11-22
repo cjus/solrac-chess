@@ -113,7 +113,8 @@ them.
 ## Where to look things up
 
 - **Help → Solrac Help** (F1, or ⌘? on a Mac) opens the same help inside Solrac. A **?** on a page of Settings
-  opens its part of the help.
+  opens its part of the help. The icon at the top right of its panel opens it in a window of its own, for a
+  second monitor: a **?** in Settings and a link in a page show their page there.
 - [Keyboard shortcuts](shortcuts.md) lists every key.
 - **Solrac → About Solrac** says which version you have; say so when you write to us.
 - **Help → Feedback…** sends a note to PNXStudios. You need to be signed in.
