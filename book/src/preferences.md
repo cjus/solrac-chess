@@ -5,7 +5,7 @@ iPad, choose **Settings…** in the menus on the left. Changes take hold at once
 remembered.
 
 Settings has a list of pages down its left side: Game, Chess Set, Display, Avatar, Sounds, Voice
-and Chat, Lights, Account, Licence (Purchases in the App Store versions), Network and Help.
+and Chat, AI, Lights, Account, Licence (Purchases in the App Store versions), Network and Help.
 Click or tap one to show it. A **?** at the top of each page opens the part of this page about
 it.
 
@@ -187,15 +187,6 @@ The same two switches are in the menu bar, under **Settings → Sound**.
 
 ![Settings, the Voice and Chat page](images/preferences-voice-and-chat.png)
 
-**Online coach**
-
-- **Let the chat use the online coach**: what Solrac asked before your first chat message. What
-  you type or say to the chat (as text) goes, with the game, to the Solrac Chess AI Coach: through
-  PNX Studios' server to OpenRouter and the company whose language model answers. Your voice
-  itself is heard here and never sent.
-  Off, the chat asks again before your next message is sent. See
-  [The chat and voice](chat-and-voice.md).
-
 **Captions**
 
 - **Show captions**: on to start. What Solrac says appears as closed captions above the Rail, a
@@ -217,6 +208,38 @@ The same two switches are in the menu bar, under **Settings → Sound**.
 
 If the voice you saved is no longer there, an orange note says Solrac reads in another one and
 asks you to choose again.
+
+## AI
+
+Where the chat gets its answers.
+
+- **Solrac Coach** (to start): the Solrac Chess AI Coach, paid with your Solrac tokens. Nothing to
+  set up. **Let the chat use the online coach** is what Solrac asked before your first chat
+  message. What you type or say to the chat (as text) goes, with the game, to the coach: through
+  PNX Studios' server to OpenRouter and the company whose language model answers. Your voice
+  itself is heard here and never sent. Off, the chat asks again before your next message is sent.
+- **My own AI provider**: the chat uses your own account with **Anthropic**, **OpenAI**,
+  **Google Gemini** or **OpenRouter**, or a model on this computer (**Ollama** or **LM Studio**,
+  not on an iPad), or any server that speaks OpenAI's format. Nothing goes through PNX Studios,
+  and no Solrac tokens are spent: your provider bills your account.
+  - **API key**: paste it and press **Save**. Solrac keeps it in this device's Keychain, never in
+    Settings or a file, checks it with the provider, and fills the **Model** list. **Remove key**
+    forgets it. **Get a key** opens the provider's page. Where there is no Keychain (Windows and
+    Linux for now) only Ollama and LM Studio, which need no key, are offered.
+  - **Model**: the list the provider gives; Solrac remembers one for each provider. **Refresh**
+    asks again. Results vary with the model: the four providers named have been tested with
+    Solrac's coach, a model on your own computer often can't use its tools.
+  - **Address**: for a server on your network, or any other OpenAI-compatible one. It must start
+    with `http://` or `https://`, with no user, password or `?` in it.
+  - **Let the chat use** (the provider): asked again when you choose another one. It says where
+    what you type goes.
+  - **On this computer**: Ollama and LM Studio are listed when they answer, and **Check again**
+    looks again. Solrac installs and starts nothing.
+
+When your provider refuses, the chat says what to do (check the key, add credit, pick another
+model) with the provider's own words beside it, and you can switch back to Solrac Coach here.
+
+See [Using your own AI](own-ai.md) for keys, models and costs.
 
 ## Licence and Purchases
 
