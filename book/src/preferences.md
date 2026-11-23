@@ -138,7 +138,7 @@ How Solrac explains things in the chat and on the board.
   largest view the open panels leave, and when it closes the board zooms back out to the whole
   window. It works with the camera locked or unlocked. If you zoom yourself with the camera
   unlocked, the next panel to open or close zooms it again; turn Auto-zoom off to keep a view
-  you set. Off, the board stays where it is until you move it, or press **Z**.
+  you set. Off, a board you have moved or zoomed stays where you left it, and **Z** still zooms to fit.
 - **Move List**: **Figurines for the pieces** (♞f3 instead of Nf3), and **Layout**, **table**
   (a row a move) or **book** (the moves in flowing text, as a book prints them).
 - **Panels**: **Panel opacity** of the smoked glass, 50 to 100 % (98 % to start), **Panel
