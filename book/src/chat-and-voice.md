@@ -20,6 +20,9 @@ The strip under the board is the **Rail**. From left to right:
 - **Talk**, **Hands-free** and **Read aloud**, when the voice is ready (see below).
 - **History**, which opens the **Chat history** window.
 
+On an iPad the Rail moves to the top of the window while the on-screen keyboard is up, so the
+text you type stays in sight, and you can keep it at the top (Settings ▸ Display ▸ Chat bar).
+
 **Tab** hides the panel and the Rail together, and shows them again. What you were typing is
 kept.
 
