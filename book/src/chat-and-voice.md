@@ -89,7 +89,13 @@ can change your answer under **Settings → AI**.
   ignores Solrac's own speech, lets you speak over it, and hears an unclear move twice and
   checks it against the legal moves. Half a move, such as "Bishop", waits a moment for the
   rest. It is off at each start. The button is greyed until the voice is ready, with the
-  reason on hover ("Preparing the voice...", or "Unavailable: ..." and why).
+  reason on hover ("Preparing the voice...", or "Unavailable: ..." and why). Each time you
+  turn it on, Solrac does a **sound check**: it says "Sound check. Please say your name.",
+  then you say your name. It measures how loud its own voice reaches the microphone and how
+  loud you are, and sets how loudly you must speak to interrupt it halfway between the two.
+  If the two are too close (loud speakers, a quiet voice), the chat says so: turn Solrac down
+  or speak closer to the microphone. Stop always interrupts it. Nothing is sent to the chat
+  from the sound check, and no sound check happens if replies aren't read aloud.
 - **Read aloud** switches replies on (Always) or off (Never). **Settings → Voice and Chat**
   chooses Automatic, Always, In voice mode (when Hands-free is on) or Never, and the voice.
   Automatic reads everything, except on a computer with a weak graphics card, where it reads
