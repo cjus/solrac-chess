@@ -139,10 +139,10 @@ How Solrac explains things in the chat and on the board.
   window. It works with the camera locked or unlocked. If you zoom yourself with the camera
   unlocked, the next panel to open or close zooms it again; turn Auto-zoom off to keep a view
   you set. Off, a board you have moved or zoomed stays where you left it, and **Z** still zooms to fit.
-  On an iPad, **Chat bar**, **Bottom** (to start) or **Top**, says which edge of the window the
-  Rail is along. Whichever you choose, the Rail moves to the top while the on-screen keyboard is
-  up, so what you type stays in sight, and goes back when the keyboard goes away. The board
-  shrinks to make room and is never covered.
+  **Chat bar**, **Bottom** (to start) or **Top**, says which edge of the window the Rail is
+  along: under the menu bar on a computer. On an iPad the Rail moves to the top while the
+  on-screen keyboard is up, whichever you choose, so what you type stays in sight, and goes back
+  when the keyboard goes away. The board shrinks to make room and is never covered.
 - **Move List**: **Figurines for the pieces** (♞f3 instead of Nf3), and **Layout**, **table**
   (a row a move) or **book** (the moves in flowing text, as a book prints them).
 - **Panels**: **Panel opacity** of the smoked glass, 50 to 100 % (98 % to start), **Panel
