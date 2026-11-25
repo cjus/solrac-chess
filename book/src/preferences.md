@@ -129,9 +129,8 @@ How Solrac explains things in the chat and on the board.
 
 ![Settings, the Display page](images/preferences-display.png)
 
-- **Text**: **Text size** has five steps: 90, 100 (the usual), 115, 130 and 150 %. Drag the
-  slider, or type a percentage and it moves to the nearest step. ⌘+ and ⌘− (the View menu's
-  Larger Text and Smaller Text) change it too.
+- **Text**: **Text size** has five steps: 90, 100 (the usual), 115, 130 and 150 %. Choose
+  one from its list. ⌘+ and ⌘− (the View menu's Larger Text and Smaller Text) change it too.
 - **Graphics**: **Quality**, **Automatic**, **High** or **Low**. A line under it says what
   Automatic is drawing. See [On a slower computer](slow-computers.md).
 - **Board view**: **Auto-zoom** (on to start). When a panel opens, the board zooms to the
