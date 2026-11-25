@@ -11,18 +11,23 @@ When it starts, Solrac asks the graphics card what it is. A **software renderer*
 remote desktop session gives you) or an Intel **HD** or **UHD Graphics** chip counts as a weak
 one. Then, unless you have chosen otherwise:
 
-- **The main view is the 2D board.** It is drawn by the panel's own code, with no 3D scene, and
-  is the biggest saving: on a small Intel chip it drew about 60 frames a second where the 3D
-  board managed about 12.
-- **If you choose the 3D board, Quality is Low.** Low leaves out shadows, the pieces'
-  reflection in the board, ambient occlusion, depth of field, glow and anti-aliasing (so edges
-  are rougher), and draws the board at two thirds of the window's size.
+- **Quality is Low.** Low leaves out shadows, the pieces' reflection in the board, ambient
+  occlusion, depth of field, glow and anti-aliasing (so edges are rougher), and draws the board
+  at two thirds of the window's size.
 - **Replies and moves are read aloud only in the Rail's Voice mode.** Making speech takes
   several of the processor's cores for ten seconds or more, which also slows the board.
 
-Every other computer gets the 3D board, High quality and everything read aloud, as before.
-Settings says when Automatic has chosen for you ("Automatic is showing the 2D board: this
-graphics card is a weak one").
+Every other computer gets High quality and everything read aloud. Every computer starts on the
+3D board.
+
+## The 2D board
+
+The biggest saving is the 2D board. It is drawn by the panel's own code, with no 3D scene:
+on a small Intel chip it drew about 60 frames a second where the 3D board managed about 12.
+Choose **2D board** under **Main view** (Settings → Chess Set), or **Automatic**, which picks
+the 2D board on a weak graphics card and the 3D board on any other. Settings says when
+Automatic has chosen for you ("Automatic is showing the 2D board: this graphics card is a weak
+one").
 
 ## Choosing for yourself
 
@@ -35,7 +40,7 @@ graphics card is a weak one").
   everything, as on a stronger computer; the speaker button turns reading on or off for now.
 
 Your choice is kept, and beats Automatic from then on, even if you later change computers.
-Choosing **Automatic** again hands the decision back.
+Choosing **Automatic** again hands the decision back. **Main view** starts at **3D board**.
 
 ## If it is still slow
 

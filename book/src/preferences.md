@@ -64,12 +64,12 @@ Under **Chess puzzles** (not on an iPad, which has the starter set):
 
 Two columns: **Board**, and **Chess clock** (3D board only).
 
-- **Main view**: **Automatic**, **3D board** (the photographic board and pieces) or **2D board**
-  (a large flat board, see [Playing a game](playing.md)). A line under it says what Automatic
-  chose. Automatic picks the 2D board on a computer with a weak graphics card; see
-  [On a slower computer](slow-computers.md).
-- **Chess set** (3D board): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
-  its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
+- **Main view**: **Automatic**, **3D board** (the photographic board and pieces, the choice to
+  start) or **2D board** (a large flat board, see [Playing a game](playing.md)). A line under
+  it says what Automatic chose. Automatic picks the 2D board on a computer with a weak graphics
+  card; see [On a slower computer](slow-computers.md).
+- **Chess set** (3D board): **Classic wood** (to start), **Ebony + maple** or **Medieval
+  pewter**, each its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
   sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
   polished and blackened pewter on oak. Hover a set to read what it is made of.
 - **Pieces** and **Board** (3D board): any pieces on any board, say the Medieval pewter
@@ -86,14 +86,14 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   bevel on an ebony frame banded in golden rosewood), **Raised field** (the squares standing
   above a matt walnut frame) and **End grain** (a thick block with no frame, so it has no
   coordinates). The chess clock and the captured pieces move to suit each board's size.
-- **Table** (3D board): what the board stands on. **None** (to start) leaves it on its
-  backdrop; or one of four tables, each with its own edge and wood: **Farmhouse oak** (a thick
-  white-oak top glued from wide boards, square edged), **Mid-century walnut** (one walnut
-  panel, its edge undercut so it looks thin, on splayed legs), **Library mahogany** (a moulded
+- **Table** (3D board): what the board stands on. **None** leaves it on its backdrop; or one
+  of four tables, each with its own edge and wood: **Farmhouse oak** (a thick white-oak top
+  glued from wide boards, square edged), **Mid-century walnut** (one walnut panel, its edge
+  undercut so it looks thin, on splayed legs; the table to start), **Library mahogany** (a moulded
   ogee edge) and **Café ash** (pale ash with a rounded bullnose edge and big rounded corners).
   The table sits under whichever board you choose.
-- **Floor** (3D board): the wood floor under the table, seen past its edge: **None** (to
-  start), **Oak planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to
+- **Floor** (3D board): the wood floor under the table, seen past its edge: **None**, **Oak
+  planks** (to start), **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to
   the horizon, a little darker far away, as a room's floor does.
 
 ![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
@@ -162,8 +162,8 @@ How Solrac explains things in the chat and on the board.
 - **Panels**: **Panel opacity** of the smoked glass, 50 to 100 % (98 % to start), **Panel
   colour**, and **Engine Mind colour** for the Engine Mind view's panels. Each colour has a
   **Reset**. A colour too bright for the text is dimmed to the same hue.
-- **Environment** (3D board): what surrounds the board. The list holds **None**, **Room paint**
-  (the choice to start), **Slate**, **Gray slate**, **Violet nebula**, **Blue nebula**,
+- **Environment** (3D board): what surrounds the board. The list holds **None** (the choice to
+  start: plain grey, with the floor running out to it), **Room paint**, **Slate**, **Gray slate**, **Violet nebula**, **Blue nebula**,
   **Clouds at sunset** and **Clouds at night**. A spinner shows while a sky is being painted.
   The View menu has the same list under **Environment**.
 
