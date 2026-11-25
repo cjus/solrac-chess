@@ -115,6 +115,17 @@ Solrac thinks." The same slider is in **Settings → Game**.
 - If Solrac stops with an engine error, the status line says so and a **Restart Solrac** button
   appears under it. Press it: the game carries on.
 
+## Pausing a game
+
+**Game → Pause Game** (on an iPad, **Pause Game** in **Actions**) pauses the game on the board:
+both clocks stop and Solrac stops thinking, so no one loses time. A tick shows while it is paused.
+Make your move to carry on: your opponent's clock starts as usual. On Solrac's turn, choose
+**Pause Game** again to untick it, and Solrac carries on thinking with the time it had.
+
+A paused game stays paused if you quit Solrac or leave the iPad. When Solrac next starts, a
+message says "Game paused - make a move to resume your game." Pause Game is greyed when there
+is no game to pause: a game that is over, a game loaded to look at, or a puzzle.
+
 ## Draws, resigning and the end
 
 - **Draw** between two people: either of you presses it and the game is drawn by agreement.
@@ -178,9 +189,8 @@ Prefer a flat board, or is your computer slow? The panel's **2D / 3D** button (t
 row under Solrac's face) switches between the two boards: lit, the 3D board shows; click it for
 the 2D one, and again for the 3D one. On an iPad it is the last of the row of buttons at the top
 of the menus on the left, and it shows the board a tap takes you to: a grid on the 3D board, a
-cube on the 2D one. **Lock Camera** and **Zoom to Fit** are in **Actions**,
-on the 3D board. **Settings → Chess Set → Main view → 2D board** does the
-same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
+cube on the 2D one. **Zoom to Fit** is in **Actions**, on the 3D board.
+**Settings → Chess Set → Main view → 2D board** does the same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
 of the 3D one, and nothing of the 3D scene is
 drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
 a computer with a weak graphics card (see [On a slower computer](slow-computers.md)).
@@ -197,7 +207,11 @@ other side at once. The game's clocks are in the panel, and the camera keys belo
 
 ## The camera
 
-The camera is locked when Solrac starts, and stays locked each time: the panel's **Lock** button
+On an iPad the camera has no lock: put two fingers on the board and drag them to orbit, twist
+them to turn the board round, and pinch to zoom. Tap twice with two fingers to return to the
+usual view. **Zoom to Fit** in **Actions** zooms in as far as the board allows.
+
+On a computer, the camera is locked when Solrac starts, and stays locked each time: the panel's **Lock** button
 unlocks it (the button is lit while locked). Unlocked, right-drag or scroll with two fingers to
 orbit, and use the wheel or pinch to zoom. The arrow keys steer it, one step a press and
 continuously while held. `F` flips the board, `Z` zooms to fit and `R` returns to the usual view.
