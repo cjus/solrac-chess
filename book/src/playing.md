@@ -199,7 +199,9 @@ other side at once. The game's clocks are in the panel, and the camera keys belo
 
 The camera is locked when Solrac starts, and stays locked each time: the panel's **Lock** button
 unlocks it (the button is lit while locked). Unlocked, right-drag or scroll with two fingers to
-orbit, and use the wheel or pinch to zoom. The arrow keys steer it, one step a press and
+orbit, and use the wheel or pinch to zoom. You can zoom out to about one and a half times the
+distance at which the board fits, no farther, so the board stays large enough to play on. The
+arrow keys steer it, one step a press and
 continuously while held. `F` flips the board, `Z` zooms to fit and `R` returns to the usual view.
 All of these keys work only while the camera is unlocked.
 
