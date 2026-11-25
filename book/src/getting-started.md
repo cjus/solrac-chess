@@ -116,6 +116,8 @@ them.
   opens its part of the help. The icon at the top right of its panel opens it in a window of its own, for a
   second monitor: a **?** in Settings and a link in a page show their page there.
 - [Keyboard shortcuts](shortcuts.md) lists every key.
-- **Solrac → About Solrac** says which version you have; say so when you write to us.
+- **Solrac → About Solrac** says which version you have; say so when you write to us. On an
+  iPad, **About Solrac** is the last of the menus on the left, and the version is at their
+  bottom.
 - **Help → Feedback…** sends a note to PNXStudios. You need to be signed in.
 - **Help → Solrac Documentation** opens the engine's book (cb2026), not this guide.
