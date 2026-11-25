@@ -26,7 +26,8 @@ square and pulls back. Turning the camera yourself, or **Flip**, ends it.
 
 ![The New Game sheet](images/new-game.png)
 
-Choose **Game → New Game** (⌘N, Ctrl+N on Windows and Linux). A sheet opens over the board,
+Choose **Game → New Game** (⌘N, Ctrl+N on Windows and Linux; on an iPad, tap **Actions** at the
+top of the menus on the left, then **New Game…**). A sheet opens over the board,
 which dims until you answer it. It asks four things, then **Start** (or Enter) begins the game.
 **Cancel** or Esc leaves it, and nothing you chose there changes. On a Mac, Cancel and Start are
 at the bottom right; on Windows and Linux, Start comes before Cancel, as Windows dialogs have
@@ -126,6 +127,10 @@ Solrac thinks." The same slider is in **Settings → Game**.
 ![Solrac offers a draw](images/draw-offer.png)
 - **Resign** gives the game up. Use the buttons, or ask in the chat, which checks with you first.
 
+On an iPad, **Offer a Draw** (or **Agree a Draw** between two people) and **Resign…** are in
+**Actions**, at the top of the menus on the left, with **Move Now**. Resign… asks before it
+gives the game up.
+
 A game ends by checkmate, stalemate, threefold repetition, the fifty-move rule, insufficient
 material, time, resignation or an agreed draw. A **Game over** window then says how it ended, with:
 
@@ -162,8 +167,8 @@ two are also in the **Game** menu:
 - **Paste** loads what is on the clipboard: a game (PGN) or a position (FEN). If it holds several
   games, they go to your library instead.
 
-On an iPad, **Copy PGN** and **Copy FEN** are in the **…** menu, in the row of buttons at the top
-of the menus on the left.
+On an iPad, **Copy PGN** and **Copy FEN** are in **Actions**, at the top of the menus on the
+left.
 
 You can also drop a `.pgn` file on the window. See [Your games library](games.md).
 
@@ -171,8 +176,10 @@ You can also drop a `.pgn` file on the window. See [Your games library](games.md
 
 Prefer a flat board, or is your computer slow? The panel's **2D / 3D** button (the cube, in the
 row under Solrac's face) switches between the two boards: lit, the 3D board shows; click it for
-the 2D one, and again for the 3D one. On an iPad it is in the row of buttons at the top of the
-menus on the left, beside the **…** button. **Settings → Chess Set → Main view → 2D board** does the
+the 2D one, and again for the 3D one. On an iPad it is the last of the row of buttons at the top
+of the menus on the left, and it shows the board a tap takes you to: a grid on the 3D board, a
+cube on the 2D one. **Lock Camera** and **Zoom to Fit** are in **Actions**,
+on the 3D board. **Settings → Chess Set → Main view → 2D board** does the
 same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
 of the 3D one, and nothing of the 3D scene is
 drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
