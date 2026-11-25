@@ -93,8 +93,8 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   ogee edge) and **Café ash** (pale ash with a rounded bullnose edge and big rounded corners).
   The table sits under whichever board you choose.
 - **Floor** (3D board): the wood floor under the table, seen past its edge: **None** (to
-  start), **Oak planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It fades into
-  the room's wall or the sky farther away, so it never shows an end.
+  start), **Oak planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to
+  the horizon, a little darker far away, as a room's floor does.
 
 ![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
 
