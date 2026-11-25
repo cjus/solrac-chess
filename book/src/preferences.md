@@ -86,8 +86,21 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   bevel on an ebony frame banded in golden rosewood), **Raised field** (the squares standing
   above a matt walnut frame) and **End grain** (a thick block with no frame, so it has no
   coordinates). The chess clock and the captured pieces move to suit each board's size.
+- **Table** (3D board): what the board stands on. **None** (to start) leaves it on its
+  backdrop; or one of four tables, each with its own edge and wood: **Farmhouse oak** (a thick
+  white-oak top glued from wide boards, square edged), **Mid-century walnut** (one walnut
+  panel, its edge undercut so it looks thin, on splayed legs), **Library mahogany** (a moulded
+  ogee edge) and **Café ash** (pale ash with a rounded bullnose edge and big rounded corners).
+  The table sits under whichever board you choose.
+- **Floor** (3D board): the wood floor under the table, seen past its edge: **None** (to
+  start), **Oak planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to
+  the horizon, a little darker far away, as a room's floor does.
+
+![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
+
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
-  **Sand**, each a swatch.
+  **Sand**, each a swatch, or one of the same four wood floors as the 3D board's, which puts
+  the flat board on the floor, the floor a little darker so the board stands out.
 - **Light squares** and **Dark squares** (2D board): each from a colour picker with its own
   **Reset**. **Reset board colours** appears once you change either, and puts both back. The
   dark squares' colour is also the colour of the border round the board.
