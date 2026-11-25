@@ -135,8 +135,9 @@ How Solrac explains things in the chat and on the board.
   Automatic is drawing. See [On a slower computer](slow-computers.md).
 - **Board view**: **Auto-zoom** (on to start). When a panel opens, the board zooms to the
   largest view the open panels leave, and when it closes the board zooms back out to the whole
-  window. It works with the camera locked or unlocked. If you zoom yourself with the camera
-  unlocked, the next panel to open or close zooms it again; turn Auto-zoom off to keep a view
+  window. It zooms again when the window changes size, or the iPad turns. It works with the camera
+  locked or unlocked. If you zoom yourself with the camera unlocked, the next panel to open or
+  close, or the next change in the window's size, zooms it again; turn Auto-zoom off to keep a view
   you set. Off, a board you have moved or zoomed stays where you left it, and **Z** still zooms to fit.
   **Chat bar**, **Bottom** (to start) or **Top**, says which edge of the window the Rail is
   along: under the menu bar on a computer. On an iPad the Rail moves to the top while the
