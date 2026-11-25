@@ -177,8 +177,8 @@ You can also drop a `.pgn` file on the window. See [Your games library](games.md
 Prefer a flat board, or is your computer slow? The panel's **2D / 3D** button (the cube, in the
 row under Solrac's face) switches between the two boards: lit, the 3D board shows; click it for
 the 2D one, and again for the 3D one. On an iPad it is the last of the row of buttons at the top
-of the menus on the left, and it shows the board you are on, a cube for the 3D board and a grid
-for the 2D one; tap it for the other. **Lock Camera** and **Zoom to Fit** are in **Actions**,
+of the menus on the left, and it shows the board a tap takes you to: a grid on the 3D board, a
+cube on the 2D one. **Lock Camera** and **Zoom to Fit** are in **Actions**,
 on the 3D board. **Settings → Chess Set → Main view → 2D board** does the
 same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
 of the 3D one, and nothing of the 3D scene is
