@@ -92,9 +92,11 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   panel, its edge undercut so it looks thin, on splayed legs), **Library mahogany** (a moulded
   ogee edge) and **Café ash** (pale ash with a rounded bullnose edge and big rounded corners).
   The table sits under whichever board you choose.
-- **Floor** (3D board): the wood floor under the table, seen past its edge: **None** (to
-  start), **Oak planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to
-  the horizon, a little darker far away, as a room's floor does.
+- **Floor** (3D board): the wood floor under the table: **None** (to start), **Oak
+  planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to the
+  horizon, a little darker far away, as a room's floor does. The tables are large and
+  square, so from a player's seat the board is surrounded by table: the floor shows past
+  the table's edge when you turn the camera low, or in a tall window.
 
 ![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
 
