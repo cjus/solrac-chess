@@ -146,6 +146,13 @@ How Solrac explains things in the chat and on the board.
 
 - **Text**: **Text size** has five steps: 90, 100 (the usual), 115, 130 and 150 %. Choose
   one from its list. ⌘+ and ⌘− (the View menu's Larger Text and Smaller Text) change it too.
+- **Layout** (Mac, Windows and Linux): **Computer** (to start), with the menu bar along the top
+  and the panel on the right, or **iPad**, Solrac for iPad's design: the menus on the left, the
+  inspector on the right, a handle on each side, and Settings as a sheet. Solrac uses the layout
+  you choose the next time it starts. The iPad layout keeps every feature of your computer's
+  Solrac (see [The iPad layout on a computer](getting-started.md#ipad-layout)), and
+  Layout stays on this page in either one, so you can switch back. An iPad always shows its own
+  layout, and has no Layout choice.
 - **Graphics**: **Quality**, **Automatic**, **High** or **Low**. A line under it says what
   Automatic is drawing. See [On a slower computer](slow-computers.md).
   **Black and white** draws the 3D board in black and white, at either quality. **Off** (to
