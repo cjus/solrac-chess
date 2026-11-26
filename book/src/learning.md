@@ -52,13 +52,12 @@ stops working, **Restart Solrac** or **Try again** starts it again; the game car
 
 ![The Opening Explorer over the board](images/opening-explorer.png)
 
-Press ⌘B, or choose View ▸ Opening Explorer, to see what strong players played in the
-position on the board. Its games are Lichess's: over a million Rapid and Classical games
-between players rated 2200 or more, shared openly by Lichess.
+Press ⌘B, or choose View ▸ Opening Explorer, to see what was played in the
+position on the board, in the Solrac collection of over 6 million games.
 
-- **The opening's name**, at the top: its ECO code and its name in Lichess's list of
-  openings, such as C60 Ruy Lopez. A position without a name of its own shows the last named
-  one along the moves played, as Lichess does: after 3… a6 4. Ba4 the panel still says
+- **The opening's name**, at the top: its ECO code and its name, such as C60 Ruy
+  Lopez. A position without a name of its own shows the last named one along the moves
+  played: after 3… a6 4. Ba4 the panel still says
   C70 Ruy Lopez: Morphy Defense.
 - **The games and results**: how many games reached the position, and how often White won,
   drew or lost, as a bar.
@@ -76,7 +75,7 @@ as you reach it. It keeps the first 20 moves of each game, and positions at leas
 reached, so later in a game it says that no two games reached the position. It still names
 the opening there, from the moves before.
 
-Solrac names the opening itself, from the moves on the board and Lichess's list, which is
+Solrac names the opening itself, from the moves on the board and its list of openings, which is
 built in: a game opened at a later move, one started from a set-up position, and a game with
 no connection are named too.
 
