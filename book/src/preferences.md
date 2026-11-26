@@ -100,6 +100,22 @@ Two columns: **Board**, and **Chess clock** (3D board only).
 
 ![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
 
+**Black and white** (3D board, on the Environment page)
+
+- **Look**: the 3D board in black and white. **Off** (to start) keeps it in colour. **Mono** is
+  plain black and white: the brightness your eye already sees in the colours. **Grit** is
+  punchy, with deep blacks, bright whites and coarse grain, like high-contrast film. **Selenium**
+  has cool purple-black shadows and neutral whites, like a toned fine-art print. **Film** has a
+  gentle curve, fine grain and faintly warm paper. **Mono + sharpen** is Mono with its fine
+  detail sharpened.
+
+Only the 3D board turns grey: the panels, the menus and the chat stay in colour, and so do the
+2D board and the Engine Mind view. The arrows and marks on the board turn grey with it; they
+still show by their brightness and shape. The grain moves only while something on the board
+moves, so a still board keeps a still grain.
+
+![The board in each look: Off, Mono and Grit above; Selenium, Film and Mono + sharpen below](images/monochrome-looks.png)
+
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
   **Sand**, each a swatch, or one of the same four wood floors as the 3D board's, which puts
   the flat board on the floor, the floor a little darker so the board stands out.
