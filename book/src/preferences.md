@@ -156,8 +156,8 @@ How Solrac explains things in the chat and on the board.
   sharpen** is Mono with its fine detail sharpened. Only the 3D board turns grey: the panels,
   the menus and the chat stay in colour, and so do the 2D board and the Engine Mind view. The
   arrows and marks on the board turn grey with it; they still show by their brightness and
-  shape. The grain moves only while something on the board moves, so a still board keeps a
-  still grain.
+  shape. The grain of Grit and Film stands still: the same pattern on every frame, whether
+  the board moves or not.
 
 ![The board in each look: Off, Mono and Grit above; Selenium, Film and Mono + sharpen below](images/monochrome-looks.png)
 
