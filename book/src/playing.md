@@ -207,14 +207,17 @@ other side at once. The game's clocks are in the panel, and the camera keys belo
 
 ## The Notebook
 
-**Settings → Chess Set → Main view → Notebook** draws the board and pieces as a study in one of
-Leonardo da Vinci's notebooks: in ink on parchment, the pieces hatched by the light falling on
-them, their shadows washed in, the board ruled on the page and lines of mirror writing in its
-margins. The room, the table and the chess clock aren't drawn. Everything else is as on the 3D
-board: you move the same way, the camera keys below turn and zoom it, and arrows and rings from
-the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
-(**Sepia ink**, **Red chalk** or **Blue paper**) and whether its lines **boil**, drawn afresh ten
-times a second like a hand-drawn film. **Black and white** (Settings → Display) doesn't apply to
+**Settings → Chess Set → Main view → Notebook** draws the board and pieces as a page of an
+inventor's notebook: in ink on parchment, the pieces hatched by the light falling on them, their
+shadows washed in, and the board ruled on the page. Round it are the inventor's notes and studies:
+gears and pulleys, an aerial screw, birds in flight, chess pieces turned on a lathe, an armoured
+car and a wing, drafted with dimensions, lettered callouts and scales. Zoom out or turn the camera
+to see them all. The room, the table and the chess clock aren't drawn. Everything else is as on
+the 3D board: you move the same way, the camera keys below turn and zoom it, and arrows and rings
+from the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
+(**Sepia ink**, **Red chalk** or **Blue paper**), whether its lines **boil**, drawn afresh ten
+times a second like a hand-drawn film, and whether it shows its **Notes and sketches**: turn them
+off for a clean sheet with only the board. **Black and white** (Settings → Display) doesn't apply to
 it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
 board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
 
