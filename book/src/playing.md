@@ -205,6 +205,19 @@ Settings → Chess Set. The pieces are drawn again for the size of the board whe
 resize the window. The **Flip** button, or **View → Flip Board**, turns the board over to the
 other side at once. The game's clocks are in the panel, and the camera keys below don't apply.
 
+## The Notebook
+
+**Settings → Chess Set → Main view → Notebook** draws the board and pieces as a study in one of
+Leonardo da Vinci's notebooks: in ink on parchment, the pieces hatched by the light falling on
+them, their shadows washed in, the board ruled on the page and lines of mirror writing in its
+margins. The room, the table and the chess clock aren't drawn. Everything else is as on the 3D
+board: you move the same way, the camera keys below turn and zoom it, and arrows and rings from
+the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
+(**Sepia ink**, **Red chalk** or **Blue paper**) and whether its lines **boil**, drawn afresh ten
+times a second like a hand-drawn film. **Black and white** (Settings → Display) doesn't apply to
+it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
+board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
+
 ## The camera
 
 On an iPad the camera has no lock: put two fingers on the board and drag them to orbit, twist
