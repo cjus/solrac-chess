@@ -69,8 +69,8 @@ Two columns: **Board**, and **Chess clock** (3D board only).
 - **Main view**: **Automatic**, **3D board** (the photographic board and pieces), **2D board**
   (a large flat board, see [Playing a game](playing.md)), **Notebook** (the board and pieces
   drawn in ink on parchment, as a page of an inventor's notebook) or **Floating board** (the
-  board afloat in a daytime sky, as an optical illusion: your pieces hang beneath it and the
-  other side's stand on it). A line under
+  board afloat in a daytime sky, as an optical illusion: Solrac's pieces hang beneath it and
+  yours stand on it). A line under
   it says what Automatic chose. Automatic picks the 2D board on a computer with a weak graphics
   card, and never the Notebook or the Floating board; see
   [On a slower computer](slow-computers.md).
