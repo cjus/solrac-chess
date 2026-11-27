@@ -68,7 +68,7 @@ Two columns: **Board**, and **Chess clock** (3D board only).
 
 - **Main view**: **Automatic**, **3D board** (the photographic board and pieces), **2D board**
   (a large flat board, see [Playing a game](playing.md)) or **Notebook** (the board and pieces
-  drawn in ink on parchment, as a study in one of Leonardo da Vinci's notebooks). A line under
+  drawn in ink on parchment, as a page of an inventor's notebook). A line under
   it says what Automatic chose. Automatic picks the 2D board on a computer with a weak graphics
   card, and never the Notebook; see [On a slower computer](slow-computers.md).
 - **Paper and ink** (Notebook): **Sepia ink** (brown iron-gall ink on parchment, to start),
@@ -76,6 +76,8 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   brown).
 - **Boiling lines** (Notebook): each line is drawn afresh ten times a second, so the drawing
   shimmers as a hand-drawn film does. Off to start.
+- **Notes and sketches** (Notebook): the inventor's written notes and drafted studies round the
+  board. Turn them off for a clean sheet with only the board. On to start.
 - **Chess set** (3D board and Notebook): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
   its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
   sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
