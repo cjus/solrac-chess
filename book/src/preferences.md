@@ -125,9 +125,9 @@ Notebook, a note at the top of the page says what it leaves out and that it come
 
 ## Environment {#environment}
 
-How Solrac looks and sounds around the game, in five tabs: **Scene**, **Table and floor** and
-**Lighting** for what surrounds the 3D board, **User Interface** for the text, the graphics and
-the panels, and **Sounds**. With the 2D board and in the Notebook, Environment has only User
+How Solrac looks and sounds around the game, in five tabs: **Scene** (with black and white),
+**Table and floor** and **Lighting** for the 3D board's look, **User Interface** for the text,
+the graphics and the panels, and **Sounds**. With the 2D board and in the Notebook, Environment has only User
 Interface and Sounds, with a note saying why; the 2D board's **Background** is on Chess Set.
 
 ![Settings, Environment with the 2D board: User Interface and Sounds, and the note](images/preferences-environment-2d.png)
@@ -153,6 +153,19 @@ With **Room paint**, the room is a wall of your own colour, and more controls ap
 - **New texture**: plasters the wall again, the same paint on a different wall.
 - **Colour in the light**: from 0 to 100 % (25 % to start), how much of the wall's colour
   reaches the board and the pieces' lacquer.
+
+**Black and white** draws the 3D board in black and white, at either quality. **Off** (to
+start) keeps it in colour. **Mono** is plain black and white: the brightness your eye already
+sees in the colours. **Grit** is punchy, with deep blacks, bright whites and coarse grain, like
+high-contrast film. **Selenium** has cool purple-black shadows and neutral whites, like a toned
+fine-art print. **Film** has a gentle curve, fine grain and faintly warm paper. **Mono +
+sharpen** is Mono with its fine detail sharpened. Only the 3D board turns grey: the panels, the
+menus and the chat stay in colour, and so do the 2D board, the Notebook and the Engine Mind
+view. The arrows and marks on the board turn grey with it; they still show by their brightness
+and shape. The grain of Grit and Film stands still: the same pattern on every frame, whether
+the board moves or not.
+
+![The board in each look: Off, Mono and Grit above; Selenium, Film and Mono + sharpen below](images/monochrome-looks.png)
 
 ### Table and floor {#table-and-floor}
 
@@ -194,19 +207,8 @@ as it starts. You can also ask Solrac in the chat to change the lights.
   Layout stays on this tab in either one, so you can switch back. An iPad always shows its own
   layout, and has no Layout choice.
 - **Graphics**: **Quality**, **Automatic**, **High** or **Low**. A line under it says what
-  Automatic is drawing. See [On a slower computer](slow-computers.md).
-  **Black and white** draws the 3D board in black and white, at either quality. **Off** (to
-  start) keeps it in colour. **Mono** is plain black and white: the brightness your eye already
-  sees in the colours. **Grit** is punchy, with deep blacks, bright whites and coarse grain,
-  like high-contrast film. **Selenium** has cool purple-black shadows and neutral whites, like a
-  toned fine-art print. **Film** has a gentle curve, fine grain and faintly warm paper. **Mono +
-  sharpen** is Mono with its fine detail sharpened. Only the 3D board turns grey: the panels,
-  the menus and the chat stay in colour, and so do the 2D board and the Engine Mind view. The
-  arrows and marks on the board turn grey with it; they still show by their brightness and
-  shape. The grain of Grit and Film stands still: the same pattern on every frame, whether
-  the board moves or not.
-
-![The board in each look: Off, Mono and Grit above; Selenium, Film and Mono + sharpen below](images/monochrome-looks.png)
+  Automatic is drawing. See [On a slower computer](slow-computers.md). Black and white is on
+  the **Scene** tab.
 
 - **Board view**: **Auto-zoom** (on to start). When a panel opens, the board zooms to the
   largest view the open panels leave, and when it closes the board zooms back out to the whole

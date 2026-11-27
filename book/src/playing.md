@@ -214,7 +214,7 @@ margins. The room, the table and the chess clock aren't drawn. Everything else i
 board: you move the same way, the camera keys below turn and zoom it, and arrows and rings from
 the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
 (**Sepia ink**, **Red chalk** or **Blue paper**) and whether its lines **boil**, drawn afresh ten
-times a second like a hand-drawn film. **Black and white** (Settings → Environment → User Interface) doesn't apply to
+times a second like a hand-drawn film. **Black and white** (Settings → Environment → Scene) doesn't apply to
 it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
 board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
 
