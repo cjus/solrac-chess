@@ -221,6 +221,28 @@ off for a clean sheet with only the board. **Black and white** (Settings → Dis
 it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
 board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
 
+## The Floating board
+
+**Settings → Chess Set → Main view → Floating board** shows your board afloat in a daytime sky,
+drawn as an optical illusion: Solrac's pieces hang beneath the board and yours stand on top of
+it, on the same face, every piece with its base on its square. When two people play, or Solrac
+plays both sides, Black's pieces hang. The board is turned to a diamond, and from your seat the
+hanging side is toward the bottom of the picture.
+
+![The Floating board](images/floating-board.png)
+
+You move as on the 3D board: click a piece, hanging or standing, and then a square, or drag it.
+The squares it can go to are marked, the last move and a king in check are lit, and arrows and
+rings from the chat are drawn on the board. The camera keys below turn and zoom it: it tilts up
+to a view from overhead, and down only as far as the illusion holds. The **Flip** button, or
+**View → Flip Board**, shows the board from the other side, with the same pieces hanging.
+
+It uses your chess set, pieces and board, and **Show board coordinates**. The room, the table,
+the chess clock and the captured pieces aren't drawn, and the sky is the view's own, whatever
+your Environment; the game's clocks are in the panel. Automatic never picks it. From the
+Floating board, the panel's **2D** button shows the 2D board, and its **3D** button there the 3D
+board; choose Floating board in Settings to come back.
+
 ## The camera
 
 On an iPad the camera has no lock: put two fingers on the board and drag them to orbit, twist
