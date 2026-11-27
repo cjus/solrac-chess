@@ -19,8 +19,10 @@ Display or Lights, so you can see your changes as you make them.
 
 Settings shows only what applies to the board you are using. With the 2D board there is no
 Lights page, no chess set or chess clock, and no Environment under Display, and the View and
-Settings menus leave out the camera, Environment and Clock Position. If you are on the Lights
-page when you switch to the 2D board, Settings moves you to Chess Set.
+Settings menus leave out the camera, Environment and Clock Position. The Notebook has no Lights
+page, chess clock or Environment either, and the menus leave out Environment and Clock
+Position, but it keeps the camera. If you are on the Lights page when you switch to the 2D
+board or the Notebook, Settings moves you to Chess Set.
 
 Solrac also remembers the size of its window. If the screen is too small for it, Solrac
 shrinks the window to fit, keeping its shape, and remembers that size instead.
@@ -64,16 +66,22 @@ Under **Chess puzzles** (not on an iPad, which has the starter set):
 
 Two columns: **Board**, and **Chess clock** (3D board only).
 
-- **Main view**: **Automatic**, **3D board** (the photographic board and pieces) or **2D board**
-  (a large flat board, see [Playing a game](playing.md)). A line under it says what Automatic
-  chose. Automatic picks the 2D board on a computer with a weak graphics card; see
-  [On a slower computer](slow-computers.md).
-- **Chess set** (3D board): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
+- **Main view**: **Automatic**, **3D board** (the photographic board and pieces), **2D board**
+  (a large flat board, see [Playing a game](playing.md)) or **Notebook** (the board and pieces
+  drawn in ink on parchment, as a study in one of Leonardo da Vinci's notebooks). A line under
+  it says what Automatic chose. Automatic picks the 2D board on a computer with a weak graphics
+  card, and never the Notebook; see [On a slower computer](slow-computers.md).
+- **Paper and ink** (Notebook): **Sepia ink** (brown iron-gall ink on parchment, to start),
+  **Red chalk** (on cream paper) or **Blue paper** (grey metalpoint on blue paper, washed in
+  brown).
+- **Boiling lines** (Notebook): each line is drawn afresh ten times a second, so the drawing
+  shimmers as a hand-drawn film does. Off to start.
+- **Chess set** (3D board and Notebook): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
   its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
   sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
   polished and blackened pewter on oak. Hover a set to read what it is made of.
-- **Pieces** and **Board** (3D board): any pieces on any board, say the Medieval pewter
-  figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
+- **Pieces** and **Board** (3D board and Notebook, which draws the pieces on a board of its
+  own): any pieces on any board, say the Medieval pewter figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
   three sets': **Jade + black** and **Carrara + Nero**, the Classic pieces' shapes in stone,
   and **1852 Staunton**, the heavier Staunton of the first sets, with its carved knight, in
   boxwood and ebony. Choosing a **Chess set** sets both; when they come from different sets,
