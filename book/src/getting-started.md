@@ -98,7 +98,7 @@ To see what Solrac for Mac adds, visit solrac-chess.com.
 ### The iPad layout on a computer {#ipad-layout}
 
 If you know Solrac for iPad, you can keep its design on a Mac, Windows or Linux computer:
-choose **iPad** under **Layout** on Settings' **Display** page, and Solrac uses it the next time
+choose **iPad** under **Layout** on Settings' **Environment** page, **User Interface** tab,, and Solrac uses it the next time
 it starts. Nothing is taken away: the iPad layout has every feature of your computer's Solrac,
 and your keyboard shortcuts all work. It only moves the menu bar's commands:
 
@@ -119,7 +119,7 @@ On an iPad, the first time you start Solrac it asks whether to download its voic
 830 MB, once), which reads replies aloud and hears what you say. It needs about 2 GB of free
 space while it unpacks. Choose **Download** and it shows on the loading screen with the usual
 **Continue** button. Choose **Not now** to type instead: Solrac doesn't ask again, and
-**Settings → Voice and Chat** has **Download** when you want it. See
+**Settings → Avatar** has **Download** when you want it. See
 [The chat and voice](chat-and-voice.md).
 
 ## Chess puzzles

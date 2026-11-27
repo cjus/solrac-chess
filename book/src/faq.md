@@ -23,13 +23,14 @@ says why.
 **Where are my games?** In **Game → Games Library** (⌘L). Saved PGNs are in the **Solrac**
 folder in your Documents folder.
 
-**The board looks too busy or slow.** Lower the sliders in Settings → Lights or choose a
-plain Environment in Display. On a computer with a weak graphics card, choose the 2D board
-(Settings → Chess Set), or Quality Low (Settings → Display); see
+**The board looks too busy or slow.** Lower the sliders in Settings → Environment →
+Lighting, or choose a plain environment on its Scene tab. On a computer with a weak graphics
+card, choose the 2D board (Settings → Chess Set), or Quality Low (Settings → Environment → User
+Interface); see
 [On a slower computer](slow-computers.md).
 
 **Solrac doesn't read the replies aloud.** On a computer with a weak graphics card, Automatic
-reads only in the Rail's Voice mode. Choose **Always** under Settings → Voice and Chat →
+reads only in the Rail's Voice mode. Choose **Always** under Settings → Avatar →
 Read replies aloud, or use the speaker button in the Rail. Check that it isn't set to **Never**.
 
 **Something else.** Post it on the [issues page](https://github.com/cjus/solrac-chess/issues).

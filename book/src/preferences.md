@@ -4,38 +4,46 @@ Open Settings with ⌘, (**Solrac → Settings...**), or with **Settings → All
 iPad, choose **Settings…** in the menus on the left. Changes take hold at once and are
 remembered.
 
-Settings has a list of pages down its left side: Game, Chess Set, Display, Avatar, Sounds, Voice
-and Chat, AI, Lights, Account, Licence (Purchases in the App Store versions), Network and Help.
-Click or tap one to show it. A **?** at the top of each page opens the part of this page about
-it.
+Settings has a list of pages down its left side: Game, Chess Set, Environment, Avatar, AI,
+Account, Licence (Purchases in the App Store versions) and Network. Click or tap one to show it.
+Environment has five tabs across its top: **Scene**, **Table and floor**, **Lighting**, **User
+Interface** and **Sounds**. It opens on its first tab each time. A **?** at the top of each page
+opens the part of this page about it, or on Environment, about the tab showing. Solrac Help,
+the keyboard shortcuts, Feedback and About are in the menus: the **Help** and **Solrac** menus
+on a computer, the menus on the left on an iPad.
 
 On a Mac, Windows or Linux, Settings is a window you can move and leave open while you play. On
 an iPad it is a small sheet, half the window's height, that opens in the middle of the window's
 height just right of the menus' words (at the left side when they are hidden), so most of the
 board stays in view; its page scrolls, and dragging the bar along its top moves it anywhere. It
 shows the list of pages first: tap one to open it, and **‹ Settings** to go back to the list.
-**Done** (or Esc on a keyboard) puts it away. The sheet dims the board, but not on Chess Set,
-Display or Lights, so you can see your changes as you make them.
+Environment's tabs are a row of buttons across the sheet; if a larger text size makes them too
+wide, the row scrolls sideways. **Done** (or Esc on a keyboard) puts it away. The sheet dims the
+board, but not on Chess Set or Environment, so you can see your changes as you make them.
 
-Settings shows only what applies to the board you are using. With the 2D board there is no
-Lights page, no chess set or chess clock, and no Environment under Display, and the View and
-Settings menus leave out the camera, Environment and Clock Position. The Notebook has no Lights
-page, chess clock or Environment either, and the menus leave out Environment and Clock
-Position, but it keeps the camera. If you are on the Lights page when you switch to the 2D
-board or the Notebook, Settings moves you to Chess Set.
+Settings shows only what works with the board you are using, and says so. With the 2D board,
+Environment has only **User Interface** and **Sounds**, and Chess Set has no 3D chess set or
+chess clock. In the Notebook, Environment has the same two tabs, and Chess Set has no chess
+clock. A note at the top of the page names the board you are using and what comes back when you
+switch to the 3D board. The View and Settings menus leave out the camera, Environment and Clock
+Position with the 2D board; the Notebook keeps the camera. If you are on Scene, Table and floor
+or Lighting when you switch to the 2D board or the Notebook, Settings moves you to User
+Interface.
 
 Solrac also remembers the size of its window. If the screen is too small for it, Solrac
 shrinks the window to fit, keeping its shape, and remembers that size instead.
 
-## Game
+## Game {#game}
 
 ![Settings, the Game page](images/preferences-game.png)
 
-The heading is **Solrac**. You choose a game's time control and Solrac's strength in the New Game
-sheet, and can change the strength during the game in the panel (see
-[Playing a game](playing.md)). Here are the settings
-that stay the same from game to game:
+The heading is **Solrac**. You choose a game's time control in the New Game sheet (see
+[Playing a game](playing.md)). Here are the settings that stay the same from game to game:
 
+- **Strength against you**: a list of Solrac's levels, each with the rating it plays at, then
+  full strength. It is the same setting as the New Game sheet's strength and the panel's
+  strength row, so a change in any one of them shows in the others. A rating chosen in the
+  panel shows here as that rating until you pick a level.
 - **Think time per move**: from 0.1 to 10 seconds, 1 second to start. It is for games without a
   clock; when a clock is running, the clock decides how long Solrac thinks, and the slider is
   greyed out with a note that says so.
@@ -53,18 +61,20 @@ that stay the same from game to game:
 Under **Chess puzzles** (not on an iPad, which has the starter set):
 
 - **Puzzle storage limit**: 500 MB, 1 GB (to start), 2 GB, 5 GB or No limit. As you train, Solrac
-  downloads more puzzles until they take this much disk (see
-  [Chess puzzles](puzzles.md)). The line under it says how much they use now. Lowering the
-  limit stops new downloads but deletes nothing, even when the puzzles already use more than
-  the new limit.
+  downloads more puzzles until they take this much disk (see "More puzzles as you play" in
+  [Getting started](getting-started.md)). The line under it
+  says how much they use now. Lowering the limit stops new downloads but deletes nothing, even
+  when the puzzles already use more than the new limit.
 
-## Chess Set
+## Chess Set {#chess-set}
 
 ![Settings, the Chess Set page](images/preferences-chess-set.png)
 
 ![Settings, the Chess Set page with the 2D board](images/preferences-chess-set-2d.png)
 
-Two columns: **Board**, and **Chess clock** (3D board only).
+Two columns: **Board**, and **Chess clock** (3D board only). With the 2D board, or in the
+Notebook, a note at the top of the page says what it leaves out and that it comes back on the
+3D board.
 
 - **Main view**: **Automatic**, **3D board** (the photographic board and pieces), **2D board**
   (a large flat board, see [Playing a game](playing.md)) or **Notebook** (the board and pieces
@@ -81,7 +91,8 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
   polished and blackened pewter on oak. Hover a set to read what it is made of.
 - **Pieces** and **Board** (3D board and Notebook, which draws the pieces on a board of its
-  own): any pieces on any board, say the Medieval pewter figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
+  own): any pieces on any board, say the Medieval pewter
+  figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
   three sets': **Jade + black** and **Carrara + Nero**, the Classic pieces' shapes in stone,
   and **1852 Staunton**, the heavier Staunton of the first sets, with its carved knight, in
   boxwood and ebony. Choosing a **Chess set** sets both; when they come from different sets,
@@ -94,20 +105,7 @@ Two columns: **Board**, and **Chess clock** (3D board only).
   bevel on an ebony frame banded in golden rosewood), **Raised field** (the squares standing
   above a matt walnut frame) and **End grain** (a thick block with no frame, so it has no
   coordinates). The chess clock and the captured pieces move to suit each board's size.
-- **Table** (3D board): what the board stands on. **None** (to start) leaves it on its
-  backdrop; or one of four tables, each with its own edge and wood: **Farmhouse oak** (a thick
-  white-oak top glued from wide boards, square edged), **Mid-century walnut** (one walnut
-  panel, its edge undercut so it looks thin, on splayed legs), **Library mahogany** (a moulded
-  ogee edge) and **Café ash** (pale ash with a rounded bullnose edge and big rounded corners).
-  The table sits under whichever board you choose.
-- **Floor** (3D board): the wood floor under the table: **None** (to start), **Oak
-  planks**, **Smoked oak**, **Herringbone** or **Walnut planks**. It runs out to the
-  horizon, a little darker far away, as a room's floor does. The tables are large and
-  square, so from a player's seat the board is surrounded by table: the floor shows past
-  the table's edge when you turn the camera low, or in a tall window.
-
-![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
-
+- The table and the floor under the board are on the **Environment** page.
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
   **Sand**, each a swatch, or one of the same four wood floors as the 3D board's, which puts
   the flat board on the floor, the floor a little darker so the board stands out.
@@ -119,38 +117,72 @@ Two columns: **Board**, and **Chess clock** (3D board only).
 - **Chess clock** (3D board): the colour of the clock's shell. Pick it from the colour picker,
   or click a swatch: **Original black** (the usual one), **Cognac** or **Burgundy**. **Reset**
   appears once you change it.
-
 - **Position** (3D board): which side of the board the clock stands on, as you see the board
   from White's seat, **Left** or **Right**, Right to start. The menu bar has the same choice
   under **Settings → Clock Position**.
 
 ![The chess clock with a cognac shell beside the board](images/clock-colour.png)
 
-## Avatar
+## Environment {#environment}
 
-![Settings, the Avatar page](images/preferences-avatar.png)
+How Solrac looks and sounds around the game, in five tabs: **Scene**, **Table and floor** and
+**Lighting** for what surrounds the 3D board, **User Interface** for the text, the graphics and
+the panels, and **Sounds**. With the 2D board and in the Notebook, Environment has only User
+Interface and Sounds, with a note saying why; the 2D board's **Background** is on Chess Set.
 
-Two sections: Appearance and Explanation. The voice Solrac reads in is on the
-[Voice and Chat](#voice-and-chat) page.
+![Settings, Environment with the 2D board: User Interface and Sounds, and the note](images/preferences-environment-2d.png)
 
-**Appearance**
+### Scene {#scene}
 
-- **Avatar**: **Male**, **Female** or **Neutral** Solrac, shown at the top of the panel and on
-  the title screen. The picture beside the choices is the one the panel shows, moving as it does; while this page is open, Solrac stays awake.
-- **Animate Solrac**: on to start. Turn it off and the avatar shows only stills, awake or asleep.
-**Explanation**
+![Settings, Environment's Scene tab](images/preferences-environment.png)
 
-How Solrac explains things in the chat and on the board.
+**Environment**: what surrounds the board. The list holds **None**, **Room paint** (the choice
+to start), **Slate**, **Gray slate**, **Violet nebula**, **Blue nebula**, **Clouds at sunset**
+and **Clouds at night**. A spinner shows while a sky is being painted. The View menu has the
+same list under **Environment**.
 
-- **Detail**: **Short** (the point in a sentence, with one short line shown on the board),
-  **Normal** (a few sentences and a line or two, the choice to start) or **Verbose**
-  (everything).
-- **Pace**: **Standard**, **Relaxed** or **Slow**: how long Solrac pauses between sentences and
-  after each move it shows on the board. The voice itself doesn't speak any slower.
+With **Room paint**, the room is a wall of your own colour, and more controls appear:
 
-## Display
+![The board in front of a plastered wall painted plaster grey](images/room-paint.png)
 
-![Settings, the Display page](images/preferences-display.png)
+- **Wall paint**: a colour picker, and swatches for **Plaster grey** (the usual), **Gallery
+  white**, **Warm greige**, **Sage**, **Dusty blue**, **Terracotta**, **Deep navy** and
+  **Charcoal**. The name of the paint shows beside the picker, or **Custom colour**. **Reset**
+  goes back to Plaster grey.
+- **Finish**: **Smooth**, **Fine stucco** or **Rough**, how rough the plaster is.
+- **New texture**: plasters the wall again, the same paint on a different wall.
+- **Colour in the light**: from 0 to 100 % (25 % to start), how much of the wall's colour
+  reaches the board and the pieces' lacquer.
+
+### Table and floor {#table-and-floor}
+
+- **Table**: what the board stands on. **None** (to start) leaves it on its backdrop; or one of
+  four tables, each with its own edge and wood: **Farmhouse oak** (a thick white-oak top glued
+  from wide boards, square edged), **Mid-century walnut** (one walnut panel, its edge undercut
+  so it looks thin, on splayed legs), **Library mahogany** (a moulded ogee edge) and **Café
+  ash** (pale ash with a rounded bullnose edge and big rounded corners). The table sits under
+  whichever board you choose.
+- **Floor**: the wood floor under the table: **None** (to start), **Oak planks**, **Smoked
+  oak**, **Herringbone** or **Walnut planks**. It runs out to the horizon, a little darker far
+  away, as a room's floor does. The tables are large and square, so from a player's seat the
+  board is surrounded by table: the floor shows past the table's edge when you turn the camera
+  low, or in a tall window.
+
+![The board on the Farmhouse oak table, smoked oak floor beyond](images/table-farmhouse.png)
+
+### Lighting {#lighting}
+
+**Sun** (about 81 to 5200 lux, 650 to start) and **Fill** (12.5 to 800 %,
+100 % to start). Both reach three stops (a doubling each) either side of where they start.
+Under **Board**, **Shine** (0 to 100 %, 10 % to start) is the sun's and the room's highlights
+in the board's lacquer, and **Reflection** (0 to 200 %, 50 % to start) is how much the board
+mirrors the pieces, where 100 % is what real lacquer reflects. Under **Pieces**, **Clearcoat**
+(0 to 100 %, 100 % to start) is the glossy shine on the pieces. **Reset** puts the light back
+as it starts. You can also ask Solrac in the chat to change the lights.
+
+### User Interface {#user-interface}
+
+![Settings, Environment's User Interface tab](images/preferences-user-interface.png)
 
 - **Text**: **Text size** has five steps: 90, 100 (the usual), 115, 130 and 150 %. Choose
   one from its list. ⌘+ and ⌘− (the View menu's Larger Text and Smaller Text) change it too.
@@ -158,8 +190,8 @@ How Solrac explains things in the chat and on the board.
   and the panel on the right, or **iPad**, Solrac for iPad's design: the menus on the left, the
   inspector on the right, a handle on each side, and Settings as a sheet. Solrac uses the layout
   you choose the next time it starts. The iPad layout keeps every feature of your computer's
-  Solrac (see [The iPad layout on a computer](getting-started.md#ipad-layout)), and
-  Layout stays on this page in either one, so you can switch back. An iPad always shows its own
+  Solrac (see [The iPad layout on a computer](getting-started.md)), and
+  Layout stays on this tab in either one, so you can switch back. An iPad always shows its own
   layout, and has no Layout choice.
 - **Graphics**: **Quality**, **Automatic**, **High** or **Low**. A line under it says what
   Automatic is drawing. See [On a slower computer](slow-computers.md).
@@ -192,42 +224,10 @@ How Solrac explains things in the chat and on the board.
 - **Panels**: **Panel opacity** of the smoked glass, 50 to 100 % (98 % to start), **Panel
   colour**, and **Engine Mind colour** for the Engine Mind view's panels. Each colour has a
   **Reset**. A colour too bright for the text is dimmed to the same hue.
-- **Environment** (3D board): what surrounds the board. The list holds **None**, **Room paint**
-  (the choice to start), **Slate**, **Gray slate**, **Violet nebula**, **Blue nebula**,
-  **Clouds at sunset** and **Clouds at night**. A spinner shows while a sky is being painted.
-  The View menu has the same list under **Environment**.
 
-With **Room paint**, the room is a plastered wall of your own colour, and a **Room** section opens under the list:
+### Sounds {#sounds}
 
-![The board in front of a plastered wall painted plaster grey](images/room-paint.png)
-
-
-- **Wall paint**: a colour picker, and swatches for **Plaster grey** (the usual), **Gallery
-  white**, **Warm greige**, **Sage**, **Dusty blue**, **Terracotta**, **Deep navy** and
-  **Charcoal**. The name of the paint shows beside the picker, or **Custom colour**. **Reset**
-  goes back to Plaster grey.
-- **Finish**: **Smooth**, **Fine stucco** or **Rough**, how rough the plaster is.
-- **New texture**: plasters the wall again, the same paint on a different wall. The plaster is made fresh from a number (shown beside the button), so no two walls are quite alike.
-- **Colour in the light**: from 0 to 100 % (25 % to start), how much of the wall's colour
-  reaches the board and the pieces' lacquer. At 0 % the board is lit as it is with no environment; higher, a red wall gives a warm cast, as a real room would.
-
-The wall is a backdrop, like the skies: it turns as you turn the board and stays put when you zoom, so it never slides past the board. A very dark paint hides the plaster's grain, since the grain is a change in brightness.
-
-## Lights
-
-![Settings, the Lights page](images/preferences-lights.png)
-
-The 3D board only. **Lighting** has **Sun** (about 81 to 5200 lux, 650 to start) and **Fill**
-(12.5 to 800 %, 100 % to start). Both reach three stops (a doubling each) either side of where they start. Under **Board**, **Shine** (0 to 100 %, 10 % to start) is the sun's
-and the room's highlights in the board's lacquer, and **Reflection** (0 to 200 %, 50 % to start)
-is how much the board mirrors the pieces, where 100 % is what real lacquer reflects. Under
-**Pieces**, **Clearcoat** (0 to 100 %, 100 % to start) is the glossy shine on the pieces.
-**Reset** puts the light back as it starts. You can also ask Solrac in the chat to change the
-lights.
-
-## Sounds
-
-![Settings, the Sounds page](images/preferences-sounds.png)
+![Settings, Environment's Sounds tab](images/preferences-sounds.png)
 
 Under **Sound Effects**, **Pieces landing** (wood on wood as each piece reaches its square) and
 **Clock button** (a press of the chess clock after each move, in a game with a clock) can each
@@ -236,14 +236,31 @@ start); it is greyed out when both are off. The chat's voice has its own volume.
 
 The same two switches are in the menu bar, under **Settings → Sound**.
 
-## Voice and Chat
+## Avatar {#avatar}
 
-![Settings, the Voice and Chat page](images/preferences-voice-and-chat.png)
+![Settings, the Avatar page](images/preferences-avatar.png)
 
-**Captions**
+Everything about Solrac, the companion, in one place: Appearance, Explanation, Voice and
+Captions.
 
-- **Show captions**: on to start. What Solrac says appears as closed captions above the Rail, a
-  sentence at a time, whether or not it is read aloud.
+**Appearance**
+
+- **Avatar**: **Male**, **Female** or **Neutral** Solrac, shown at the top of the panel and on
+  the title screen. A picture of it sits beside the choices.
+- **Animate Solrac**: on to start. Turn it off and the avatar shows only stills, awake or asleep.
+- **Show Solrac in the panel** (not on an iPad): on to start. Turn it off and the panel starts
+  with its row of buttons, leaving more room below; Solrac's face still shows in the chat bar.
+  On an iPad the panel on the right has no avatar: Solrac's face is in the chat bar.
+
+**Explanation**
+
+How Solrac explains things in the chat and on the board.
+
+- **Detail**: **Short** (the point in a sentence, with one short line shown on the board),
+  **Normal** (a few sentences and a line or two, the choice to start) or **Verbose**
+  (everything).
+- **Pace**: **Standard**, **Relaxed** or **Slow**: how long Solrac pauses between sentences and
+  after each move it shows on the board. The voice itself doesn't speak any slower.
 
 **Voice**
 
@@ -262,7 +279,12 @@ The same two switches are in the menu bar, under **Settings → Sound**.
 If the voice you saved is no longer there, an orange note says Solrac reads in another one and
 asks you to choose again.
 
-## AI
+**Captions**
+
+- **Show captions**: on to start. What Solrac says appears as closed captions above the Rail, a
+  sentence at a time, whether or not it is read aloud.
+
+## AI {#ai}
 
 Where the chat gets its answers.
 
@@ -296,9 +318,7 @@ Where the chat gets its answers.
 When your provider refuses, the chat says what to do (check the key, add credit, pick another
 model) with the provider's own words beside it, and you can switch back to Solrac Coach here.
 
-See [Using your own AI](own-ai.md) for keys, models and costs.
-
-## Licence and Purchases
+## Licence and Purchases {#licence}
 
 ![Settings, the Licence page](images/preferences-licence.png)
 
@@ -309,14 +329,12 @@ and has **Buy tokens** and **Restore Purchases** instead, and no Download. On an
 **Purchases** too, and will show your App Store purchase and your chat tokens. See
 [Getting started](getting-started.md).
 
-## Network
-
-![Settings, the Network page](images/preferences-network.png)
+## Network {#network}
 
 Pair engines on other computers and choose where games are played. See
 [Playing on another computer](network-play.md). Not on an iPad.
 
-## Account
+## Account {#account}
 
 ![Settings, the Account page](images/preferences-account.png)
 
@@ -329,10 +347,3 @@ everywhere at once and deleted 14 days later, with its tokens and their history.
 solrac-chess.com before then cancels the deletion. Your games and settings in Solrac stay. For
 your security, deleting needs a sign-in in the last 15 minutes: if yours is older, Solrac asks
 you to choose **Sign In Again**, then **Delete Account…** once more.
-
-## Help
-
-Buttons for **Solrac Help** (these pages), **Keyboard Shortcuts**, **Solrac Documentation**
-(cb2026's book, in your browser; not on an iPad), **Send Feedback…** and **About Solrac**. On an
-iPad, Settings closes as the one you choose opens.
-
