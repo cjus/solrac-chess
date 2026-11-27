@@ -20,7 +20,7 @@ The strip under the board is the **Rail**. From left to right:
 - **Talk**, **Hands-free** and **Read aloud**, when the voice is ready (see below).
 - **History**, which opens the **Chat history** window.
 
-You can keep the Rail along the top of the window instead (Settings ▸ Display ▸ Chat bar). On an
+You can keep the Rail along the top of the window instead (Settings ▸ Environment ▸ User Interface ▸ Chat bar). On an
 iPad it moves to the top by itself while the on-screen keyboard is up, so the text you type
 stays in sight.
 
@@ -100,13 +100,13 @@ can change your answer under **Settings → AI**.
   If the two are too close (loud speakers, a quiet voice), the chat says so: turn Solrac down
   or speak closer to the microphone. Stop always interrupts it. Nothing is sent to the chat
   from the sound check, and no sound check happens if replies aren't read aloud.
-- **Read aloud** switches replies on (Always) or off (Never). **Settings → Voice and Chat**
+- **Read aloud** switches replies on (Always) or off (Never). **Settings → Avatar**
   chooses Automatic, Always, In voice mode (when Hands-free is on) or Never, and the voice.
   Automatic reads everything, except on a computer with a weak graphics card, where it reads
   only in voice mode ([On a slower computer](slow-computers.md)).
 - The voice models (more than 800 MB) download once. On an iPad, Solrac asks first, on the
   loading screen: **Download**, or **Not now** to type instead. Solrac remembers Not now, and
-  **Settings → Voice and Chat** has **Download** for later. Until then, replies aren't read
+  **Settings → Avatar** has **Download** for later. Until then, replies aren't read
   aloud and Talk and Hands-free say why they wait.
 
 ## Detail and pace

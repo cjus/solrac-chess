@@ -217,7 +217,7 @@ the 3D board: you move the same way, the camera keys below turn and zoom it, and
 from the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
 (**Sepia ink**, **Red chalk** or **Blue paper**), whether its lines **boil**, drawn afresh ten
 times a second like a hand-drawn film, and whether it shows its **Notes and sketches**: turn them
-off for a clean sheet with only the board. **Black and white** (Settings → Display) doesn't apply to
+off for a clean sheet with only the board. **Black and white** (Settings → Environment → Scene) doesn't apply to
 it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
 board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
 
