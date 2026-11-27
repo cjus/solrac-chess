@@ -275,7 +275,11 @@ Where the chat gets its answers.
     asks again. Results vary with the model: the four providers named have been tested with
     Solrac's coach, a model on your own computer often can't use its tools.
   - **Address**: for a server on your network, or any other OpenAI-compatible one. It must start
-    with `http://` or `https://`, with no user, password or `?` in it.
+    with `http://` or `https://`, with no user, password or `?` in it. An address with no path,
+    such as `http://192.168.1.20:1234`, is asked under `/v1`, where these servers answer; type
+    the path yourself if yours is elsewhere. On a Mac, the first time Solrac reaches another
+    computer, macOS asks whether Solrac may use the local network: allow it, or turn Solrac on
+    later under System Settings, Privacy & Security, Local Network.
   - **Let the chat use** (the provider): asked again when you choose another one. It says where
     what you type goes.
   - **On this computer**: Ollama and LM Studio are listed when they answer, and **Check again**
