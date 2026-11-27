@@ -109,6 +109,15 @@ Notebook, a note at the top of the page says what it leaves out and that it come
   bevel on an ebony frame banded in golden rosewood), **Raised field** (the squares standing
   above a matt walnut frame) and **End grain** (a thick block with no frame, so it has no
   coordinates). The chess clock and the captured pieces move to suit each board's size.
+  Under another line come two **stepped** boards, each square the top of a block of its own
+  height: **Terraced** (maple and ebony blocks falling in steps from a8 down to h1) and
+  **Wooden posts** (maple and walnut posts in a walnut tray, a ridge from a8 to h1 falling to
+  a1 and h8). The pieces stand on their squares' tops and are lifted over the steps as they
+  move, and the camera looks at the middle of the board's height, so all of it fits. The
+  Notebook draws the pieces on its flat board as usual, and the Floating board draws a
+  stepped board thin, its steps with it.
+
+  ![The Terraced and Wooden posts boards](images/stepped-boards.png)
 - The table and the floor under the board are on the **Environment** page.
 - **Background** (2D board): **Midnight**, **Graphite**, **Slate**, **Forest**, **Wine** or
   **Sand**, each a swatch, or one of the same four wood floors as the 3D board's, which puts
