@@ -23,12 +23,12 @@ board, but not on Chess Set or Environment, so you can see your changes as you m
 
 Settings shows only what works with the board you are using, and says so. With the 2D board,
 Environment has only **User Interface** and **Sounds**, and Chess Set has no 3D chess set or
-chess clock. In the Notebook, Environment has the same two tabs, and Chess Set has no chess
-clock. A note at the top of the page names the board you are using and what comes back when you
-switch to the 3D board. The View and Settings menus leave out the camera, Environment and Clock
-Position with the 2D board; the Notebook keeps the camera. If you are on Scene, Table and floor
-or Lighting when you switch to the 2D board or the Notebook, Settings moves you to User
-Interface.
+chess clock. In the Notebook and on the Floating board, Environment has the same two tabs, and
+Chess Set has no chess clock. A note at the top of the page names the board you are using and
+what comes back when you switch to the 3D board. The View and Settings menus leave out the
+camera, Environment and Clock Position with the 2D board; the Notebook and the Floating board
+keep the camera. If you are on Scene, Table and floor or Lighting when you switch to the 2D
+board, the Notebook or the Floating board, Settings moves you to User Interface.
 
 Solrac also remembers the size of its window. If the screen is too small for it, Solrac
 shrinks the window to fit, keeping its shape, and remembers that size instead.
@@ -77,22 +77,26 @@ Notebook, a note at the top of the page says what it leaves out and that it come
 3D board.
 
 - **Main view**: **Automatic**, **3D board** (the photographic board and pieces), **2D board**
-  (a large flat board, see [Playing a game](playing.md)) or **Notebook** (the board and pieces
-  drawn in ink on parchment, as a study in one of Leonardo da Vinci's notebooks). A line under
+  (a large flat board, see [Playing a game](playing.md)), **Notebook** (the board and pieces
+  drawn in ink on parchment, as a page of an inventor's notebook) or **Floating board** (the
+  board afloat in a daytime sky, as an optical illusion: Solrac's pieces hang beneath it and
+  yours stand on it). A line under
   it says what Automatic chose. Automatic picks the 2D board on a computer with a weak graphics
-  card, and never the Notebook; see [On a slower computer](slow-computers.md).
+  card, and never the Notebook or the Floating board; see
+  [On a slower computer](slow-computers.md).
 - **Paper and ink** (Notebook): **Sepia ink** (brown iron-gall ink on parchment, to start),
   **Red chalk** (on cream paper) or **Blue paper** (grey metalpoint on blue paper, washed in
   brown).
 - **Boiling lines** (Notebook): each line is drawn afresh ten times a second, so the drawing
   shimmers as a hand-drawn film does. Off to start.
-- **Chess set** (3D board and Notebook): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
+- **Notes and sketches** (Notebook): the inventor's written notes and drafted studies round the
+  board. Turn them off for a clean sheet with only the board. On to start.
+- **Chess set** (3D board, Notebook and Floating board): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
   its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
   sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
   polished and blackened pewter on oak. Hover a set to read what it is made of.
-- **Pieces** and **Board** (3D board and Notebook, which draws the pieces on a board of its
-  own): any pieces on any board, say the Medieval pewter
-  figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
+- **Pieces** and **Board** (3D board, Floating board and Notebook, which draws the pieces on a
+  board of its own): any pieces on any board, say the Medieval pewter figures on the maple and ebony board. **Pieces** has three more sets of pieces besides the
   three sets': **Jade + black** and **Carrara + Nero**, the Classic pieces' shapes in stone,
   and **1852 Staunton**, the heavier Staunton of the first sets, with its carved knight, in
   boxwood and ebony. Choosing a **Chess set** sets both; when they come from different sets,
@@ -127,8 +131,9 @@ Notebook, a note at the top of the page says what it leaves out and that it come
 
 How Solrac looks and sounds around the game, in five tabs: **Scene** (with black and white),
 **Table and floor** and **Lighting** for the 3D board's look, **User Interface** for the text,
-the graphics and the panels, and **Sounds**. With the 2D board and in the Notebook, Environment has only User
-Interface and Sounds, with a note saying why; the 2D board's **Background** is on Chess Set.
+the graphics and the panels, and **Sounds**. With the 2D board, in the Notebook and on the
+Floating board, Environment has only User Interface and Sounds, with a note saying why; the 2D
+board's **Background** is on Chess Set.
 
 ![Settings, Environment with the 2D board: User Interface and Sounds, and the note](images/preferences-environment-2d.png)
 
