@@ -226,8 +226,8 @@ board, and its **3D** button there the 3D board; choose Notebook in Settings to 
 **Settings → Chess Set → Main view → Floating board** shows your board afloat in a daytime sky,
 drawn as an optical illusion: Solrac's pieces hang beneath the board and yours stand on top of
 it, on the same face, every piece with its base on its square. When two people play, or Solrac
-plays both sides, Black's pieces hang. The board is turned to a diamond, with the hanging side
-toward the bottom of the picture.
+plays both sides, Black's pieces hang. The board is turned to a diamond, and from your seat the
+hanging side is toward the bottom of the picture.
 
 ![The Floating board](images/floating-board.png)
 
