@@ -73,7 +73,8 @@ The panel shows both clocks, White's beside Black's, with who plays each side an
 control. The side whose time is running is lit, and a time below ten seconds turns red and shows
 tenths. The 3D clock on the table shows the same times, with a lamp on the running side and a
 flag that falls at 0:00. It takes no clicks. You can also move it with **Settings → Clock Position**.
-On the 2D board there is no 3D clock; the panel's clocks are the clocks.
+On the 2D board there is no 3D clock; the panel's clocks are the clocks. In the Notebook, two
+sketched analog dials stand in for it (see [The Notebook](#the-notebook)).
 
 When a flag falls the player loses on time, unless the other side couldn't have mated, which is a
 draw.
@@ -212,14 +213,21 @@ inventor's notebook: in ink on parchment, the pieces hatched by the light fallin
 shadows washed in, and the board ruled on the page. Round it are the inventor's notes and studies:
 gears and pulleys, an aerial screw, birds in flight, chess pieces turned on a lathe, an armoured
 car and a wing, drafted with dimensions, lettered callouts and scales. Zoom out or turn the camera
-to see them all. The room, the table and the chess clock aren't drawn. Everything else is as on
-the 3D board: you move the same way, the camera keys below turn and zoom it, and arrows and rings
+to see them all. The room and the table aren't drawn. In a game with a clock, the 3D clock is
+sketched instead as two old analog dials lying beside the board, White's nearer White, on the side
+the clock stands on, with 12 pointing away from the board. Each dial runs out at 12 o'clock: a
+5-minute game starts at 11:55. Its red flag by the 11 lifts as the minute hand comes up to 12 and
+drops as the hand passes it, every hour as on a real clock, so only the drop with the hour hand at
+12 ends the game. Only the running side's hands move, its small seconds hand too, and an increment
+turns its hands back at once. Everything else is as on the 3D board: you move the same way, the camera keys below turn and zoom it, and arrows and rings
 from the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
 (**Sepia ink**, **Red chalk** or **Blue paper**), whether its lines **boil**, drawn afresh ten
 times a second like a hand-drawn film, and whether it shows its **Notes and sketches**: turn them
 off for a clean sheet with only the board. **Black and white** (Settings → Environment → Scene) doesn't apply to
 it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
 board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
+
+![The Notebook in a game with a clock: two sketched analog dials beside the board, each with its red flag lifted as its minute hand nears 12](images/notebook-clock.png)
 
 ## The Floating board
 
