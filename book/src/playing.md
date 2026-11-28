@@ -76,6 +76,22 @@ flag that falls at 0:00. It takes no clicks. You can also move it with **Setting
 On the 2D board there is no 3D clock; the panel's clocks are the clocks. In the Notebook, two
 sketched analog dials stand in for it (see [The Notebook](#the-notebook)).
 
+**The analog clock.** **Settings → Chess Set → Chess clock → Style** swaps the digital clock
+for a wooden one with two dials: choose **Analog**. Each dial shows its side's time left the
+old way, as the hands' way to 12 o'clock: a 5-minute game starts at 11:55, and the time runs
+out at 12. The hands sweep while that side's time runs, its small second hand too, and an
+increment turns them back. A red flag by the 11 is lifted by the minute hand in the last
+minutes of each hour and drops as the hand reaches 12; the drop with the hour hand at 12 ends
+the game. The buttons on top follow the game too: the side to move has its button up, and it
+goes down as that side's move is made and the clock is pressed. Before both sides have moved
+once, in a pause and after the game, both are up. The clock stands as a clock does at a
+tournament board: beside the board and facing it, the same for both players. It leans back on
+a wooden wedge, so that its dials look up toward your seat, and it stands a little farther from
+the board than the digital clock, so the board is drawn a little smaller beside it. The panel's
+clocks show the exact figures, and Solrac remembers which clock you chose.
+
+![The wooden analog clock beside the board, leaning back on its wedge: White's dial at 11:55 and Black's a few seconds from 12, its red flag lifted](images/analog-clock.png)
+
 When a flag falls the player loses on time, unless the other side couldn't have mated, which is a
 draw.
 
