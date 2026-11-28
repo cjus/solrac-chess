@@ -1,8 +1,8 @@
 # Chess puzzles
 
-Solrac trains you with puzzles from Lichess (free to use, CC0), sorted by theme and rating. Its
-starter set holds 83,573: every theme and opening at every difficulty, and Lichess's puzzles of
-the day. They run on your own computer: nothing is sent anywhere to pick or check a puzzle.
+Solrac trains you with puzzles from the Solrac collection of puzzles, sorted by theme and
+rating. Its starter set holds 83,573: every theme and opening at every difficulty, and a puzzle
+of the day. They run on your own computer: nothing is sent anywhere to pick or check a puzzle.
 
 ## Setting them up
 
@@ -46,17 +46,18 @@ Without a licence, or offline, you train with the starter set.
 Choose **Game → Chess Puzzles…** to open the picker over the board. Drag it by its title to move
 it, or by an edge to make it larger: a taller picker shows more of the theme list.
 
-- **Today's puzzle** is one of Lichess's puzzles of the day, the same for everyone on a date.
+- **Today's puzzle** is a puzzle of the day from the Solrac collection, the same for everyone on
+  a date.
 - **Practise** groups the themes: motifs (forks, pins, sacrifices…), checkmates (mate in 2,
   back rank mate…), endgames, the phase of the game, openings (by family: Sicilian Defense,
   Italian Game…), or any theme. Each theme shows how many
   puzzles it has at the difficulty you chose; a theme with too few puzzles there is left out.
 - **Difficulty** is Beginner (under 1200), Club (1200–1599), Strong (1600–1999), Expert (2000
-  and up), or any. These are Lichess ratings, and they run a little different from a chess
-  club's.
+  and up), or any. These are the puzzles' own ratings, and they run a little different from
+  a chess club's.
 
-Press **Start** and Solrac picks a random puzzle of that kind. The picker opens with your last choice. Puzzles whose rating Lichess's
-own numbers don't support are left out.
+Press **Start** and Solrac picks a random puzzle of that kind. The picker opens with your last choice. Puzzles whose rating isn't reliable
+yet are left out.
 
 ## Solving one
 

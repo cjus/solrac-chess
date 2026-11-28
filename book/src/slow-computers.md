@@ -34,7 +34,7 @@ one").
 ![Settings, the Chess Set page: Main view set to Automatic](images/preferences-chess-set.png)
 
 - **Main view** (Settings → Chess Set): **Automatic**, **3D board** or **2D board**. See [the 2D board](playing.md#the-2d-board).
-- **Quality** (Settings → Display → Graphics): **Automatic**, **High** or **Low**.
+- **Quality** (Settings → Environment → User Interface → Graphics): **Automatic**, **High** or **Low**.
 - **Read replies aloud** (Settings → Avatar → Voice, and the speaker button in the Rail):
   **Automatic**, **Always**, **In voice mode** or **Never**. Choosing **Always** reads
   everything, as on a stronger computer; the speaker button turns reading on or off for now.

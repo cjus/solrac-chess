@@ -73,7 +73,26 @@ The panel shows both clocks, White's beside Black's, with who plays each side an
 control. The side whose time is running is lit, and a time below ten seconds turns red and shows
 tenths. The 3D clock on the table shows the same times, with a lamp on the running side and a
 flag that falls at 0:00. It takes no clicks. You can also move it with **Settings → Clock Position**.
-On the 2D board there is no 3D clock; the panel's clocks are the clocks.
+Beside the Terraced and Wooden posts boards, whose squares stand tall, the clock stands on a
+wooden column that lifts it halfway up the squares, so you can see it over them.
+On the 2D board there is no 3D clock; the panel's clocks are the clocks. In the Notebook, two
+sketched analog dials stand in for it (see [The Notebook](#the-notebook)).
+
+**The analog clock.** **Settings → Chess Set → Chess clock → Style** swaps the digital clock
+for a wooden one with two dials: choose **Analog**. Each dial shows its side's time left the
+old way, as the hands' way to 12 o'clock: a 5-minute game starts at 11:55, and the time runs
+out at 12. The hands sweep while that side's time runs, its small second hand too, and an
+increment turns them back. A red flag by the 11 is lifted by the minute hand in the last
+minutes of each hour and drops as the hand reaches 12; the drop with the hour hand at 12 ends
+the game. The buttons on top follow the game too: the side to move has its button up, and it
+goes down as that side's move is made and the clock is pressed. Before both sides have moved
+once, in a pause and after the game, both are up. The clock stands as a clock does at a
+tournament board: beside the board and facing it, the same for both players. It leans back on
+a wooden wedge, so that its dials look up toward your seat, and it stands a little farther from
+the board than the digital clock, so the board is drawn a little smaller beside it. The panel's
+clocks show the exact figures, and Solrac remembers which clock you chose.
+
+![The wooden analog clock beside the board, leaning back on its wedge: White's dial at 11:55 and Black's a few seconds from 12, its red flag lifted](images/analog-clock.png)
 
 When a flag falls the player loses on time, unless the other side couldn't have mated, which is a
 draw.
@@ -104,9 +123,11 @@ Solrac thinks." The same slider is in **Settings → Game**.
 
 - **Take back** (the first button in the panel's game row) undoes your last move. Against Solrac
   it undoes two moves, Solrac's reply and yours, so it is your turn again; between two people it
-  undoes one. A clock goes back to the time it showed. It is greyed when there is no move of
-  yours to take back, in a game loaded to look at, and in a Watch game. **Settings → Game →
-  Allow takebacks against Solrac** switches it off against Solrac, "like a rated game".
+  undoes one. The pieces go back as a hand puts them back, the last move first: a captured piece
+  returns from beside the board to its square, castling's rook and king go back, and a promoted
+  piece is a pawn again. A clock goes back to the time it showed. It is greyed when there is no
+  move of yours to take back, in a game loaded to look at, and in a Watch game. **Settings → Game
+  → Allow takebacks against Solrac** switches it off against Solrac, "like a rated game".
 - **Move now** ends Solrac's search and plays its best move so far. It is lit only while Solrac is
   thinking.
 - **Let Solrac ponder on your time** (**Settings → Game**): Solrac thinks about the reply it
@@ -205,6 +226,51 @@ coordinates**, or the labels button in the panel, or `L`). Choose its **Backgrou
 Settings → Chess Set. The pieces are drawn again for the size of the board whenever you
 resize the window. The **Flip** button, or **View → Flip Board**, turns the board over to the
 other side at once. The game's clocks are in the panel, and the camera keys below don't apply.
+
+## The Notebook
+
+**Settings → Chess Set → Main view → Notebook** draws the board and pieces as a page of an
+inventor's notebook: in ink on parchment, the pieces hatched by the light falling on them, their
+shadows washed in, and the board ruled on the page. Round it are the inventor's notes and studies:
+gears and pulleys, an aerial screw, birds in flight, chess pieces turned on a lathe, an armoured
+car and a wing, drafted with dimensions, lettered callouts and scales. Zoom out or turn the camera
+to see them all. The room and the table aren't drawn. In a game with a clock, the 3D clock is
+sketched instead as two old analog dials lying beside the board, White's nearer White, on the side
+the clock stands on, with 12 pointing away from the board. Each dial runs out at 12 o'clock: a
+5-minute game starts at 11:55. Its red flag by the 11 lifts as the minute hand comes up to 12 and
+drops as the hand passes it, every hour as on a real clock, so only the drop with the hour hand at
+12 ends the game. Only the running side's hands move, its small seconds hand too, and an increment
+turns its hands back at once. Everything else is as on the 3D board: you move the same way, the camera keys below turn and zoom it, and arrows and rings
+from the chat are drawn in the page's second ink. On the same page, choose its **Paper and ink**
+(**Sepia ink**, **Red chalk** or **Blue paper**), whether its lines **boil**, drawn afresh ten
+times a second like a hand-drawn film, and whether it shows its **Notes and sketches**: turn them
+off for a clean sheet with only the board. **Black and white** (Settings → Environment → Scene) doesn't apply to
+it, and Automatic never picks it. From the Notebook, the panel's **2D** button shows the 2D
+board, and its **3D** button there the 3D board; choose Notebook in Settings to come back.
+
+![The Notebook in a game with a clock: two sketched analog dials beside the board, each with its red flag lifted as its minute hand nears 12](images/notebook-clock.png)
+
+## The Floating board
+
+**Settings → Chess Set → Main view → Floating board** shows your board afloat in a daytime sky,
+drawn as an optical illusion: Solrac's pieces hang beneath the board and yours stand on top of
+it, on the same face, every piece with its base on its square. When two people play, or Solrac
+plays both sides, Black's pieces hang. The board is turned to a diamond, and from your seat the
+hanging side is toward the bottom of the picture.
+
+![The Floating board](images/floating-board.png)
+
+You move as on the 3D board: click a piece, hanging or standing, and then a square, or drag it.
+The squares it can go to are marked, the last move and a king in check are lit, and arrows and
+rings from the chat are drawn on the board. The camera keys below turn and zoom it: it tilts up
+to a view from overhead, and down only as far as the illusion holds. The **Flip** button, or
+**View → Flip Board**, shows the board from the other side, with the same pieces hanging.
+
+It uses your chess set, pieces and board, and **Show board coordinates**. The room, the table,
+the chess clock and the captured pieces aren't drawn, and the sky is the view's own, whatever
+your Environment; the game's clocks are in the panel. Automatic never picks it. From the
+Floating board, the panel's **2D** button shows the 2D board, and its **3D** button there the 3D
+board; choose Floating board in Settings to come back.
 
 ## The camera
 

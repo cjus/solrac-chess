@@ -20,12 +20,12 @@ The strip under the board is the **Rail**. From left to right:
 - **Talk**, **Hands-free** and **Read aloud**, when the voice is ready (see below).
 - **History**, which opens the **Chat history** window.
 
-You can keep the Rail along the top of the window instead (Settings ▸ Display ▸ Chat bar). On an
+You can keep the Rail along the top of the window instead (Settings ▸ Environment ▸ User Interface ▸ Chat bar). On an
 iPad it moves to the top by itself while the on-screen keyboard is up, so the text you type
 stays in sight.
 
 **Tab** hides the panel and the Rail together, and shows them again. What you were typing is
-kept.
+kept. The chat can also have a window of its own (see below).
 
 ## What it does
 
@@ -64,6 +64,20 @@ Errors are in a warning colour. In Hands-free, speech that wasn't meant for Solr
 talking to someone in the room, is shown dimmed as "Not meant for the chat, so it wasn't
 answered."
 
+## The chat in a window of its own
+
+On a Mac, Windows or Linux, the icon at the top right of the Chat history window, **Open in its
+own window**, moves the whole chat into a window you can drag to another monitor: the
+conversation, and under it the dial, the field, Send, Talk, Hands-free and Read aloud. The Rail
+and its captions leave the board, which grows into their room. What Solrac says is lit word by
+word in its newest reply in that window, in place of the caption. Typing and voice work there
+as on the Rail, and what Solrac does still happens on the board.
+
+**Tab** hides the chat's window with the panel, and shows both again. Closing the window with
+its red button hides the chat; Tab or **View ▸ Chat** opens it again. The icon at the top right
+of the window, **Put back in Solrac's window**, puts the chat back on the Rail. Solrac
+remembers where the chat is, and opens it in its own window after a restart if it was there.
+
 ## What it costs and what is sent
 
 The chat is answered by a language model reached through PNXStudios' service, paid with your
@@ -100,13 +114,13 @@ can change your answer under **Settings → AI**.
   If the two are too close (loud speakers, a quiet voice), the chat says so: turn Solrac down
   or speak closer to the microphone. Stop always interrupts it. Nothing is sent to the chat
   from the sound check, and no sound check happens if replies aren't read aloud.
-- **Read aloud** switches replies on (Always) or off (Never). **Settings → Voice and Chat**
+- **Read aloud** switches replies on (Always) or off (Never). **Settings → Avatar**
   chooses Automatic, Always, In voice mode (when Hands-free is on) or Never, and the voice.
   Automatic reads everything, except on a computer with a weak graphics card, where it reads
   only in voice mode ([On a slower computer](slow-computers.md)).
 - The voice models (more than 800 MB) download once. On an iPad, Solrac asks first, on the
   loading screen: **Download**, or **Not now** to type instead. Solrac remembers Not now, and
-  **Settings → Voice and Chat** has **Download** for later. Until then, replies aren't read
+  **Settings → Avatar** has **Download** for later. Until then, replies aren't read
   aloud and Talk and Hands-free say why they wait.
 
 ## Detail and pace

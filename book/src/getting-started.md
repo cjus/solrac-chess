@@ -95,13 +95,31 @@ paint. Some of the deep study tools are only in Solrac for Mac, the full study w
 
 To see what Solrac for Mac adds, visit solrac-chess.com.
 
+### The iPad layout on a computer {#ipad-layout}
+
+If you know Solrac for iPad, you can keep its design on a Mac, Windows or Linux computer:
+choose **iPad** under **Layout** on Settings' **Environment** page, **User Interface** tab,, and Solrac uses it the next time
+it starts. Nothing is taken away: the iPad layout has every feature of your computer's Solrac,
+and your keyboard shortcuts all work. It only moves the menu bar's commands:
+
+- **Actions**, at the top of the menus on the left, has the Game menu's commands and the View
+  menu's: Lock Camera, Reset Camera and Zoom to Fit, Show Labels, Show Panel, Larger Text and
+  Smaller Text, and the Environment list.
+- The menus have the Opening Explorer, **Documentation** (cb2026's book, in your browser) under
+  Solrac Help, and **Quit Solrac** at the bottom.
+- Engine Thinking and Engine Mind are on the inspector's **Engine** tab, and the Settings menu's
+  toggles are on Settings' pages.
+
+It is the iPad's design only: a computer has no on-screen keyboard, and you use the mouse and
+keyboard as before. To go back, choose **Computer** under **Layout**.
+
 ## The voice on an iPad
 
 On an iPad, the first time you start Solrac it asks whether to download its voice (about
 830 MB, once), which reads replies aloud and hears what you say. It needs about 2 GB of free
 space while it unpacks. Choose **Download** and it shows on the loading screen with the usual
 **Continue** button. Choose **Not now** to type instead: Solrac doesn't ask again, and
-**Settings → Voice and Chat** has **Download** when you want it. See
+**Settings → Avatar** has **Download** when you want it. See
 [The chat and voice](chat-and-voice.md).
 
 ## Chess puzzles

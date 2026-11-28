@@ -73,6 +73,10 @@ computer on your network, give its address in **Address**: it must start with `h
 `https://`, with no user, password or `?` in it. Traffic to another computer on a network
 isn't encrypted unless the address is `https://`.
 
+Reasoning models (Qwen 3, DeepSeek R1, gpt-oss and others) think before they answer. Solrac
+shows and reads only the answer: their thinking never appears in the chat. A model that runs
+out of room while thinking gives no answer; ask again, or load a model with a larger context.
+
 ## What is sent, and your consent
 
 Before your first message to a provider, Solrac tells you where the chat goes and asks you to
