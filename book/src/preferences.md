@@ -76,7 +76,7 @@ Two columns: **Board**, and **Chess clock** (3D board only). With the 2D board, 
 Notebook, a note at the top of the page says what it leaves out and that it comes back on the
 3D board.
 
-- **Main view**: **Automatic**, **3D board** (the photographic board and pieces), **2D board**
+- **Main view**: **Automatic**, **3D board** (the photographic board and pieces, the choice to start), **2D board**
   (a large flat board, see [Playing a game](playing.md)), **Notebook** (the board and pieces
   drawn in ink on parchment, as a page of an inventor's notebook) or **Floating board** (the
   board afloat in a daytime sky, as an optical illusion: Solrac's pieces hang beneath it and
@@ -91,7 +91,7 @@ Notebook, a note at the top of the page says what it leaves out and that it come
   shimmers as a hand-drawn film does. Off to start.
 - **Notes and sketches** (Notebook): the inventor's written notes and drafted studies round the
   board. Turn them off for a clean sheet with only the board. On to start.
-- **Chess set** (3D board, Notebook and Floating board): **Classic wood**, **Ebony + maple** or **Medieval pewter**, each
+- **Chess set** (3D board, Notebook and Floating board): **Classic wood** (to start), **Ebony + maple** or **Medieval pewter**, each
   its pieces on its own board. **Medieval pewter** is a set of cast figures (a king with his
   sword, a queen, a bishop with his crozier, an armoured warhorse and a brick tower) in
   polished and blackened pewter on oak. Hover a set to read what it is made of.
@@ -156,8 +156,8 @@ board's **Background** is on Chess Set.
 
 ![Settings, Environment's Scene tab](images/preferences-environment.png)
 
-**Environment**: what surrounds the board. The list holds **None**, **Room paint** (the choice
-to start), **Slate**, **Gray slate**, **Violet nebula**, **Blue nebula**, **Clouds at sunset**
+**Environment**: what surrounds the board. The list holds **None** (the choice to start: plain
+grey, with the floor running out to it), **Room paint**, **Slate**, **Gray slate**, **Violet nebula**, **Blue nebula**, **Clouds at sunset**
 and **Clouds at night**. A spinner shows while a sky is being painted. The View menu has the
 same list under **Environment**.
 
@@ -189,13 +189,13 @@ the board moves or not.
 
 ### Table and floor {#table-and-floor}
 
-- **Table**: what the board stands on. **None** (to start) leaves it on its backdrop; or one of
-  four tables, each with its own edge and wood: **Farmhouse oak** (a thick white-oak top glued
-  from wide boards, square edged), **Mid-century walnut** (one walnut panel, its edge undercut
-  so it looks thin, on splayed legs), **Library mahogany** (a moulded ogee edge) and **Café
+- **Table**: what the board stands on. **None** leaves it on its backdrop; or one of four
+  tables, each with its own edge and wood: **Farmhouse oak** (a thick white-oak top glued from
+  wide boards, square edged), **Mid-century walnut** (one walnut panel, its edge undercut so it
+  looks thin, on splayed legs; the table to start), **Library mahogany** (a moulded ogee edge) and **Café
   ash** (pale ash with a rounded bullnose edge and big rounded corners). The table sits under
   whichever board you choose.
-- **Floor**: the wood floor under the table: **None** (to start), **Oak planks**, **Smoked
+- **Floor**: the wood floor under the table: **None**, **Oak planks** (to start), **Smoked
   oak**, **Herringbone** or **Walnut planks**. It runs out to the horizon, a little darker far
   away, as a room's floor does. The tables are large and square, so from a player's seat the
   board is surrounded by table: the floor shows past the table's edge when you turn the camera

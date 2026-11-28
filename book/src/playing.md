@@ -213,8 +213,9 @@ of the menus on the left, and it shows the board a tap takes you to: a grid on t
 cube on the 2D one. **Zoom to Fit** is in **Actions**, on the 3D board.
 **Settings → Chess Set → Main view → 2D board** does the same, and Solrac remembers either. The 2D board fills the window with a large flat board instead
 of the 3D one, and nothing of the 3D scene is
-drawn, which is much lighter on the computer. **Automatic**, the default, chooses it for you on
-a computer with a weak graphics card (see [On a slower computer](slow-computers.md)).
+drawn, which is much lighter on the computer. Solrac starts on the 3D board; **Automatic**
+chooses the 2D board for you on a computer with a weak graphics card (see
+[On a slower computer](slow-computers.md)).
 
 ![The 2D board](images/board-2d.png)
 
