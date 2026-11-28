@@ -121,8 +121,10 @@ Solrac thinks." The same slider is in **Settings → Game**.
 
 - **Take back** (the first button in the panel's game row) undoes your last move. Against Solrac
   it undoes two moves, Solrac's reply and yours, so it is your turn again; between two people it
-  undoes one. A clock goes back to the time it showed. It is greyed when there is no move of
-  yours to take back, in a game loaded to look at, and in a Watch game. **Settings → Game →
+  undoes one. The pieces go back as a hand puts them back, the last move first: a captured
+  piece returns from beside the board to its square, castling's rook and king go back, and a
+  promoted piece is a pawn again. A clock goes back to the time it showed. It is greyed when
+  there is no move of yours to take back, in a game loaded to look at, and in a Watch game. **Settings → Game →
   Allow takebacks against Solrac** switches it off against Solrac, "like a rated game".
 - **Move now** ends Solrac's search and plays its best move so far. It is lit only while Solrac is
   thinking.
