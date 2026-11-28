@@ -113,8 +113,10 @@ Notebook, a note at the top of the page says what it leaves out and that it come
   height: **Terraced** (maple and ebony blocks falling in steps from a8 down to h1) and
   **Wooden posts** (maple and walnut posts in a walnut tray, a ridge from a8 to h1 falling to
   a1 and h8). The pieces stand on their squares' tops and are lifted over the steps as they
-  move, and the camera looks at the middle of the board's height, so all of it fits. The
-  Notebook draws the pieces on its flat board as usual, and the Floating board draws a
+  move, and the camera looks at the middle of the board's height, so all of it fits. In a
+  game with a clock, the clock stands beside a stepped board on a wooden column, in the
+  board's own woods, which lifts it halfway up the squares so the tall blocks don't hide
+  it. The Notebook draws the pieces on its flat board as usual, and the Floating board draws a
   stepped board thin, its steps with it.
 
   ![The Terraced and Wooden posts boards](images/stepped-boards.png)

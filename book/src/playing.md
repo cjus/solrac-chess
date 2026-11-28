@@ -73,6 +73,8 @@ The panel shows both clocks, White's beside Black's, with who plays each side an
 control. The side whose time is running is lit, and a time below ten seconds turns red and shows
 tenths. The 3D clock on the table shows the same times, with a lamp on the running side and a
 flag that falls at 0:00. It takes no clicks. You can also move it with **Settings → Clock Position**.
+Beside the Terraced and Wooden posts boards, whose squares stand tall, the clock stands on a
+wooden column that lifts it halfway up the squares, so you can see it over them.
 On the 2D board there is no 3D clock; the panel's clocks are the clocks. In the Notebook, two
 sketched analog dials stand in for it (see [The Notebook](#the-notebook)).
 
