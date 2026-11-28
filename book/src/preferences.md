@@ -127,9 +127,13 @@ Notebook, a note at the top of the page says what it leaves out and that it come
   dark squares' colour is also the colour of the border round the board.
 - **Show board coordinates**: the letters a–h and figures 1–8 round the board, on both boards,
   on to start. The **L** key and the panel's labels button switch them too.
-- **Chess clock** (3D board): the colour of the clock's shell. Pick it from the colour picker,
-  or click a swatch: **Original black** (the usual one), **Cognac** or **Burgundy**. **Reset**
-  appears once you change it.
+- **Style** (3D board): which chess clock stands beside the board in a game with a clock.
+  **Digital** is the usual one. **Analog** is a wooden clock with two dials, whose hands, flags
+  and buttons follow the game (see [Playing a game](playing.md)).
+- **Chess clock** (3D board, the digital clock): the colour of the clock's shell. Pick it from
+  the colour picker, or click a swatch: **Original black** (the usual one), **Cognac** or
+  **Burgundy**. **Reset** appears once you change it. The analog clock is its own wood, so the
+  row isn't shown for it.
 - **Position** (3D board): which side of the board the clock stands on, as you see the board
   from White's seat, **Left** or **Right**, Right to start. The menu bar has the same choice
   under **Settings → Clock Position**.
